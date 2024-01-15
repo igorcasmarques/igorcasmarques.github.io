@@ -2,7 +2,7 @@
 id: education
 title: Education
 description: My degrees and certificate
-slug: /education
+slug: education
 sidebar_label: 'Education'
 sidebar_position: 0
 ---

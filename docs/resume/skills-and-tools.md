@@ -9,14 +9,14 @@ sidebar_position: 1
 
 # Skills and Tools
 
-I am a musician by training, but my career now focuses on technical writing. Here are some technical documents I can create:
+Even though I am a musician by training, my career now focuses on technical writing. Here are some technical documents I can create:
 
-- **Reference**: Product documentation, user manuals, white papers, reference guides, wikis
-- **Learning**: Instruction sets, tutorials (text and video), course outlines
-- **Internal comms**: Proposals, reports, project plans, Gantt charts, memos  
-- **Graphical**: Data visualizations (graphs, charts, etc.)
+- **Reference**: Product documentation, user manuals, white papers, [technical descriptions](./technical-description-pencil), reference guides, wikis
+- **Learning**: [Instruction sets](./instruction-set-library), tutorials (text and video), course outlines
+- **Internal communications**: Proposals, reports, project plans, Gantt charts, memos  
+- **Graphical**: [Data visualizations](./category/data-visualizations) (graphs, charts, etc.)
 
-I have skills and knowledge of tools in four areas: [technical writing and editing](#tech-writing); [collaboration and project planning](#collaboration);  [accessibility compliance](#accessibility); and [programming](#programming).
+I have skills and knowledge of tools in four main areas: [technical writing and editing](#tech-writing); [collaboration and project planning](#collaboration);  [accessibility compliance](#accessibility); and [programming](#programming).
 
 ## Technical Writing and Editing {#tech-writing}
 
@@ -24,7 +24,7 @@ I have skills and knowledge of tools in four areas: [technical writing and editi
 - Use plain language and task orientation to create documents from a user-centric perspective
 - Profile audiences, collaborate with subject-matter experts, and conduct research to ensure accuracy and practicality
 - Edit documents authored by myself and others in three levels (comprehensive, copyediting, and proofreading) to produce error-free content
-- **Tools**: MS Office Suite, XML, Markdown, Docusaurus, Adobe InDesign, Adobe Photoshop, Snipping Tool, OBS Studio, WordPress
+- **Tools**: MS Office Suite, MadCap Flare, XML, Markdown, Docusaurus, Adobe InDesign, Adobe Photoshop, Snipping Tool, OBS Studio, WordPress
 - **Languages**: Fluent in English, Spanish, and Portuguese; Advanced French (CCBB)
 
 ## Collaboration and Project Planning {#collaboration}

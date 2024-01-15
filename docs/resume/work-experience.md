@@ -9,7 +9,7 @@ sidebar_position: 3
 
 # Work Experience
 
-I've taught over 30 post-secondary courses in the past decade. Here are some highlights about my experience.
+What I do as a technical writer today owes much to the 30+ college courses I've taught since 2011. Here are some highlights about my career.
 
 ## 2023: College Instructor
 

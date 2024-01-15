@@ -1,9 +1,9 @@
 ---
-id: instruction-set
+id: instruction-set-library
 title: Instruction Set
 description: How to borrow library books
-slug: /instruction-set
-sidebar_label: 'Instruction Set: Library Items'
+slug: /instruction-set-library
+sidebar_label: 'Instruction Set'
 sidebar_position: 0
 ---
 
