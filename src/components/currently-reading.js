@@ -1,10 +1,10 @@
 import React from 'react';
 
 const CurrentRead = {
-  book: 'Wolf Hall',
-  year: '2009',
-  author: 'Hilary Mantel',
-  review: 'Who knew people in the 1500s were so witty?',
+  book: 'Editing Canadian English',
+  year: '3rd ed., 2015',
+  author: 'Editors Canada',
+  review: 'OK, so spelling is an even bigger mess than I thought.',
 };
 
 function CurrentlyReading({book, year, author, review}) {

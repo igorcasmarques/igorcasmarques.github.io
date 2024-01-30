@@ -2,7 +2,7 @@
 id: references
 title: References
 description: People who know me well
-slug: /references
+slug: references
 sidebar_label: 'References'
 sidebar_position: 5
 ---

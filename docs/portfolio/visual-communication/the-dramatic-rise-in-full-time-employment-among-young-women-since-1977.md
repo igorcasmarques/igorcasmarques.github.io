@@ -1,13 +1,13 @@
 ---
-id: chart-redesign-female-employment
-title: Chart Redesign
+id: the-dramatic-rise-in-full-time-employment-among-young-women-since-1977
+title: The Dramatic Rise in Full-Time Employment Among Young Women Since 1977
 description: Female employment in Canada (1977-2022)
-slug: /chart-redesign-female-employment
-sidebar_label: 'Chart Redesign'
+slug: rise-in-female-employment
+sidebar_label: 'Rise in Female Employment'
 sidebar_position: 0
 ---
 
-# Chart Redesign
+# The Dramatic Rise in Full-Time Employment Among Young Women Since 1977
 
 [Download the PDF version](@site/static/portfolio/chart-redesign/chart-redesign.pdf)
 
@@ -28,11 +28,7 @@ Although the article’s audience is the general public, it seems particularly a
 
 Since the original article is ten years old, a redesign of the chart might as well involve the inclusion of more up-to-date data from Statistics Canada[^2] so that the graph’s story can be refined and re-contextualized for our times. This means the original text surrounding Chart 5 also needs to be revised.
 
-## Redesigned Excerpt
-
-The section below contains my updated version of Chart 5 and its surrounding text.
-
-### The Dramatic Rise in Full-Time Employment Among Young Women Since 1977
+## Redesign
 
 In the past 45 years, many events have negatively affected the percentage of young Canadians with full-time jobs: the early 1990s recession, the Global Financial Crisis of 2007-2008, and most recently the COVID pandemic. One group of people, however, has continued to make gains in the Canadian labour force throughout the years in spite of these crises: women aged 25-34 (Chart 5).
 
@@ -44,5 +40,5 @@ The situation has been different for women. Young women aged 15-24 lived through
 
 This performance is more than a mere economic phenomenon and has to do with the many educational and professional advances women in these age groups have made in the past half century as well as evolving norms regarding the role of women in society.
 
-[^1]: D. Galarneau, R. Morissette and J. Usalcas, “Insights on Canadian society: What has changed for young people in Canada?,” Statistics Canada, July 2013. Available: [https://www150.statcan.gc.ca/n1/pub/75-006-x/2013001/article/11847-eng.htm](https://www150.statcan.gc.ca/n1/pub/75-006-x/2013001/article/11847-eng.htm). Accessed: 27 October, 2023..
+[^1]: D. Galarneau, R. Morissette and J. Usalcas, “Insights on Canadian society: What has changed for young people in Canada?,” Statistics Canada, July 2013. Available: [https://www150.statcan.gc.ca/n1/pub/75-006-x/2013001/article/11847-eng.htm](https://www150.statcan.gc.ca/n1/pub/75-006-x/2013001/article/11847-eng.htm). Accessed: 27 October, 2023.
 [^2]: Statistics Canada, “Unemployment rate, participation rate and employment rate by sex, annual,” website. Available: [https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410032702](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410032702). Accessed: 27 October, 2023.

@@ -1,17 +1,15 @@
 ---
-id: instruction-set-library
-title: Instruction Set
+id: borrowing-physical-items
+title: Borrowing Physical Items
 description: How to borrow library books
-slug: /instruction-set-library
-sidebar_label: 'Instruction Set'
-sidebar_position: 0
+slug: borrowing-physical-items
+sidebar_label: 'Borrowing Physical Items'
+sidebar_position: 1
 ---
 
-# Instruction Set
+# Borrowing Physical Items
 
 [Download the PDF version](@site/static/portfolio/instruction-set/instruction-set.pdf)
-
-## Borrowing Physical Items
 
 These instructions will show you how to borrow physical items from the Algonquin College Library. This service is available to anyone with a valid AC Card.
 

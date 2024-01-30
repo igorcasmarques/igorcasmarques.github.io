@@ -1,17 +1,17 @@
 ---
 id: technical-description-pencil
-title: Technical Description
+title: HB Pencil with Eraser
 description: What is an HB pencil with eraser
-slug: /technical-description-pencil
-sidebar_label: 'Technical Description'
-sidebar_position: 2
+slug: hb-pencil-with-eraser
+sidebar_label: 'HB Pencil with Eraser'
+sidebar_position: 0
 ---
 
-# Technical Description
+# HB Pencil with Eraser
 
 [Download the PDF version](@site/static/portfolio/technical-description/technical-description.pdf)
 
-## General Description of an HB Pencil with Eraser
+## General Description
 
 An HB pencil with eraser is a small tube-shaped writing implement with a bit of exposed graphite on one end and a cylindrical rubber on the other. The pencil’s graphite, commonly known as lead, leaves marks on paper that are erasable by the rubber, which is ideal for correcting mistakes on the fly.
 
@@ -25,7 +25,7 @@ HBs also last a long time and can write tens of thousands of words, which transl
 
 However, pencils are not always appropriate. They do not work on glass, ceramic, or plastic. Likewise, pencils are not suitable for situations that require permanent written marks, like signatures on legal documents, because the erasable pencil marks tend to fade over time.
 
-## Part-by-Part Breakdown of an HB Pencil with Eraser
+## Part-by-Part Breakdown
 
 An HB pencil with eraser is comprised of two major parts: [(1) the body](#body) and [(2) the eraser](#eraser).
 

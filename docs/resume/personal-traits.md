@@ -2,14 +2,14 @@
 id: personal-traits
 title: Personal Traits
 description: My personality and values
-slug: /personal-traits
+slug: personal-traits
 sidebar_label: 'Personal Traits'
 sidebar_position: 2
 ---
 
 # Personal Traits
 
-In the 20 years and many positions I've had since my first job at a used record store, I've learned to:
+I landed my very first job as a teenager at a [used record store](https://www.instagram.com/Savarinmusic/). In the 20 years and several other roles since, I've learned to:
 
 - Communicate effectively with people of diverse backgrounds and ages
 - Adapt quickly to new tools, processes, and evolving priorities

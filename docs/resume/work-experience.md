@@ -2,14 +2,14 @@
 id: work-experience
 title: Work Experience
 description: My past employers
-slug: /work-experience
+slug: work-experience
 sidebar_label: 'Work Experience'
 sidebar_position: 3
 ---
 
 # Work Experience
 
-What I do as a technical writer today owes much to the 30+ college courses I've taught since 2011. Here are some highlights about my career.
+What I do as a technical writer today owes much to the 30+ college courses I've taught since 2011. Here are some highlights about my career in the past decade.
 
 ## 2023: College Instructor
 
