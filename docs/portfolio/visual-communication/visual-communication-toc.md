@@ -9,5 +9,5 @@ slug: intro
 
 Choose an example below to continue.
 
-1. [The Dramatic Rise in Full-Time Employment Among Young Women Since 1977](./portfolio/visual-communication/rise-in-female-employment)
-1. [Dental Anxiety and Fear in Canada](./portfolio/visual-communication/dental-anxiety-and-fear-in-canada)
+1. [The Dramatic Rise in Full-Time Employment Among Young Women Since 1977](./rise-in-female-employment)
+1. [Dental Anxiety and Fear in Canada](./dental-anxiety-and-fear-in-canada)

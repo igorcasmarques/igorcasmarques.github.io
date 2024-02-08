@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Igor Coelho A. S. Marques',
-  tagline: 'Committed to equalizing access to knowledge and tools',
+  tagline: 'Committed to equalizing access to information and tools',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

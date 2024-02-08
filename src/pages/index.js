@@ -43,7 +43,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="The personal website of Igor Coelho A. S. Marques, an Ottawa-based technical writer, programmer, and musician.">
+      description="The personal website of Igor Coelho A. S. Marques, a technical writer, programmer, and musician from Ottawa, Canada.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

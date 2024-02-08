@@ -1,15 +1,15 @@
 ---
 id: technical-description-pencil
 title: HB Pencil with Eraser
-description: What is an HB pencil with eraser
+description: Technical definition of an HB pencil with eraser
 slug: hb-pencil-with-eraser
 sidebar_label: 'HB Pencil with Eraser'
-sidebar_position: 0
+sidebar_position: 1
 ---
 
 # HB Pencil with Eraser
 
-[Download the PDF version](@site/static/portfolio/technical-description/technical-description.pdf)
+[Download the PDF version](@site/static/portfolio/technical-writing/hb-pencil-with-eraser.pdf)
 
 ## General Description
 

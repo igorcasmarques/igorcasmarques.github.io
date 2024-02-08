@@ -9,7 +9,7 @@ slug: intro
 
 Thank you for visiting my website!
 
-Choose a section below to learn more about me.
+I'm a technical writer and I live in Ottawa, Canada. Choose a section below to learn more about me.
 
 1. [Education](./education)
 1. [Skills and Tools](./skills-and-tools)
