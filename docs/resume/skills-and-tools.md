@@ -11,9 +11,9 @@ sidebar_position: 1
 
 Here's an overview of the technical content I create:
 
-- **Reference**: Product documentation, user manuals, white papers, [technical descriptions](../portfolio/hb-pencil-with-eraser), reference guides, FAQs, wikis
-- **Learning**: [Instruction sets](../portfolio/borrowing-physical-items), tutorials (text and video), course outlines
-- **Internal documents**: Proposals, reports, project plans, Gantt charts, memos  
+- **Reference**: Product documentation, user manuals, [white papers](../portfolio/technical-writing/strata-g-matrix-system), [technical descriptions](../portfolio/technical-writing/hb-pencil-with-eraser), reference guides, FAQs, wikis
+- **Learning**: [Instruction sets](../portfolio/instructional-design/borrowing-physical-items), tutorials (text and [video](https://www.youtube.com/@musictheory1017/videos)), [course outlines](https://kb.osu.edu/items/a22af78d-7425-4075-8240-b4d6845e30b0)
+- **Internal documents**: [Proposals](../portfolio/technical-writing/minimizing-turnover-disruptions), reports, project plans, Gantt charts, memos  
 - **Visual work**: [Data visualizations](../portfolio/visual-communication/intro) (graphs, charts, etc.), screenshots and screen recordings, webcam presentations
 
 I've organized my skills and tools below in four areas: [technical writing and editing](#technical-writing-and-editing); [collaboration and project planning](#collaboration-and-project-planning);  [accessibility compliance](#accessibility-compliance); and [programming](#programming). 

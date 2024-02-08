@@ -22,7 +22,7 @@ These documents rely on top-down structuring and task orientation to provide rea
 | Title | Summary | Main Skills |
 |-------|---------|-------------|
 | [Strata-G&trade; Sectional Matrix System](./technical-writing/strata-g-matrix-system) | **White paper** made with Word and Excel to persuade dental practitioners to use Strata-G&trade; in restorations. | Persuasive technical writing, profiling audiences, and data visualizations. |
-| [HB Pencil with Eraser](./technical-writing/hb-pencil-with-eraser) | **Technical definition** made with Word and Photoshop to describe an HB pencil eraser and its parts in detail. | Informative technical writing, task orientation, and command of top-down structure. |  
+| [HB Pencil with Eraser](./technical-writing/hb-pencil-with-eraser) | **Technical description** made with Word and Photoshop to describe an HB pencil eraser and its parts in detail. | Informative technical writing, task orientation, and command of top-down structure. |  
 | [Minimizing Turnover Disruptions in a Dental Practice with easyclinic](./technical-writing/minimizing-turnover-disruptions) | **Proposal** made with Word, Excel, and Photoshop to encourage a dental practice to adopt a new app to increase productivity. | Persuasive technical writing, interviewing subject matter experts, and use of tables and illustrations. |
 | [Industry Canada Style Guide Analysis](./technical-writing/industry-canada-style-analysis) | **Analysis** made with Word to familiarize the reader with Industry Canada's style guide. | Informative technical writing, familiarity with industry standards, and critical thinking. |  
 
@@ -32,7 +32,7 @@ These samples demonstrate my ability to create materials that empower learners t
 
 | Title | Summary | Main Skills |
 |-------|---------|-------------|
-| [Borrowing Physical Items](./borrowing-physical-items) | **Instruction set** made with Word, a camera, and Photoshop to show Algonquin College students how to check out items from the library. | Instructional technical writing, task orientation, and image editing. |
+| [Borrowing Physical Items](./instructional-design/borrowing-physical-items) | **Instruction set** made with Word, a camera, and Photoshop to show Algonquin College students how to check out items from the library. | Instructional technical writing, task orientation, and image editing. |
 | [Music Theory 101](https://www.youtube.com/@musictheory1017/videos) | **Video tutorials** made with PowerPoint to teach an introductory music theory course to YouTube users. | Instructional technical writing, university-level teaching, and live presentation. |  
 | ["This Class Was Highly Useless": Reformulating an Unpopular Music Theory Course for Non-Music Majors](https://ojs.library.osu.edu/index.php/engagingstudents/article/view/7694/6331) | **Essay** made with Word and peer-reviewed with Google Docs to recount the process of overhauling a university course. | Academic writing, academic research, and critical thinking. |  
 
@@ -40,7 +40,9 @@ These samples demonstrate my ability to create materials that empower learners t
 
 | Title | Summary | Main Skills |
 |-------|---------|-------------|
-| Jet Lag (Turkish Airlines) | **Soft copy edit** made with Track Changes in Word to improve the quality of an [information sheet](https://web.archive.org/web/20160521012916/http:/www.turkishairlines.com/en-int/travel-information/frequently-asked-questions/flight-and-health/other-situations). | Copyediting, Canadianization, and stylistic control. |  
+| [Jet Lag (Turkish Airlines)](./editing/jet-lag-edit) | **Soft copy edit** made with Track Changes in Word to improve the quality of an [information sheet](https://web.archive.org/web/20160521012916/http:/www.turkishairlines.com/en-int/travel-information/frequently-asked-questions/flight-and-health/other-situations). | Copyediting, Canadianization, and stylistic control. |
+| Ruido [Vol. 1 (2021)](https://www.academia.edu/81092863/Ruido_Revista_de_ensayos_musicales_vol_1_), [Vol. 2 (2022)](https://www.academia.edu/86200138/Ruido_Revista_de_ensayos_musicales_vol_2_) | **Journal of academic essays** by undergraduate students majoring in music. | Production editing, proofreading, and academic research. | 
+
 
 ## Visual Communication
 
