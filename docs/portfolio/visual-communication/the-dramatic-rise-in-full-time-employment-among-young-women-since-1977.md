@@ -9,24 +9,11 @@ sidebar_position: 0
 
 # The Dramatic Rise in Full-Time Employment Among Young Women Since 1977
 
-[Download the PDF version](@site/static/portfolio/chart-redesign/chart-redesign.pdf)
+[Download the full PDF](@site/static/portfolio/chart-redesign/chart-redesign.pdf)
 
-## Redesign Target
+## Target
 
 ![Excerpt of a 2013 document by Statistics Canada highlighting the decline in full-time employment amoung young people in the 1980s and 1990s with text and a bar chart](@site/static/portfolio/chart-redesign/redesign-target.png)
-
-
-## Rhetorical Situation
-
-The excerpt above that includes Chart 5 appeared in a 2013 article by Statistics Canada. This article aimed to provide a “brief portrait” of the employment situation of younger Canadians and highlight how life for them was “very different than it was for their parents at their age”.[^1]
-
-Broadly, the article’s conclusion is that the employment situation is better for young women and worse for young men than it had been 36 years earlier. To reach this conclusion, the article drew from the Labour Force Survey and a few other data sources and presented explan¬atory analyses with a mix of text, charts, and tables.
-
-Although the article’s audience is the general public, it seems particularly applicable for people engaged in shaping and making policy.
-
-## Data Update
-
-Since the original article is ten years old, a redesign of the chart might as well involve the inclusion of more up-to-date data from Statistics Canada[^2] so that the graph’s story can be refined and re-contextualized for our times. This means the original text surrounding Chart 5 also needs to be revised.
 
 ## Redesign
 
