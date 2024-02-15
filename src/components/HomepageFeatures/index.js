@@ -1,6 +1,7 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import CurrentlyReading from '../currently-reading';
 
 const FeatureList = [
   {
@@ -54,6 +55,9 @@ export default function HomepageFeatures() {
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
+        </div>
+        <div className="row">
+          <CurrentlyReading />
         </div>
       </div>
     </section>

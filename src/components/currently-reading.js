@@ -4,7 +4,7 @@ const CurrentRead = {
   book: 'Editing Canadian English',
   year: '3rd ed., 2015',
   author: 'Editors Canada',
-  review: 'OK, so spelling is an even bigger mess than I thought.',
+  review: 'Oh, so that\'s the difference between acronyms and initialisms...',
 };
 
 function CurrentlyReading({book, year, author, review}) {

@@ -51,7 +51,7 @@ These examples leverage graphic and textual elements to maximize the impact and 
 | Title | Summary | Main Skills |
 |-------|---------|-------------|
 | [The Dramatic Rise in Full-Time Employment Among Young Women Since 1977](./visual-communication/rise-in-female-employment) | **Chart redesign** made with Word and Excel to transform a bar chart into a line graph so historical trends are easier to see. | Data visualization, statistics, and technical research. |   
-| Aries Contracting | **Web design consulting** video made with Zoom and HTML/CSS to explain the shortcomings in [Aries Contracting's website](https://www.ariescontracting.com/). | Video conferencing, web design, and collaborative work. |  
+| [Aries Contracting](https://www.youtube.com/watch?v=hxfuE5T9-hQ) | **Web design consulting** video made with Zoom and HTML/CSS to explain the shortcomings in [Aries Contracting's website](https://www.ariescontracting.com/). | Video conferencing, web design, and collaborative work. |  
 | Matrix System Price Comparison | **Line graph** made with Excel to show how Strata-G&trade; is worth its initial investment in comparison with other matrix systems. | Data visualization, price estimation, and persuasive technical writing. | 
 | [Dental Anxiety and Fear in Canada](./visual-communication/dental-anxiety-and-fear-in-canada) | **Waffle graph** made with Excel to show how common dental anxiety is in Canada. | Data visualization, statistics, and academic research. | 
 

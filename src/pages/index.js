@@ -48,7 +48,6 @@ export default function Home() {
       <main>
         <HomepageFeatures />
       </main>
-      <CurrentlyReading />
     </Layout>
   );
 }

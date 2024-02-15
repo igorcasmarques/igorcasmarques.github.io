@@ -43,7 +43,12 @@ const config = {
           sidebarPath: './sidebars.js',
         },
         blog: {
+          blogTitle: 'Igor\'s micro-blog',
+          blogDescription: 'Micro-blog with casual entries about the use of technical writing in Ottawa, Canada.',
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
           showReadingTime: true,
+          routeBasePath: 'micro-blog',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -64,7 +69,12 @@ const config = {
         title: 'Home',
         items: [
           {
-            href: 'mailto:coel0008@algonquinlive.com',
+            to: 'micro-blog',
+            label: 'Micro-blog',
+            position: 'left'
+          },
+          {
+            href: 'mailto:coelhoigor@gmail.com',
             label: 'Email',
             position: 'right',
           },
