@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[9650],{6914:e=>{e.exports=JSON.parse('{"label":"subject-verb agreement","permalink":"/micro-blog/tags/subject-verb-agreement","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);

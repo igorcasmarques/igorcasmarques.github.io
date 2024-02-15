@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Igor Coelho A. S. Marques Blog</title>
+        <link>https://igorcasmarques.github.io/micro-blog</link>
+        <description>Igor Coelho A. S. Marques Blog</description>
+        <lastBuildDate>Wed, 14 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Typo?]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/typo-question-mark</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/typo-question-mark</guid>
+            <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Depends who you ask.]]></description>
+            <content:encoded><![CDATA[<p>Who is going to tell Gr... actually, hold on.</p>
+<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4D22AQEjOLwpN_-wYg/feedshare-shrink_800/0/1707924425732?e=1710979200&amp;v=beta&amp;t=7aF5PI1-6VUZ1Qg8xhEy9cf9JZMjZ1-jD-iUWgnmmVQ" alt="A sign says that &quot;the premises is under 24-hour surveillance." class="img_ev3q"></p>
+<p>"Premises" is a plural noun, so it should be "The premises are under ... surveillance." At least that's what my dictionaries tell me. So, there! Fix your sign! Right?</p>
+<p>Actually, there seems to be a growing trend of using "premises" as a singular noun in North America. Like a fancy synonym for "building" or "property." Particularly in insurance-speak.</p>
+<p>Check out this <a href="https://www.squareone.ca/resource-centres/insurance-glossary/premises" target="_blank" rel="noopener noreferrer">definition by Square One</a>, an insurance brokerage operating in several provinces.</p>
+<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4D22AQFn1aRJh8eTqw/feedshare-shrink_800/0/1707924424011?e=1710979200&amp;v=beta&amp;t=3Jh1V2Vcs-qbCs2EK74cBKUJYu3KALVVVR36yA3FQYM" alt="Square One uses &quot;premises&quot; as a singular countable noun, i.e., &quot;a premises.&quot;" class="img_ev3q"></p>
+<p>What was that about the mote and the beam...</p>]]></content:encoded>
+            <category>technical writing</category>
+            <category>language</category>
+            <category>subject-verb agreement</category>
+        </item>
+        <item>
+            <title><![CDATA[Say quoi 2]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/say-quoi-2</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/say-quoi-2</guid>
+            <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Franchement, Québec ...]]></description>
+            <content:encoded><![CDATA[<p>Je t'aime, <a href="https://www.linkedin.com/company/ministere-des-transports-du-quebec" target="_blank" rel="noopener noreferrer">MTMD</a>, but must you really use the picture of a child that is wounded (or worse) to convince me to slow down? And then tell me the child is « peut-être » mine?</p>
+<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQFZbKi2iFc66g/feedshare-shrink_2048_1536/0/1707797864099?e=1710979200&amp;v=beta&amp;t=WcBP8d9Xu6yWuOgVbFDSIEVbjl7wxMrZcL2iuN2Vne8" alt="A bilingual sign asking drivers to slow down depicts a child, laying down and hurt." class="img_ev3q"></p>
+<p>Talk about 𝑔𝑟𝑎𝑝ℎ𝑖𝑐 design.</p>
+<p>Seen near Alleyn-et-Cawood, QC.</p>]]></content:encoded>
+            <category>outaouais</category>
+            <category>traffic sign</category>
+            <category>technical writing</category>
+        </item>
+        <item>
+            <title><![CDATA[Typo 3]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/typo-3</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/typo-3</guid>
+            <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ordinal numbers are hard.]]></description>
+            <content:encoded><![CDATA[<p>Who is going to tell <a href="https://www.linkedin.com/company/intelcom-" target="_blank" rel="noopener noreferrer">Intelcom</a>?</p>
+<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQHHSJnTfPcvhw/feedshare-shrink_800/0/1707693101339?e=1710979200&amp;v=beta&amp;t=qCV_yk6l6NRLQniMoWb5OJoZWN79xqSBwuZDA4Wv-H8" alt="An email from Intelcom confirms a pickup date as February &quot;12nd.&quot;" class="img_ev3q"></p>
+<p>Here's how I imagine their code:</p>
+<div class="language-python codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-python codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token keyword" style="color:rgb(189, 147, 249);font-style:italic">def</span><span class="token plain"> </span><span class="token function" style="color:rgb(80, 250, 123)">pickup_date</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token plain">month</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"> day</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"> year</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">  last_digit </span><span class="token operator">=</span><span class="token plain"> </span><span class="token builtin" style="color:rgb(189, 147, 249)">str</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token plain">day</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token punctuation" style="color:rgb(248, 248, 242)">[</span><span class="token operator">-</span><span class="token number">1</span><span class="token punctuation" style="color:rgb(248, 248, 242)">]</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">  suffixes </span><span class="token operator">=</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token string" style="color:rgb(255, 121, 198)">'1'</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">'st'</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">'2'</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">'nd'</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">'3'</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">'rd'</span><span class="token punctuation" style="color:rgb(248, 248, 242)">}</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">  suffix </span><span class="token operator">=</span><span class="token plain"> suffixes</span><span class="token punctuation" style="color:rgb(248, 248, 242)">.</span><span class="token plain">get</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token plain">last_digit</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">'th'</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain"> </span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">  </span><span class="token keyword" style="color:rgb(189, 147, 249);font-style:italic">return</span><span class="token plain"> </span><span class="token string-interpolation string" style="color:rgb(255, 121, 198)">f'</span><span class="token string-interpolation interpolation punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token string-interpolation interpolation">month</span><span class="token string-interpolation interpolation punctuation" style="color:rgb(248, 248, 242)">}</span><span class="token string-interpolation string" style="color:rgb(255, 121, 198)"> </span><span class="token string-interpolation interpolation punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token string-interpolation interpolation">day</span><span class="token string-interpolation interpolation punctuation" style="color:rgb(248, 248, 242)">}</span><span class="token string-interpolation interpolation punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token string-interpolation interpolation">suffix</span><span class="token string-interpolation interpolation punctuation" style="color:rgb(248, 248, 242)">}</span><span class="token string-interpolation string" style="color:rgb(255, 121, 198)"> </span><span class="token string-interpolation interpolation punctuation" style="color:rgb(248, 248, 242)">{</span><span class="token string-interpolation interpolation">year</span><span class="token string-interpolation interpolation punctuation" style="color:rgb(248, 248, 242)">}</span><span class="token string-interpolation string" style="color:rgb(255, 121, 198)">'</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>If only they added this before the return statement...</p>
+<div class="language-python codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-python codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">  exceptions </span><span class="token operator">=</span><span class="token plain"> </span><span class="token punctuation" style="color:rgb(248, 248, 242)">[</span><span class="token string" style="color:rgb(255, 121, 198)">'11'</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">'12'</span><span class="token punctuation" style="color:rgb(248, 248, 242)">,</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">'13'</span><span class="token punctuation" style="color:rgb(248, 248, 242)">]</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">  </span><span class="token keyword" style="color:rgb(189, 147, 249);font-style:italic">for</span><span class="token plain"> exception </span><span class="token keyword" style="color:rgb(189, 147, 249);font-style:italic">in</span><span class="token plain"> exceptions</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">    </span><span class="token keyword" style="color:rgb(189, 147, 249);font-style:italic">if</span><span class="token plain"> </span><span class="token builtin" style="color:rgb(189, 147, 249)">str</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token plain">day</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token punctuation" style="color:rgb(248, 248, 242)">.</span><span class="token plain">endswith</span><span class="token punctuation" style="color:rgb(248, 248, 242)">(</span><span class="token plain">exception</span><span class="token punctuation" style="color:rgb(248, 248, 242)">)</span><span class="token punctuation" style="color:rgb(248, 248, 242)">:</span><span class="token plain"></span><br></span><span class="token-line" style="color:#F8F8F2"><span class="token plain">      suffix </span><span class="token operator">=</span><span class="token plain"> </span><span class="token string" style="color:rgb(255, 121, 198)">'th'</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>...no issues. Intelcom, I'll be emailing you my invoice tomorrow, February 13rd.</p>]]></content:encoded>
+            <category>technical writing</category>
+            <category>typo</category>
+            <category>qa</category>
+        </item>
+        <item>
+            <title><![CDATA[Say quoi 1]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/say-quoi-1</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/say-quoi-1</guid>
+            <pubDate>Sat, 10 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[No lay up.]]></description>
+            <content:encoded><![CDATA[<p>This sign at Nepean Woods station told me I shouldn't "lay up," which I didn't understand, so I turned to the French: « Pas d'attente ». No waiting?! Isn't waiting the « raison d'être » of a bus station?</p>
+<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQFAecNNRaLT1g/feedshare-shrink_800/0/1707490732510?e=1710979200&amp;v=beta&amp;t=umcThxP-LEjg18z7kDL4iPd0NtAsZ1748w-Gzza8Srk" alt="A sign on Nepean Woods stations says &quot;no layup.&quot;" class="img_ev3q"></p>
+<p>Turns out the sign wasn't for us, passengers, but for bus drivers. A holdover from nautical terminology, layups are where bus operators can stop their bus and wait until they have to start their next trip. I guess using a French nautical term would've been too esoteric, so they went with the generic « pas d'attente » and let context clarify the meaning.</p>
+<p>I love Ottawa's bilingual signage because it reminds me that translation is about context and culture just as it is about language.</p>]]></content:encoded>
+            <category>ottawa</category>
+            <category>octranspo</category>
+            <category>technical writing</category>
+        </item>
+        <item>
+            <title><![CDATA[Typo 2]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/typo-2</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/typo-2</guid>
+            <pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[It's actually "turning."]]></description>
+            <content:encoded><![CDATA[<p>Who is going to tell <a href="https://www.linkedin.com/company/scholastic" target="_blank" rel="noopener noreferrer">Scholastic</a>?</p>
+<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQFVpZcvuO-EQg/feedshare-shrink_800/0/1707355311704?e=1710979200&amp;v=beta&amp;t=kwzSCiwvYoKX2t2pADslu0Fj6vZD1jVLQJ7DXl9S77M" alt="The spine of the latest graphic novel in the Wings of Fire series contains a typo, &quot;turniing&quot; instead of &quot;turning.&quot;" class="img_ev3q"></p>]]></content:encoded>
+            <category>ottawa</category>
+            <category>barrhaven</category>
+            <category>proofreading</category>
+            <category>typo</category>
+        </item>
+        <item>
+            <title><![CDATA[Typo 1]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/typo-1</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/typo-1</guid>
+            <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[It's actually Strandherd Dr.]]></description>
+            <content:encoded><![CDATA[<p>Who is going to tell <a href="https://www.linkedin.com/company/oc-transpo" target="_blank" rel="noopener noreferrer">OC Transpo</a>?</p>
+<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4D22AQGJVm9N2zl_ig/feedshare-shrink_800/0/1707229672201?e=1710979200&amp;v=beta&amp;t=evUFriVhtoxalSZQBFeRLSlMOGukHHZzn5Xoxw0E7AQ" alt="Sign at the Strandherd station contains a glaring typo, displaying Standherd instead" class="img_ev3q"></p>]]></content:encoded>
+            <category>ottawa</category>
+            <category>barrhaven</category>
+            <category>proofreading</category>
+            <category>typo</category>
+            <category>octranspo</category>
+        </item>
+        <item>
+            <title><![CDATA[Ball toss]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/ball-toss</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/ball-toss</guid>
+            <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is my peak.]]></description>
+            <content:encoded><![CDATA[<p>I'm adding this line to my resume:</p>
+<p>"Recognized by the <a href="https://www.linkedin.com/company/eu-canada/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BwS2EpX4HQU%2BhNK17cFT9Uw%3D%3D" target="_blank" rel="noopener noreferrer">Delegation of the European Union to Canada</a> for single-handedly carrying out a target-oriented, high-stakes operation with 100% success rate."</p>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7160002337103638528?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>]]></content:encoded>
+            <category>resume</category>
+            <category>ottawa</category>
+            <category>rideau hall</category>
+        </item>
+        <item>
+            <title><![CDATA[Crossword time lapse]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/crossword-time-lapse</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/crossword-time-lapse</guid>
+            <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[It's not as easy as it looks.]]></description>
+            <content:encoded><![CDATA[<p>Changing careers hasn't been easy, but it helps that one of my favourite pastimes now counts as "professional development."</p>
+<p>Here's a (very low-res) time lapse from a few days ago.</p>
+<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQG9VGL1vVXzwQ/feedshare-shrink_800/0/1706916642073?e=1710979200&amp;v=beta&amp;t=uUgbVXuMiKHO8PL8nqqS_JCjNw50RtgrxtdycVvV7i8" alt="Time lapse of a New York Times crossword puzzle being solved." class="img_ev3q"></p>]]></content:encoded>
+            <category>crossword</category>
+            <category>vocabulary</category>
+        </item>
+        <item>
+            <title><![CDATA[Microsoft David]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/microsoft-david</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/microsoft-david</guid>
+            <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[He helps me.]]></description>
+            <content:encoded><![CDATA[<p>Ever since I became serious about writing, Microsoft David has become my best friend. When I proofread a text, he's there. When I need to read articles, he's there (thanks to his buddy, Pericles).</p>
+<p>I learned how important it is to read copy aloud many years ago when I was a student announcer at <a href="https://www.linkedin.com/company/classical-89" target="_blank" rel="noopener noreferrer">Classical 89</a>. But I have very low stamina for reading text on screens. I've got my display scale at 150%, text size at 120% on top of that, and the "night light" feature always on, but it's still hard.</p>
+<p>Which is why I like Microsoft David so much--no offense, Zira and Mark.</p>
+<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQFEtlbC7z2hJQ/feedshare-shrink_800/0/1706798665616?e=1710979200&amp;v=beta&amp;t=cuedSxDWyXIWeZ-SIRkFVjp8WndjkQJ0dkqF7t5b4Pc" alt="Screenshot of the Read Aloud function in MS Word, showing a dropdown menu that displays the different voices a user can choose." class="img_ev3q"></p>]]></content:encoded>
+            <category>text to speech</category>
+            <category>editing</category>
+            <category>accessibility</category>
+            <category>proofreading</category>
+        </item>
+        <item>
+            <title><![CDATA[Work can be many things]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/work-clouds</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/work-clouds</guid>
+            <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[But not clouds.]]></description>
+            <content:encoded><![CDATA[<p>Work can be many things. One thing work can't be is "clouds." I mean, atmospheric scientists work very hard to understand clouds. But clouds themselves are not work. They're just masses of water droplets in the air.</p>]]></content:encoded>
+            <category>work</category>
+        </item>
+        <item>
+            <title><![CDATA[Simulated flavour]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/simulated-flavour</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/simulated-flavour</guid>
+            <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[It doesn't taste so good.]]></description>
+            <content:encoded><![CDATA[<p>💊 RED PILL ALERT 💊</p>
+<p>Wake up, sheeple! We live in a simulation! The proof is in your nearby vending machine.</p>
+<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQEnfX-Azeer0w/feedshare-shrink_2048_1536/0/1706540802271?e=1710979200&amp;v=beta&amp;t=2XHFbIusCP1oEk6Ms-oX73uNA-_DrHJ0Y3umwcKzceE" alt="Picture of a bag of Ruffles chips with sour cream flavouring." class="img_ev3q"></p>
+<p>Canadian regulations prohibit food labels to show ingredients that the food does not have. If the label shows the picture of an added flavouring ingredient, then it must clearly state that this ingredient is imitation, artificial or simulated. Each of these words appear in slightly different contexts: imitation is primarily used for aromatic plants (e.g., vanilla); simulated is used for meats and dairy, like the "sour cream" in my chips; and artificial covers pretty much everything else.</p>
+<p>Oh, and how did the chips taste? Let's just say it "didn't escape the Matrix" or anything.</p>]]></content:encoded>
+            <category>technical writing</category>
+            <category>controlled terminology</category>
+            <category>canada</category>
+            <category>food</category>
+        </item>
+        <item>
+            <title><![CDATA[Crossword high]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/crossword-high</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/crossword-high</guid>
+            <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Someone explain this to me.]]></description>
+            <content:encoded><![CDATA[<p>Someone tell me why I get meth-like levels of dopamine release when I see this screen.</p>
+<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQELAQM0fwK92A/feedshare-shrink_2048_1536/0/1706199586178?e=1710979200&amp;v=beta&amp;t=P9rzZBszCTEJZXHMyCAv-wj5zRjolr0j_C9zXQqc8AI" alt="Screenshot of a completed New York Times crossword puzzle." class="img_ev3q"></p>]]></content:encoded>
+            <category>crossword</category>
+            <category>vocabulary</category>
+        </item>
+        <item>
+            <title><![CDATA[Mourning routines]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/mourning-routines</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/mourning-routines</guid>
+            <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[They don't exist.]]></description>
+            <content:encoded><![CDATA[<p>Last week we talked about morning routines. The topic for today is mourning routines.</p>
+<p>As in, they don't exist. Grief is complex and you can't expect one thing to work for everyone every time. Just like mornings.</p>]]></content:encoded>
+            <category>routine</category>
+        </item>
+        <item>
+            <title><![CDATA[Morning routines]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/morning-routines</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/morning-routines</guid>
+            <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Morning routines are important.]]></description>
+            <content:encoded><![CDATA[<p>Morning routines are important. The first part of the day, between 4-7am, is a special time that needs to be leveraged. Here's what I do to maximize these precious hours:</p>
+<ul>
+<li>4am: Sleep</li>
+<li>5am: Sleep</li>
+<li>6am: Sleep</li>
+<li>7am: Sleep</li>
+</ul>]]></content:encoded>
+            <category>work</category>
+            <category>routine</category>
+            <category>morning routine</category>
+        </item>
+        <item>
+            <title><![CDATA[First post]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/first-post</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/first-post</guid>
+            <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Working is hard.]]></description>
+            <content:encoded><![CDATA[<p>Working is hard. Thank goodness I like working. Now working is easy.</p>]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
+            <category>work</category>
+        </item>
+    </channel>
+</rss>
