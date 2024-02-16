@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://igorcasmarques.github.io/micro-blog</id>
     <title>Igor Coelho A. S. Marques Blog</title>
-    <updated>2024-02-14T00:00:00.000Z</updated>
+    <updated>2024-02-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://igorcasmarques.github.io/micro-blog"/>
     <subtitle>Igor Coelho A. S. Marques Blog</subtitle>
     <icon>https://igorcasmarques.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Say quoi 3]]></title>
+        <id>https://igorcasmarques.github.io/micro-blog/say-quoi-3</id>
+        <link href="https://igorcasmarques.github.io/micro-blog/say-quoi-3"/>
+        <updated>2024-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Instructional signs work differently in different languages.]]></summary>
+        <content type="html"><![CDATA[<p>This sign was posted on every single window of the Route 171 bus I rode on yesterday. It aims to keep people from opening the windows but goes about it differently depending on the language.</p>
+<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQFJ_vWX5oPKrg/feedshare-shrink_800/0/1707929891987?e=1710979200&amp;v=beta&amp;t=EphELRj5W0BzCFyrcaTio-BX7-vCcAm5ddjvu9fAmGo" alt="A bilingual sign on a bus that instructs users to keep the windows closed differently depending on the language." class="img_ev3q"></p>
+<p>In English, the command is <strong>positive</strong> ("keep windows closed") and softened by appearing last, after a bit of politeness and the reason we should do it. Likewise, what we should do also appears last in French, but it's a <strong>negative</strong> construction and a subordinate clause of the main impératif (« Aidez-nous »). And no SVP in sight.</p>
+<p>Instructional signs have to balance proper grammar, limited space, and what sounds natural, cordial, and persuasive—things that fluctuate from language to language.</p>]]></content>
+        <author>
+            <name>Igor Coelho A. S. Marques</name>
+            <uri>https://www.linkedin.com/in/icasm</uri>
+        </author>
+        <category label="technical writing" term="technical writing"/>
+        <category label="ottawa" term="ottawa"/>
+        <category label="octranspo" term="octranspo"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Typo?]]></title>
         <id>https://igorcasmarques.github.io/micro-blog/typo-question-mark</id>

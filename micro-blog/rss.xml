@@ -4,10 +4,24 @@
         <title>Igor Coelho A. S. Marques Blog</title>
         <link>https://igorcasmarques.github.io/micro-blog</link>
         <description>Igor Coelho A. S. Marques Blog</description>
-        <lastBuildDate>Wed, 14 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Say quoi 3]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/say-quoi-3</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/say-quoi-3</guid>
+            <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Instructional signs work differently in different languages.]]></description>
+            <content:encoded><![CDATA[<p>This sign was posted on every single window of the Route 171 bus I rode on yesterday. It aims to keep people from opening the windows but goes about it differently depending on the language.</p>
+<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQFJ_vWX5oPKrg/feedshare-shrink_800/0/1707929891987?e=1710979200&amp;v=beta&amp;t=EphELRj5W0BzCFyrcaTio-BX7-vCcAm5ddjvu9fAmGo" alt="A bilingual sign on a bus that instructs users to keep the windows closed differently depending on the language." class="img_ev3q"></p>
+<p>In English, the command is <strong>positive</strong> ("keep windows closed") and softened by appearing last, after a bit of politeness and the reason we should do it. Likewise, what we should do also appears last in French, but it's a <strong>negative</strong> construction and a subordinate clause of the main impératif (« Aidez-nous »). And no SVP in sight.</p>
+<p>Instructional signs have to balance proper grammar, limited space, and what sounds natural, cordial, and persuasive—things that fluctuate from language to language.</p>]]></content:encoded>
+            <category>technical writing</category>
+            <category>ottawa</category>
+            <category>octranspo</category>
+        </item>
         <item>
             <title><![CDATA[Typo?]]></title>
             <link>https://igorcasmarques.github.io/micro-blog/typo-question-mark</link>
