@@ -28,10 +28,11 @@ These documents rely on top-down structuring and task orientation to provide rea
 
 ## Instructional Design
 
-These samples demonstrate my ability to create materials that empower learners to learn and do new things.
+These samples demonstrate my ability to create materials that empower people to learn and do new things.
 
 | Title | Summary | Main Skills |
 |-------|---------|-------------|
+| [Adobe Portfolio: How to Create Your Technical Writer Website](./instructional-design/create-your-technical-writer-website) | **Tutorial** made with Word, Snipping Tool, and Photoshop to instruct technical writers how to use Adobe Portfolio to create websites that showcase their work and experience. | Instructional technical writing, task orientation, and the ADDIE method. | 
 | [Borrowing Physical Items](./instructional-design/borrowing-physical-items) | **Instruction set** made with Word, a camera, and Photoshop to show Algonquin College students how to check out items from the library. | Instructional technical writing, task orientation, and image editing. |
 | [Music Theory 101](https://www.youtube.com/@musictheory1017/videos) | **Video tutorials** made with PowerPoint to teach an introductory music theory course to YouTube users. | Instructional technical writing, university-level teaching, and live presentation. |  
 | ["This Class Was Highly Useless": Reformulating an Unpopular Music Theory Course for Non-Music Majors](https://ojs.library.osu.edu/index.php/engagingstudents/article/view/7694/6331) | **Essay** made with Word and peer-reviewed with Google Docs to recount the process of overhauling a university course. | Academic writing, academic research, and critical thinking. |  

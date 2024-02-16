@@ -23,7 +23,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Composer',
+    title: 'Sound Artist',
     Svg: require('@site/static/img/icon_musician.svg').default,
     description: (
       <>

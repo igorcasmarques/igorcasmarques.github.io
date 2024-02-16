@@ -43,7 +43,7 @@ const config = {
           sidebarPath: './sidebars.js',
         },
         blog: {
-          blogTitle: 'Igor\'s micro-blog',
+          blogTitle: 'Technical Writing Micro-blog',
           blogDescription: 'Micro-blog with casual entries about the use of technical writing in Ottawa, Canada.',
           blogSidebarTitle: 'All posts',
           blogSidebarCount: 'ALL',
@@ -68,6 +68,16 @@ const config = {
       navbar: {
         title: 'Home',
         items: [
+          {
+            to: 'docs/resume/intro',
+            label: 'Resume',
+            position: 'left'
+          },
+          {
+            to: 'docs/portfolio/intro',
+            label: 'Portfolio',
+            position: 'left'
+          },
           {
             to: 'micro-blog',
             label: 'Micro-blog',
