@@ -7,9 +7,9 @@ slug: intro
 
 # Resume
 
-Thank you for visiting my website!
+I'm a technical writer from Ottawa, Canada.
 
-I'm a technical writer from Ottawa, Canada. Choose a section below to learn more about me.
+Choose a section below to learn more about me.
 
 1. [Education](./education)
 1. [Skills and Tools](./skills-and-tools)

@@ -24,7 +24,7 @@ I've organized my skills and tools below in four areas: [technical writing and e
 - Use plain language, task orientation, and terminology management to create crystal-clear documents from a user-centric perspective
 - Profile audiences, collaborate with subject-matter experts, and conduct research to ensure accuracy and practicality
 - Edit documents authored in four levels (proofreading, copyediting, comprehensive, and production) to produce error-free content
-- **Tools**: MS Office Suite, MadCap Flare, XML, Markdown, Docusaurus, Adobe Photoshop, Snipping Tool, OBS Studio, WordPress
+- **Tools**: MS Office Suite, MadCap Flare, XML, Markdown, Docusaurus, Adobe Photoshop, Adobe Captivate, Snipping Tool, OBS Studio, WordPress
 - **Languages**: Fluent in English, Spanish, and Portuguese; Advanced French (CCBB)
 
 ## Collaboration and Project Planning

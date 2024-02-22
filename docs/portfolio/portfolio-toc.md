@@ -7,8 +7,6 @@ slug: intro
 
 # Portfolio
 
-Thank you for taking an interest in my work.
-
 The tables below organize some of my technical content in five areas: [technical writing](#technical-writing), [instructional design](#instructional-design), [editing](#editing), [visual communication](#visual-communication), and [project management](#project-management).
 
 :::info
@@ -17,7 +15,7 @@ This section is under construction. If a document listed below is unavailable, p
 
 ## Technical Writing
 
-These documents rely on top-down structuring and task orientation to provide readers with practical and relevant technical content.
+These documents rely on top-down structuring and task orientation to provide readers with practical and relevant technical information.
 
 | Title | Summary | Main Skills |
 |-------|---------|-------------|
@@ -38,6 +36,8 @@ These samples demonstrate my ability to create materials that empower people to 
 | ["This Class Was Highly Useless": Reformulating an Unpopular Music Theory Course for Non-Music Majors](https://ojs.library.osu.edu/index.php/engagingstudents/article/view/7694/6331) | **Essay** made with Word and peer-reviewed with Google Docs to recount the process of overhauling a university course. | Academic writing, academic research, and critical thinking. |  
 
 ## Editing
+
+As an editor, my job is to elevate the writer and advocate for the reader.  
 
 | Title | Summary | Main Skills |
 |-------|---------|-------------|
