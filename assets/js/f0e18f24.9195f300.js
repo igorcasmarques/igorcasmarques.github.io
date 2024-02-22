@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[5728],{8369:t=>{t.exports=JSON.parse('{"permalink":"/micro-blog/tags/ottawa","page":1,"postsPerPage":10,"totalPages":1,"totalCount":7,"blogDescription":"Micro-blog with casual entries about the use of technical writing in Ottawa, Canada.","blogTitle":"Technical Writing Micro-blog"}')}}]);

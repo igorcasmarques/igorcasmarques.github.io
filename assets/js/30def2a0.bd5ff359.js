@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[4861],{3578:s=>{s.exports=JSON.parse('{"label":"traffic sign","permalink":"/micro-blog/tags/traffic-sign","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);

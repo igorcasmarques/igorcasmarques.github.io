@@ -4,10 +4,42 @@
         <title>Igor Coelho A. S. Marques Blog</title>
         <link>https://igorcasmarques.github.io/micro-blog</link>
         <description>Igor Coelho A. S. Marques Blog</description>
-        <lastBuildDate>Fri, 16 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Typo 4]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/typo-4</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/typo-4</guid>
+            <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[It seems "Standherd" is a common misspelling of Strandherd.]]></description>
+            <content:encoded><![CDATA[<p>I'm not going to be snarky about the <a href="https://www.linkedin.com/company/ottawa-west-community-support/" target="_blank" rel="noopener noreferrer">Ottawa West Community Support</a> because they seem like a truly wonderful organization, but isn't it curious that one of their brochures has the same "Standherd" typo seen on the sign of the <a href="https://www.linkedin.com/company/oc-transpo/" target="_blank" rel="noopener noreferrer">OC Transpo</a> station?</p>
+<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQFUpU1yVLx_aA/feedshare-shrink_800/0/1708525248349?e=1711584000&amp;v=beta&amp;t=-jRHU_-b1naUoGBYWk3COyCk-9mYEqJJtXgyHwFFCVY" alt="A brochure by the Ottawa West Community Support has a mini-map with Strandherd Dr misspelled as &quot;Standherd.&quot;" class="img_ev3q"></p>
+<p>This was discovered by <a href="https://www.linkedin.com/in/christine-croskery-19ba7a158/" target="_blank" rel="noopener noreferrer">Christine Croskery</a>.</p>]]></content:encoded>
+            <category>technical writing</category>
+            <category>ottawa</category>
+            <category>proofreading</category>
+            <category>typo</category>
+        </item>
+        <item>
+            <title><![CDATA[Say quoi 4 (Family Day 2024)]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/say-quoi-4</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/say-quoi-4</guid>
+            <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ottawa does traffic signage different than Québec.]]></description>
+            <content:encoded><![CDATA[<p>Remember that grotesque <a href="https://igorcasmarques.github.io/micro-blog/say-quoi-2">traffic sign from Québec</a> that said « Attention à nos enfants » and depicted a hurt child lying on the ground? Compare it to this one by the <a href="https://www.linkedin.com/company/city-of-ottawa" target="_blank" rel="noopener noreferrer">City of Ottawa</a>:</p>
+<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQFuiyUAuZZywQ/feedshare-shrink_2048_1536/0/1708214563073?e=1711584000&amp;v=beta&amp;t=rNzEDCJ61baV4jlDrhV0D0wlLw0Zmey9EhsXdI_sMnE" alt="A bilingual traffic sign in Ottawa that reads, &quot;Slow down for us,&quot; and depicts silhouettes of children at play." class="img_ev3q"></p>
+<ul>
+<li>Same message → "slow down"</li>
+<li>Same concept → text + picture of children</li>
+<li>Different execution → the children are alive (and having fun)</li>
+</ul>
+<p>Which one is more effective in making drivers slow down and preventing accidents, I wonder ... and if it's the panneau québecois, does the end justify the means?</p>]]></content:encoded>
+            <category>technical writing</category>
+            <category>ottawa</category>
+            <category>traffic sign</category>
+        </item>
         <item>
             <title><![CDATA[Say quoi 3]]></title>
             <link>https://igorcasmarques.github.io/micro-blog/say-quoi-3</link>
