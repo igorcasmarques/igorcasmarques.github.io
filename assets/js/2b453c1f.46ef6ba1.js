@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[2542],{9321:o=>{o.exports=JSON.parse('{"permalink":"/micro-blog/tags/controlled-terminology","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Micro-blog with casual entries about the use of technical writing in Ottawa, Canada.","blogTitle":"Micro-blog"}')}}]);

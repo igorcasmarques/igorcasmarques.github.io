@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[1678],{8392:e=>{e.exports=JSON.parse('{"permalink":"/micro-blog/tags/subject-verb-agreement","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Micro-blog with casual entries about the use of technical writing in Ottawa, Canada.","blogTitle":"Micro-blog"}')}}]);
