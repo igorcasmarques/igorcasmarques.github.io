@@ -3,11 +3,13 @@ id: resume-toc
 title: Resume
 description: Resume - Table of Contents
 slug: intro
+pagination_prev: null
+pagination_label: 'Table of Contents'
 ---
 
 # Resume
 
-I'm a technical writer from Ottawa, Canada.
+I'm a technical writer from Ottawa, Canada. I also love coding and making sound art and music.
 
 Choose a section below to learn more about me.
 

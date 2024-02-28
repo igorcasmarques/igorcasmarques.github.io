@@ -10,7 +10,7 @@ const CurrentRead = {
 function CurrentlyReading({book, year, author, review}) {
   return (
     <div className={('col col--12')}>
-      <div className="text--center">
+      <div className="text--left">
         <p>
           Currently reading: <b>{CurrentRead.book}</b> ({CurrentRead.year}) by {CurrentRead.author}
           <br></br>

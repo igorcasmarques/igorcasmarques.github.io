@@ -43,11 +43,11 @@ const config = {
           sidebarPath: './sidebars.js',
         },
         blog: {
-          blogTitle: 'Technical Writing Micro-blog',
+          blogTitle: 'Micro-blog',
           blogDescription: 'Micro-blog with casual entries about the use of technical writing in Ottawa, Canada.',
           blogSidebarTitle: 'All posts',
           blogSidebarCount: 'ALL',
-          showReadingTime: true,
+          showReadingTime: false,
           routeBasePath: 'micro-blog',
         },
         theme: {
@@ -60,13 +60,24 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      docs: {
+        sidebar: {
+          autoCollapseCategories: true,
+        },
+      },
       colorMode: {
-        defaultMode: 'dark',
+        defaultMode: 'light',
         disableSwitch: true,
-        respectPrefersColorScheme: true,
+        respectPrefersColorScheme: false,
       },
       navbar: {
         title: 'Home',
+        logo: {
+          alt: 'Site logo',
+          src: 'img/logo.png',
+          width: 32,
+          height: 32,
+        },
         items: [
           {
             to: 'docs/resume/intro',
@@ -84,31 +95,31 @@ const config = {
             position: 'left'
           },
           {
-            href: 'mailto:coelhoigor@gmail.com',
+            to: 'mailto:coelhoigor@gmail.com',
             label: 'Email',
-            position: 'right',
+            position: 'right'
           },
           {
-            href: 'https://www.linkedin.com/in/icasm/',
+            to: 'https://www.linkedin.com/in/icasm/',
             label: 'LinkedIn',
-            position: 'right',
+            position: 'right'
           },
           {
-            href: 'https://github.com/igorcasmarques',
+            to: 'https://github.com/igorcasmarques',
             label: 'GitHub',
-            position: 'right',
+            position: 'right'
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         copyright: `Copyright © ${new Date().getFullYear()}. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-      defaultMode: 'dark',
+      defaultMode: 'light',
     }),
 };
 

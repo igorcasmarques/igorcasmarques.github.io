@@ -3,6 +3,8 @@ id: portfolio-toc
 title: Portfolio
 description: Portfolio - Table of Contents
 slug: intro
+pagination_prev: null
+pagination_label: 'Table of Contents'
 ---
 
 # Portfolio
