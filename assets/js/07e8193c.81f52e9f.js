@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[1538],{5635:l=>{l.exports=JSON.parse('{"label":"clickbait","permalink":"/micro-blog/tags/clickbait","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);

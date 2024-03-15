@@ -4,10 +4,116 @@
         <title>Igor Coelho A. S. Marques Blog</title>
         <link>https://igorcasmarques.github.io/micro-blog</link>
         <description>Igor Coelho A. S. Marques Blog</description>
-        <lastBuildDate>Tue, 27 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[9GAG's toxicity 1]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/9gag-toxicity-1</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/9gag-toxicity-1</guid>
+            <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Half of everything on Trending is politically motivated. A lot of it is really bad.]]></description>
+            <content:encoded><![CDATA[<p>I discovered <a href="https://www.linkedin.com/company/9gag" target="_blank" rel="noopener noreferrer">9GAG</a> some 10 years ago. I was a stressed-out new father in grad school, and the site was like an emotional IV for me, each funny meme a drop of serotonin. While the site has always had its bad apples, it was easier to ignore the toxic stuff because the site's political content was not as pervasive or as extreme as it has been since the pandemic.</p>
+<p>I'm a technical writer and the intersection of political memes, propaganda, and technical writing interests me. I'm also a programmer, so I decided to code a dynamic pie chart to try and quantify the unease I feel with political content on <a href="https://www.linkedin.com/company/9gag" target="_blank" rel="noopener noreferrer">9GAG</a>.</p>
+<p>As the GIF below shows, about half of the content on the Trending page has no political agenda, a quarter is (mostly right-wing) political propaganda, and a few posts here and there are outright chauvinistic.</p>
+<img src="https://media.licdn.com/dms/image/D4D22AQHXT9pIEWuIoQ/feedshare-shrink_800/0/1710534042476?e=1713398400&amp;v=beta&amp;t=GwdoAc1JRnZIGZjZHkxh-Gg7kgsP3SxARrpLI4tMbNc" alt="A sped-up screen recording of me browsing 9GAG and categorizing its political content." width="500" height="auto">
+<p>As soon as I fix a few critical bugs in the pie chart app, I'll go down <a href="https://www.linkedin.com/company/9gag" target="_blank" rel="noopener noreferrer">9GAG</a>'s rabbit hole to try and understand its political culture and the people (and bots) behind it.</p>]]></content:encoded>
+            <category>technical writing</category>
+            <category>9gag</category>
+            <category>memes</category>
+            <category>propaganda</category>
+            <category>chauvinism</category>
+        </item>
+        <item>
+            <title><![CDATA[Go downstairs]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/go-downstairs</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/go-downstairs</guid>
+            <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Accuracy + plainness = clarity.]]></description>
+            <content:encoded><![CDATA[<p>Accurate is good. Accurate and plain is much, much better.</p>
+<img src="https://media.licdn.com/dms/image/D4E22AQFTkRLAsaEu6Q/feedshare-shrink_800/0/1710369954418?e=1713398400&amp;v=beta&amp;t=S5dYz6OHyZgtbS5jBMumRw0wHiwxPYSYyH1yFUiHlMk" alt="A sign that instructs people the information of a meet-and-greet for librarians has 'go downstairs' scribbled on it." width="300" height="auto">
+<p>(I'm sure the people who used this sign for wayfinding appreciated the scribbled "Go downstairs".)</p>]]></content:encoded>
+            <category>technical writing</category>
+        </item>
+        <item>
+            <title><![CDATA[International Women's Day 2024]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/iwd-2024</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/iwd-2024</guid>
+            <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Thank you, Gail.]]></description>
+            <content:encoded><![CDATA[<p><a href="https://www.linkedin.com/posts/icasm_nintendo-zelda-iwd2024-activity-7171926966823038976-B-CE?utm_source=share&amp;utm_medium=member_desktop" target="_blank" rel="noopener noreferrer">(See the video here)</a></p>
+<p>This International Women's Day, I'm thinking of <a href="https://www.linkedin.com/in/gail-tilden-a6a3295/" target="_blank" rel="noopener noreferrer">Gail Tilden</a>, who has had a huge impact on my life.</p>
+<p>Gail was the VP of Brand Management at <a href="https://www.linkedin.com/company/nintendo" target="_blank" rel="noopener noreferrer">Nintendo of America</a> between 1985 and 2007 and oversaw much of the company's localization effort. I think it's fair to say that many of the games that shaped who I am did so because they went through Gail's filter before reaching me. Thanks, Gail.</p>
+<p>Check the video linked above. It's me playing a tune from The Legend of Zelda: A Link to the Past, composed by Koji Kondo and arranged for piano by Shinobu Amayake. Gail is the one who came with this game's epic subtitle.</p>]]></content:encoded>
+            <category>nintendo</category>
+            <category>zelda</category>
+            <category>iwd</category>
+        </item>
+        <item>
+            <title><![CDATA[Language fluency]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/language-fluency</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/language-fluency</guid>
+            <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[If at least the burrito was decent, I could've forgiven the lousy copy.]]></description>
+            <content:encoded><![CDATA[<p>I'm a technical writer because I'm a language nerd. Always have been. As a language nerd, one of my goals is to become fluent in a new language every decade that I live.</p>
+<ul>
+<li>In my first decade, I learned Portuguese. It was very easy on account of me being from Brazil.</li>
+<li>In my second decade, I learned English. Or rather, I thought I did until I moved to the US, at which point I realized that I actually hadn't. Thankfully, I've gotten better since.</li>
+<li>In my third decade, I learned Spanish. It was good enough to woo my wife (see the archaeological artifact below) and it's the language we speak at home.</li>
+<li>In my fourth decade, I'm learning French. It's tricky. I've discovered that it's not enough to love the language, you also have to love the people who speak it. I love French, and I'm learning to love the French.</li>
+</ul>
+<img src="https://media.licdn.com/dms/image/D4E22AQFIB4_ZZ-KDaQ/feedshare-shrink_800/0/1709651943448?e=1713398400&amp;v=beta&amp;t=Cw2cUvInSmmgf4TP7YtGM8FFfN4TwKunQ0x3gkZBxt8" alt="Screenshot of an MSN Messenger conversation between two people, circa 2009." width="500" height="auto">]]></content:encoded>
+            <category>language nerd</category>
+            <category>foreign languages</category>
+        </item>
+        <item>
+            <title><![CDATA[Mayan [sic] MSG]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/mayan-sic-msg</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/mayan-sic-msg</guid>
+            <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[If at least the burrito was decent, I could've forgiven the lousy copy.]]></description>
+            <content:encoded><![CDATA[<img src="https://media.licdn.com/dms/image/D4E22AQF5En2NqJR5gQ/feedshare-shrink_2048_1536/0/1709423767194?e=1713398400&amp;v=beta&amp;t=Ou-Z_0qb1u4gnaArIwBpSP_NSXS3dwfoOjN_26L7L6c" alt="A promotional sign inside a Mucho Burrito restaurant includes the line, 'The Mayans never used MSG, so why should we?'" width="200" height="auto">
+<p>This display inside <a href="https://www.linkedin.com/company/mucho-burrito---fresh-mexican-grill/" target="_blank" rel="noopener noreferrer">Mucho Burrito - Fresh Mexican Grill</a> is typo-free, but it doesn't mean it's great copy either. I didn't mind it too much until the line in the middle. Allow me to edit:</p>
+<ul>
+<li>"Mayans" isn't technically correct. Use "Maya" for the people and "Mayan" for their languages.</li>
+<li>The Maya are still around, in the millions. Referring to Indigenous peoples in the past mythologizes and erases them. Besides, the ancient Maya might have never used MSG, but they never used onions either--it's an Old World crop--and that hasn't stopped you, has it?</li>
+<li>You're really going to dis MSG and tap into a debunked (and potentially racist) urban legend? Really? Here's Health Canada | Santé Canada: "The safety of MSG has been studied worldwide. All studies found that MSG does not pose a health hazard to people."</li>
+</ul>]]></content:encoded>
+            <category>technical writing</category>
+            <category>urban legend</category>
+            <category>marketing</category>
+            <category>editing</category>
+        </item>
+        <item>
+            <title><![CDATA[Typo 5]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/typo-5</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/typo-5</guid>
+            <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Don't worry, boss, AI's got it.]]></description>
+            <content:encoded><![CDATA[<p>Who's going to tell <a href="https://www.linkedin.com/in/dremily" target="_blank" rel="noopener noreferrer">Dr. Emily Splichal</a>?</p>
+<img src="https://media.licdn.com/dms/image/D4E22AQGitFgx5vm9nQ/feedshare-shrink_800/0/1709303546447?e=1713398400&amp;v=beta&amp;t=ojos2zM67EfqBej4et-nTMq3KIAw_SNro08MEi48rDI" alt="AI-generated ad shows a hand with six fingers and a foot with four toes" width="300" height="auto">]]></content:encoded>
+            <category>typo</category>
+            <category>visual typo</category>
+            <category>clickbait</category>
+            <category>ai</category>
+        </item>
+        <item>
+            <title><![CDATA[Jockvale School]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/jockvale-school</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/jockvale-school</guid>
+            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Jockvale School in Ottawa is linked with Strandherd Dr and the birth of what is now Barrhaven.]]></description>
+            <content:encoded><![CDATA[<p>I went back to Bruce S. Elliott's <em>The City Beyond</em> to see if his comments about Nepean's School Section 10 (the historical Jockvale School House) would help me discover the origin of the Strandherd name. No such luck but I learned that several historical maps depict SS 10, which I've included in the GIF below.</p>
+<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQG0Rt-ieGDIBA/feedshare-shrink_800/0/1709227847734?e=1713398400&amp;v=beta&amp;t=mkMEPlIHpmn9gc9vxkbtrEYm-gXUJlCEWuymw22JRIw" alt="Animation that depicts the Jockvale School's location on Strandherd and Jockvale in maps of 1863, 1879, and 1917." class="img_ev3q"></p>
+<p>SS 10 was founded by Irish Catholics in 1841, not long after they'd settled in the area, so I assume that the school's location was already geographically significant and accessible by then. This means that Strandherd has been there between Jockvale and Greenbank (and likely between Borrisokane and Longfields) at least since the 1840s. It's an important part of Barrhaven's history.</p>
+<p>As for the Strandherd name, it was probably given to the road in the mid 20th century by some developer or city planner, and it's unlikely it has a historical tie to 19th-century Nepean. The earliest mention of the name I could find in the <a href="https://www.linkedin.com/company/post-media-inc" target="_blank" rel="noopener noreferrer">Ottawa Citizen</a> is from 1974.</p>
+<p>End of the road. I'm starting to feel like Max in Aronofsky's Pi (1998). What started out as <a href="https://www.linkedin.com/company/oc-transpo" target="_blank" rel="noopener noreferrer">OC Transpo</a>'s glaring typo turned out to be ... just a typo, after all. It's time to shower, go outside for some -10° fresh air, and move on.</p>]]></content:encoded>
+            <category>typo</category>
+            <category>technicalwriting</category>
+            <category>ottawa</category>
+            <category>barrhaven</category>
+        </item>
         <item>
             <title><![CDATA[City of Ottawa Archives]]></title>
             <link>https://igorcasmarques.github.io/micro-blog/ottawa-archives</link>
@@ -195,94 +301,6 @@
 <p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQG9VGL1vVXzwQ/feedshare-shrink_800/0/1706916642073?e=1710979200&amp;v=beta&amp;t=uUgbVXuMiKHO8PL8nqqS_JCjNw50RtgrxtdycVvV7i8" alt="Time lapse of a New York Times crossword puzzle being solved." class="img_ev3q"></p>]]></content:encoded>
             <category>crossword</category>
             <category>vocabulary</category>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft David]]></title>
-            <link>https://igorcasmarques.github.io/micro-blog/microsoft-david</link>
-            <guid>https://igorcasmarques.github.io/micro-blog/microsoft-david</guid>
-            <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[He helps me.]]></description>
-            <content:encoded><![CDATA[<p>Ever since I became serious about writing, Microsoft David has become my best friend. When I proofread a text, he's there. When I need to read articles, he's there (thanks to his buddy, Pericles).</p>
-<p>I learned how important it is to read copy aloud many years ago when I was a student announcer at <a href="https://www.linkedin.com/company/classical-89" target="_blank" rel="noopener noreferrer">Classical 89</a>. But I have very low stamina for reading text on screens. I've got my display scale at 150%, text size at 120% on top of that, and the "night light" feature always on, but it's still hard.</p>
-<p>Which is why I like Microsoft David so much--no offense, Zira and Mark.</p>
-<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQFEtlbC7z2hJQ/feedshare-shrink_800/0/1706798665616?e=1710979200&amp;v=beta&amp;t=cuedSxDWyXIWeZ-SIRkFVjp8WndjkQJ0dkqF7t5b4Pc" alt="Screenshot of the Read Aloud function in MS Word, showing a dropdown menu that displays the different voices a user can choose." class="img_ev3q"></p>]]></content:encoded>
-            <category>text to speech</category>
-            <category>editing</category>
-            <category>accessibility</category>
-            <category>proofreading</category>
-        </item>
-        <item>
-            <title><![CDATA[Work can be many things]]></title>
-            <link>https://igorcasmarques.github.io/micro-blog/work-clouds</link>
-            <guid>https://igorcasmarques.github.io/micro-blog/work-clouds</guid>
-            <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[But not clouds.]]></description>
-            <content:encoded><![CDATA[<p>Work can be many things. One thing work can't be is "clouds." I mean, atmospheric scientists work very hard to understand clouds. But clouds themselves are not work. They're just masses of water droplets in the air.</p>]]></content:encoded>
-            <category>work</category>
-        </item>
-        <item>
-            <title><![CDATA[Simulated flavour]]></title>
-            <link>https://igorcasmarques.github.io/micro-blog/simulated-flavour</link>
-            <guid>https://igorcasmarques.github.io/micro-blog/simulated-flavour</guid>
-            <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[It doesn't taste so good.]]></description>
-            <content:encoded><![CDATA[<p>💊 RED PILL ALERT 💊</p>
-<p>Wake up, sheeple! We live in a simulation! The proof is in your nearby vending machine.</p>
-<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQEnfX-Azeer0w/feedshare-shrink_2048_1536/0/1706540802271?e=1710979200&amp;v=beta&amp;t=2XHFbIusCP1oEk6Ms-oX73uNA-_DrHJ0Y3umwcKzceE" alt="Picture of a bag of Ruffles chips with sour cream flavouring." class="img_ev3q"></p>
-<p>Canadian regulations prohibit food labels to show ingredients that the food does not have. If the label shows the picture of an added flavouring ingredient, then it must clearly state that this ingredient is imitation, artificial or simulated. Each of these words appear in slightly different contexts: imitation is primarily used for aromatic plants (e.g., vanilla); simulated is used for meats and dairy, like the "sour cream" in my chips; and artificial covers pretty much everything else.</p>
-<p>Oh, and how did the chips taste? Let's just say it "didn't escape the Matrix" or anything.</p>]]></content:encoded>
-            <category>technical writing</category>
-            <category>controlled terminology</category>
-            <category>canada</category>
-            <category>food</category>
-        </item>
-        <item>
-            <title><![CDATA[Crossword high]]></title>
-            <link>https://igorcasmarques.github.io/micro-blog/crossword-high</link>
-            <guid>https://igorcasmarques.github.io/micro-blog/crossword-high</guid>
-            <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Someone explain this to me.]]></description>
-            <content:encoded><![CDATA[<p>Someone tell me why I get meth-like levels of dopamine release when I see this screen.</p>
-<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQELAQM0fwK92A/feedshare-shrink_2048_1536/0/1706199586178?e=1710979200&amp;v=beta&amp;t=P9rzZBszCTEJZXHMyCAv-wj5zRjolr0j_C9zXQqc8AI" alt="Screenshot of a completed New York Times crossword puzzle." class="img_ev3q"></p>]]></content:encoded>
-            <category>crossword</category>
-            <category>vocabulary</category>
-        </item>
-        <item>
-            <title><![CDATA[Mourning routines]]></title>
-            <link>https://igorcasmarques.github.io/micro-blog/mourning-routines</link>
-            <guid>https://igorcasmarques.github.io/micro-blog/mourning-routines</guid>
-            <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[They don't exist.]]></description>
-            <content:encoded><![CDATA[<p>Last week we talked about morning routines. The topic for today is mourning routines.</p>
-<p>As in, they don't exist. Grief is complex and you can't expect one thing to work for everyone every time. Just like mornings.</p>]]></content:encoded>
-            <category>routine</category>
-        </item>
-        <item>
-            <title><![CDATA[Morning routines]]></title>
-            <link>https://igorcasmarques.github.io/micro-blog/morning-routines</link>
-            <guid>https://igorcasmarques.github.io/micro-blog/morning-routines</guid>
-            <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Morning routines are important.]]></description>
-            <content:encoded><![CDATA[<p>Morning routines are important. The first part of the day, between 4-7am, is a special time that needs to be leveraged. Here's what I do to maximize these precious hours:</p>
-<ul>
-<li>4am: Sleep</li>
-<li>5am: Sleep</li>
-<li>6am: Sleep</li>
-<li>7am: Sleep</li>
-</ul>]]></content:encoded>
-            <category>work</category>
-            <category>routine</category>
-            <category>morning routine</category>
-        </item>
-        <item>
-            <title><![CDATA[First post]]></title>
-            <link>https://igorcasmarques.github.io/micro-blog/first-post</link>
-            <guid>https://igorcasmarques.github.io/micro-blog/first-post</guid>
-            <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Working is hard.]]></description>
-            <content:encoded><![CDATA[<p>Working is hard. Thank goodness I like working. Now working is easy.</p>]]></content:encoded>
-            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
-            <category>work</category>
         </item>
     </channel>
 </rss>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[9779],{8204:a=>{a.exports=JSON.parse('{"label":"language nerd","permalink":"/micro-blog/tags/language-nerd","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);

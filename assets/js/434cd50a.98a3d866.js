@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[879],{5036:o=>{o.exports=JSON.parse('{"permalink":"/micro-blog","page":1,"postsPerPage":10,"totalPages":3,"totalCount":27,"nextPage":"/micro-blog/page/2","blogDescription":"Micro-blog with casual entries about the use of technical writing in Ottawa, Canada.","blogTitle":"Micro-blog"}')}}]);

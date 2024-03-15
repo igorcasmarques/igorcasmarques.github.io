@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[551],{878:s=>{s.exports=JSON.parse('{"label":"chauvinism","permalink":"/micro-blog/tags/chauvinism","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);
