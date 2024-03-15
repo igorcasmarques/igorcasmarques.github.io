@@ -60,6 +60,9 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [
+        {name: 'keywords', content: 'technical writer, ottawa, micro-blog'},
+      ],
       docs: {
         sidebar: {
           autoCollapseCategories: true,
