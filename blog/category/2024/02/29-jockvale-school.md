@@ -1,13 +1,13 @@
 ---
-title: Jockvale School
+title: Jockvale School 1
 description: The Jockvale School in Ottawa is linked with Strandherd Dr and the birth of what is now Barrhaven.
-slug: jockvale-school
+slug: jockvale-school-1
 authors:
   - name: Igor Coelho A. S. Marques
     title: Technical writer in Ottawa, Canada 
     url: https://www.linkedin.com/in/icasm
     image_url: https://media.licdn.com/dms/image/D4E03AQHZjlq8Tl1ccw/profile-displayphoto-shrink_800_800/0/1705677142126?e=1713398400&v=beta&t=_mzrYXwTu2_-a-Tt-0HKC4utBw9RU3UE5tcg-3wN-gA
-tags: [typo, technicalwriting, ottawa, barrhaven]
+tags: [typo, technical writing, ottawa, barrhaven, jockvale]
 image: https://media.licdn.com/dms/image/D4E22AQG0Rt-ieGDIBA/feedshare-shrink_800/0/1709227847734?e=1713398400&v=beta&t=mkMEPlIHpmn9gc9vxkbtrEYm-gXUJlCEWuymw22JRIw
 hide_table_of_contents: false
 ---
