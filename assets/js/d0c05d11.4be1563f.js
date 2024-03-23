@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[3525],{9414:a=>{a.exports=JSON.parse('{"label":"ottawa","permalink":"/micro-blog/tags/ottawa","allTagsPath":"/micro-blog/tags","count":13,"unlisted":false}')}}]);
