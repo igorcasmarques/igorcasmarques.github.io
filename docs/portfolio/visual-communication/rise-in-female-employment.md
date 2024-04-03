@@ -1,13 +1,13 @@
 ---
 id: rise-in-female-employment
-title: The Dramatic Rise in Full-Time Employment Among Young Women Since 1977
+title: The dramatic rise in full-time employment among young women since 1977
 description: Female employment in Canada (1977-2022)
 slug: rise-in-female-employment
-sidebar_label: 'Rise in Female Employment'
+sidebar_label: 'Rise in female employment'
 sidebar_position: 0
 ---
 
-# The Dramatic Rise in Full-Time Employment Among Young Women Since 1977
+# The dramatic rise in full-time employment among young women since 1977
 
 [Download the full PDF](@site/static/portfolio/visual-communication/rise-in-female-employment.pdf)
 

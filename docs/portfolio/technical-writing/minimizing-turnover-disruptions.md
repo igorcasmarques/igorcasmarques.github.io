@@ -1,19 +1,19 @@
 ---
 id: minimizing-turnover-disruptions
-title: Minimizing Turnover Disruptions
+title: Minimizing turnover disruptions
 description: Proposal for the minimizing turnover disruptions in a dental practice with easyclinic
 slug: minimizing-turnover-disruptions
-sidebar_label: 'Minimizing Turnover Disruptions'
-sidebar_position: 2
+sidebar_label: 'Minimizing turnover disruptions'
+sidebar_position: 3
 ---
 
-# Minimizing Turnover Disruptions in a Dental Practice with easyclinic
+# Minimizing turnover disruptions in a dental practice with easyclinic
 
 [Download the full PDF](@site/static/portfolio/technical-writing/minimizing-turnover-disruptions.pdf)
 
 **Disclaimer**: Private information in this proposal has been redacted. The app suggested by this proposal, easyclinic, is no longer available.
 
-## Executive Summary
+## Summary
 
 The purpose of this proposal is to suggest that the team members of a dental practice in Ottawa  adopt the easyclinic app to streamline training and inventory management and thus achieve better staff retention.
 

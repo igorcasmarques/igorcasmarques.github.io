@@ -1,13 +1,13 @@
 ---
 id: strata-g-matrix-system
-title: Strata-G Sectional Matrix System
+title: Strata-G sectional matrix system
 description: White paper for the Strata-G sectional matrix system
 slug: strata-g-matrix-system
-sidebar_label: 'Strata-G Sectional Matrix System'
-sidebar_position: 0
+sidebar_label: 'Strata-G sectional matrix system'
+sidebar_position: 1
 ---
 
-# Strata-G&trade; Sectional Matrix System
+# Strata-G&trade; sectional matrix system
 
 [Download the full PDF](@site/static/portfolio/technical-writing/strata-g-matrix-system.pdf)
 
@@ -15,7 +15,7 @@ sidebar_position: 0
 
 **Disclaimer**: This is **not an official** white paper by Garrison Dental Solutions. This is a student project submitted as a requirement of Algonquin College's [Technical Writer Certificate Program](https://www.algonquincollege.com/sat/program/technical-writer/).
 
-## Executive Summary
+## Summary
 
 The purpose of this white paper is to recommend Canadian dentists to adopt the Strata-G™ sectional matrix system to make Class II restorations easier and more precise, mitigate patient anxiety, and cut costs.
 

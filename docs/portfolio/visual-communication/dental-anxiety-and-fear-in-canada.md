@@ -3,8 +3,8 @@ id: dental-anxiety-and-fear-in-canada
 title: Dental Anxiety and Fear in Canada
 description: Dental fear and anxiety in Canada
 slug: dental-anxiety-and-fear-in-canada
-sidebar_label: 'Dental Anxiety in Canada'
-sidebar_position: 1
+sidebar_label: 'Dental anxiety in Canada'
+sidebar_position: 2
 ---
 
 # Dental Anxiety and Fear in Canada

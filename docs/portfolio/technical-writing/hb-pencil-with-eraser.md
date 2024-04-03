@@ -1,19 +1,19 @@
 ---
 id: technical-description-pencil
-title: HB Pencil with Eraser
+title: HB pencil with eraser
 description: Technical definition of an HB pencil with eraser
 slug: hb-pencil-with-eraser
-sidebar_label: 'HB Pencil with Eraser'
-sidebar_position: 1
+sidebar_label: 'HB pencil with eraser'
+sidebar_position: 2
 ---
 
-# HB Pencil with Eraser
+# HB pencil with eraser
 
 [Download the full PDF](@site/static/portfolio/technical-writing/hb-pencil-with-eraser.pdf)
 
 ![An HB pencil with eraser made by Dixon](@site/static/portfolio/technical-writing/hb-pencil-with-eraser.png)
 
-## General Description
+## Summary
 
 An HB pencil with eraser is a small tube-shaped writing implement with a bit of exposed graphite on one end and a cylindrical rubber on the other. The pencil’s graphite, commonly known as lead, leaves marks on paper that are erasable by the rubber, which is ideal for correcting mistakes on the fly.
 
