@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[9419],{2085:a=>{a.exports=JSON.parse('{"label":"fame","permalink":"/micro-blog/tags/fame","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);
