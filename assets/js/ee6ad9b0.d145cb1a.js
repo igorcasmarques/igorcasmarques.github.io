@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[1365],{4106:o=>{o.exports=JSON.parse('{"permalink":"/micro-blog/tags/gag","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Micro-blog with casual entries about the use of technical writing in Ottawa, Canada.","blogTitle":"Micro-blog"}')}}]);

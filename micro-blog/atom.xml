@@ -2,11 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://igorcasmarques.github.io/micro-blog</id>
     <title>Igor Coelho A. S. Marques Blog</title>
-    <updated>2024-04-01T00:00:00.000Z</updated>
+    <updated>2024-04-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://igorcasmarques.github.io/micro-blog"/>
     <subtitle>Igor Coelho A. S. Marques Blog</subtitle>
     <icon>https://igorcasmarques.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Crossword Igor]]></title>
+        <id>https://igorcasmarques.github.io/micro-blog/crossword-igor</id>
+        <link href="https://igorcasmarques.github.io/micro-blog/crossword-igor"/>
+        <updated>2024-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One day...]]></summary>
+        <content type="html"><![CDATA[<p>Look, mom, I'm on the the <a href="https://www.nytimes.com/crosswords/game/daily/2024/04/07" target="_blank" rel="noopener noreferrer">New York Times Sunday crossword</a>!</p>
+<img src="https://media.licdn.com/dms/image/D4E22AQE5PK9Hr3RiAA/feedshare-shrink_2048_1536/0/1712463719942?e=1715212800&amp;v=beta&amp;t=aVelcHbrbQr-b4AfWHfNHF04gQYeo5T0o91D35jsHI0" alt="A crossword puzzle shows that the clue 'Technical writer, editor, and sound artist in Ottawa' resolves to Igor in 27 across." width="400" height="auto">
+<p>(Not really.)</p>]]></content>
+        <author>
+            <name>Igor Coelho A. S. Marques</name>
+            <uri>https://www.linkedin.com/in/icasm</uri>
+        </author>
+        <category label="crossword" term="crossword"/>
+        <category label="technical writing" term="technical writing"/>
+        <category label="gag" term="gag"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LinkedIn bots 2]]></title>
+        <id>https://igorcasmarques.github.io/micro-blog/linkedin-bots-2</id>
+        <link href="https://igorcasmarques.github.io/micro-blog/linkedin-bots-2"/>
+        <updated>2024-04-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hard pass again.]]></summary>
+        <content type="html"><![CDATA[<p>Yesterday, I posted a rant about bot activity and artificial engagement on <a href="https://www.linkedin.com/in/icasm" target="_blank" rel="noopener noreferrer">LinkedIn</a>. Guess who reacted to it overnight? Yes, a bot advertising for the <a href="https://www.talosgrowth.com/" target="_blank" rel="noopener noreferrer">same grey hat company</a> I was railing against.</p>
+<img src="https://media.licdn.com/dms/image/D4E22AQEXb4hUXAdOsg/feedshare-shrink_800/0/1712324052245?e=1715212800&amp;v=beta&amp;t=-DS8wwcaMCpA3d_hLinWSu8LZYwFtwI2-ZqHfxMrl0U" alt="Screenshot of a report of reactions to a LinkedIn post, with a bot account highlighted but with their name and face redacted." width="500" height="auto">
+<p>I can't make this up.</p>]]></content>
+        <author>
+            <name>Igor Coelho A. S. Marques</name>
+            <uri>https://www.linkedin.com/in/icasm</uri>
+        </author>
+        <category label="linkedin" term="linkedin"/>
+        <category label="bots" term="bots"/>
+        <category label="engagement" term="engagement"/>
+        <category label="ai" term="ai"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LinkedIn bots 1]]></title>
+        <id>https://igorcasmarques.github.io/micro-blog/linkedin-bots-1</id>
+        <link href="https://igorcasmarques.github.io/micro-blog/linkedin-bots-1"/>
+        <updated>2024-04-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hard pass.]]></summary>
+        <content type="html"><![CDATA[<p>I created my <a href="https://www.linkedin.com/in/icasm" target="_blank" rel="noopener noreferrer">LinkedIn account</a> in 2019, but didn't really use it until a few months ago, when a mentor advised me to. Since then, I've enjoyed connecting with people and micro-blogging about language and writing. The jury is still out about the value of this platform to my career, but I'm hopeful opportunities will come.</p>
+<p>However, I feel a little uneasy. The other day LinkedIn suggested a post to me with hundreds of reactions and comments. The post itself was terrible—AI-generated in the worst sense of the word. When I checked the comments, they ALL followed the same formula: "[generic praise] + @author". A post by a bot for bots.</p>
+<p>Likewise, a few days ago, a post of mine received a similar comment from someone I didn't know. When I checked their profile, I noticed they were commenting random posts like that every 10-15 seconds! I reported the comment on my post as spam, but LinkedIn did not agree, and that was that.</p>
+<p>I'm sure there are <a href="https://en.wikipedia.org/wiki/Click_farm" target="_blank" rel="noopener noreferrer">click farms</a> and <a href="https://en.wikipedia.org/wiki/Sock_puppet_account" target="_blank" rel="noopener noreferrer">sock puppets</a> aplenty, which is disheartening. But some of these users seem real, even though their engagement certainly isn't. What I've found out since then is that there are <a href="https://www.talosgrowth.com/" target="_blank" rel="noopener noreferrer">companies</a> that, for a fee, will like and comment stuff on your behalf hundreds of times a day so you can increase profile views and "organically" grow your network.</p>
+<p>Yikes. There's more warmth in an April snow storm in Ottawa than in consuming bot content on LinkedIn.</p>
+<img src="https://media.licdn.com/dms/image/D4E22AQEqNXxltBXOyw/feedshare-shrink_800/0/1712241472161?e=1715212800&amp;v=beta&amp;t=bg7uHe5tUb_HyYVafCHrjxI9IRQuuwcit54MyaFbmUw" alt="A man contemplates a snow storm from his balcony.'" width="500" height="auto">]]></content>
+        <author>
+            <name>Igor Coelho A. S. Marques</name>
+            <uri>https://www.linkedin.com/in/icasm</uri>
+        </author>
+        <category label="linkedin" term="linkedin"/>
+        <category label="bots" term="bots"/>
+        <category label="engagement" term="engagement"/>
+        <category label="ai" term="ai"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No parking]]></title>
         <id>https://igorcasmarques.github.io/micro-blog/no-parking</id>
@@ -350,61 +406,5 @@
         <category label="technical writing" term="technical writing"/>
         <category label="ottawa" term="ottawa"/>
         <category label="octranspo" term="octranspo"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trick shot]]></title>
-        <id>https://igorcasmarques.github.io/micro-blog/trick-shot</id>
-        <link href="https://igorcasmarques.github.io/micro-blog/trick-shot"/>
-        <updated>2024-02-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hit the target and get a free EU toque.]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://www.linkedin.com/posts/icasm_resumewriting-ottawa-rideauhall-activity-7160002345462824960-7B-S?utm_source=share&amp;utm_medium=member_desktop" target="_blank" rel="noopener noreferrer">(See the video here)</a></p>
-<p>I'm adding this line to my resume:</p>
-<p>"Recognized by the Delegation of the <a href="https://www.linkedin.com/company/eu-canada" target="_blank" rel="noopener noreferrer">European Union to Canada</a> for single-handedly carrying out a target-oriented, high-stakes operation with 100% success rate."</p>]]></content>
-        <author>
-            <name>Igor Coelho A. S. Marques</name>
-            <uri>https://www.linkedin.com/in/icasm</uri>
-        </author>
-        <category label="resume" term="resume"/>
-        <category label="ottawa" term="ottawa"/>
-        <category label="rideauhall" term="rideauhall"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typo?]]></title>
-        <id>https://igorcasmarques.github.io/micro-blog/typo-question-mark</id>
-        <link href="https://igorcasmarques.github.io/micro-blog/typo-question-mark"/>
-        <updated>2024-02-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Depends who you ask.]]></summary>
-        <content type="html"><![CDATA[<p>Who is going to tell Gr... actually, hold on.</p>
-<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4D22AQEjOLwpN_-wYg/feedshare-shrink_800/0/1707924425732?e=1710979200&amp;v=beta&amp;t=7aF5PI1-6VUZ1Qg8xhEy9cf9JZMjZ1-jD-iUWgnmmVQ" alt="A sign says that &quot;the premises is under 24-hour surveillance." class="img_ev3q"></p>
-<p>"Premises" is a plural noun, so it should be "The premises are under ... surveillance." At least that's what my dictionaries tell me. So, there! Fix your sign! Right?</p>
-<p>Actually, there seems to be a growing trend of using "premises" as a singular noun in North America. Like a fancy synonym for "building" or "property." Particularly in insurance-speak.</p>
-<p>Check out this <a href="https://www.squareone.ca/resource-centres/insurance-glossary/premises" target="_blank" rel="noopener noreferrer">definition by Square One</a>, an insurance brokerage operating in several provinces.</p>
-<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4D22AQFn1aRJh8eTqw/feedshare-shrink_800/0/1707924424011?e=1710979200&amp;v=beta&amp;t=3Jh1V2Vcs-qbCs2EK74cBKUJYu3KALVVVR36yA3FQYM" alt="Square One uses &quot;premises&quot; as a singular countable noun, i.e., &quot;a premises.&quot;" class="img_ev3q"></p>
-<p>What was that about the mote and the beam...</p>]]></content>
-        <author>
-            <name>Igor Coelho A. S. Marques</name>
-            <uri>https://www.linkedin.com/in/icasm</uri>
-        </author>
-        <category label="technical writing" term="technical writing"/>
-        <category label="language" term="language"/>
-        <category label="subject-verb agreement" term="subject-verb agreement"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Say quoi 2]]></title>
-        <id>https://igorcasmarques.github.io/micro-blog/say-quoi-2</id>
-        <link href="https://igorcasmarques.github.io/micro-blog/say-quoi-2"/>
-        <updated>2024-02-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Franchement, Québec ...]]></summary>
-        <content type="html"><![CDATA[<p>Je t'aime, <a href="https://www.linkedin.com/company/ministere-des-transports-du-quebec" target="_blank" rel="noopener noreferrer">MTMD</a>, but must you really use the picture of a child that is wounded (or worse) to convince me to slow down? And then tell me the child is « peut-être » mine?</p>
-<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQFZbKi2iFc66g/feedshare-shrink_2048_1536/0/1707797864099?e=1710979200&amp;v=beta&amp;t=WcBP8d9Xu6yWuOgVbFDSIEVbjl7wxMrZcL2iuN2Vne8" alt="A bilingual sign asking drivers to slow down depicts a child, laying down and hurt." class="img_ev3q"></p>
-<p>Talk about 𝑔𝑟𝑎𝑝ℎ𝑖𝑐 design.</p>
-<p>Seen near Alleyn-et-Cawood, QC.</p>]]></content>
-        <author>
-            <name>Igor Coelho A. S. Marques</name>
-            <uri>https://www.linkedin.com/in/icasm</uri>
-        </author>
-        <category label="outaouais" term="outaouais"/>
-        <category label="traffic sign" term="traffic sign"/>
-        <category label="technical writing" term="technical writing"/>
     </entry>
 </feed>

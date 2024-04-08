@@ -4,10 +4,54 @@
         <title>Igor Coelho A. S. Marques Blog</title>
         <link>https://igorcasmarques.github.io/micro-blog</link>
         <description>Igor Coelho A. S. Marques Blog</description>
-        <lastBuildDate>Mon, 01 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Apr 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Crossword Igor]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/crossword-igor</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/crossword-igor</guid>
+            <pubDate>Sun, 07 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[One day...]]></description>
+            <content:encoded><![CDATA[<p>Look, mom, I'm on the the <a href="https://www.nytimes.com/crosswords/game/daily/2024/04/07" target="_blank" rel="noopener noreferrer">New York Times Sunday crossword</a>!</p>
+<img src="https://media.licdn.com/dms/image/D4E22AQE5PK9Hr3RiAA/feedshare-shrink_2048_1536/0/1712463719942?e=1715212800&amp;v=beta&amp;t=aVelcHbrbQr-b4AfWHfNHF04gQYeo5T0o91D35jsHI0" alt="A crossword puzzle shows that the clue 'Technical writer, editor, and sound artist in Ottawa' resolves to Igor in 27 across." width="400" height="auto">
+<p>(Not really.)</p>]]></content:encoded>
+            <category>crossword</category>
+            <category>technical writing</category>
+            <category>gag</category>
+        </item>
+        <item>
+            <title><![CDATA[LinkedIn bots 2]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/linkedin-bots-2</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/linkedin-bots-2</guid>
+            <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hard pass again.]]></description>
+            <content:encoded><![CDATA[<p>Yesterday, I posted a rant about bot activity and artificial engagement on <a href="https://www.linkedin.com/in/icasm" target="_blank" rel="noopener noreferrer">LinkedIn</a>. Guess who reacted to it overnight? Yes, a bot advertising for the <a href="https://www.talosgrowth.com/" target="_blank" rel="noopener noreferrer">same grey hat company</a> I was railing against.</p>
+<img src="https://media.licdn.com/dms/image/D4E22AQEXb4hUXAdOsg/feedshare-shrink_800/0/1712324052245?e=1715212800&amp;v=beta&amp;t=-DS8wwcaMCpA3d_hLinWSu8LZYwFtwI2-ZqHfxMrl0U" alt="Screenshot of a report of reactions to a LinkedIn post, with a bot account highlighted but with their name and face redacted." width="500" height="auto">
+<p>I can't make this up.</p>]]></content:encoded>
+            <category>linkedin</category>
+            <category>bots</category>
+            <category>engagement</category>
+            <category>ai</category>
+        </item>
+        <item>
+            <title><![CDATA[LinkedIn bots 1]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/linkedin-bots-1</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/linkedin-bots-1</guid>
+            <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hard pass.]]></description>
+            <content:encoded><![CDATA[<p>I created my <a href="https://www.linkedin.com/in/icasm" target="_blank" rel="noopener noreferrer">LinkedIn account</a> in 2019, but didn't really use it until a few months ago, when a mentor advised me to. Since then, I've enjoyed connecting with people and micro-blogging about language and writing. The jury is still out about the value of this platform to my career, but I'm hopeful opportunities will come.</p>
+<p>However, I feel a little uneasy. The other day LinkedIn suggested a post to me with hundreds of reactions and comments. The post itself was terrible—AI-generated in the worst sense of the word. When I checked the comments, they ALL followed the same formula: "[generic praise] + @author". A post by a bot for bots.</p>
+<p>Likewise, a few days ago, a post of mine received a similar comment from someone I didn't know. When I checked their profile, I noticed they were commenting random posts like that every 10-15 seconds! I reported the comment on my post as spam, but LinkedIn did not agree, and that was that.</p>
+<p>I'm sure there are <a href="https://en.wikipedia.org/wiki/Click_farm" target="_blank" rel="noopener noreferrer">click farms</a> and <a href="https://en.wikipedia.org/wiki/Sock_puppet_account" target="_blank" rel="noopener noreferrer">sock puppets</a> aplenty, which is disheartening. But some of these users seem real, even though their engagement certainly isn't. What I've found out since then is that there are <a href="https://www.talosgrowth.com/" target="_blank" rel="noopener noreferrer">companies</a> that, for a fee, will like and comment stuff on your behalf hundreds of times a day so you can increase profile views and "organically" grow your network.</p>
+<p>Yikes. There's more warmth in an April snow storm in Ottawa than in consuming bot content on LinkedIn.</p>
+<img src="https://media.licdn.com/dms/image/D4E22AQEqNXxltBXOyw/feedshare-shrink_800/0/1712241472161?e=1715212800&amp;v=beta&amp;t=bg7uHe5tUb_HyYVafCHrjxI9IRQuuwcit54MyaFbmUw" alt="A man contemplates a snow storm from his balcony.'" width="500" height="auto">]]></content:encoded>
+            <category>linkedin</category>
+            <category>bots</category>
+            <category>engagement</category>
+            <category>ai</category>
+        </item>
         <item>
             <title><![CDATA[No parking]]></title>
             <link>https://igorcasmarques.github.io/micro-blog/no-parking</link>
@@ -283,50 +327,6 @@
             <category>technical writing</category>
             <category>ottawa</category>
             <category>octranspo</category>
-        </item>
-        <item>
-            <title><![CDATA[Trick shot]]></title>
-            <link>https://igorcasmarques.github.io/micro-blog/trick-shot</link>
-            <guid>https://igorcasmarques.github.io/micro-blog/trick-shot</guid>
-            <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hit the target and get a free EU toque.]]></description>
-            <content:encoded><![CDATA[<p><a href="https://www.linkedin.com/posts/icasm_resumewriting-ottawa-rideauhall-activity-7160002345462824960-7B-S?utm_source=share&amp;utm_medium=member_desktop" target="_blank" rel="noopener noreferrer">(See the video here)</a></p>
-<p>I'm adding this line to my resume:</p>
-<p>"Recognized by the Delegation of the <a href="https://www.linkedin.com/company/eu-canada" target="_blank" rel="noopener noreferrer">European Union to Canada</a> for single-handedly carrying out a target-oriented, high-stakes operation with 100% success rate."</p>]]></content:encoded>
-            <category>resume</category>
-            <category>ottawa</category>
-            <category>rideauhall</category>
-        </item>
-        <item>
-            <title><![CDATA[Typo?]]></title>
-            <link>https://igorcasmarques.github.io/micro-blog/typo-question-mark</link>
-            <guid>https://igorcasmarques.github.io/micro-blog/typo-question-mark</guid>
-            <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Depends who you ask.]]></description>
-            <content:encoded><![CDATA[<p>Who is going to tell Gr... actually, hold on.</p>
-<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4D22AQEjOLwpN_-wYg/feedshare-shrink_800/0/1707924425732?e=1710979200&amp;v=beta&amp;t=7aF5PI1-6VUZ1Qg8xhEy9cf9JZMjZ1-jD-iUWgnmmVQ" alt="A sign says that &quot;the premises is under 24-hour surveillance." class="img_ev3q"></p>
-<p>"Premises" is a plural noun, so it should be "The premises are under ... surveillance." At least that's what my dictionaries tell me. So, there! Fix your sign! Right?</p>
-<p>Actually, there seems to be a growing trend of using "premises" as a singular noun in North America. Like a fancy synonym for "building" or "property." Particularly in insurance-speak.</p>
-<p>Check out this <a href="https://www.squareone.ca/resource-centres/insurance-glossary/premises" target="_blank" rel="noopener noreferrer">definition by Square One</a>, an insurance brokerage operating in several provinces.</p>
-<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4D22AQFn1aRJh8eTqw/feedshare-shrink_800/0/1707924424011?e=1710979200&amp;v=beta&amp;t=3Jh1V2Vcs-qbCs2EK74cBKUJYu3KALVVVR36yA3FQYM" alt="Square One uses &quot;premises&quot; as a singular countable noun, i.e., &quot;a premises.&quot;" class="img_ev3q"></p>
-<p>What was that about the mote and the beam...</p>]]></content:encoded>
-            <category>technical writing</category>
-            <category>language</category>
-            <category>subject-verb agreement</category>
-        </item>
-        <item>
-            <title><![CDATA[Say quoi 2]]></title>
-            <link>https://igorcasmarques.github.io/micro-blog/say-quoi-2</link>
-            <guid>https://igorcasmarques.github.io/micro-blog/say-quoi-2</guid>
-            <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Franchement, Québec ...]]></description>
-            <content:encoded><![CDATA[<p>Je t'aime, <a href="https://www.linkedin.com/company/ministere-des-transports-du-quebec" target="_blank" rel="noopener noreferrer">MTMD</a>, but must you really use the picture of a child that is wounded (or worse) to convince me to slow down? And then tell me the child is « peut-être » mine?</p>
-<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQFZbKi2iFc66g/feedshare-shrink_2048_1536/0/1707797864099?e=1710979200&amp;v=beta&amp;t=WcBP8d9Xu6yWuOgVbFDSIEVbjl7wxMrZcL2iuN2Vne8" alt="A bilingual sign asking drivers to slow down depicts a child, laying down and hurt." class="img_ev3q"></p>
-<p>Talk about 𝑔𝑟𝑎𝑝ℎ𝑖𝑐 design.</p>
-<p>Seen near Alleyn-et-Cawood, QC.</p>]]></content:encoded>
-            <category>outaouais</category>
-            <category>traffic sign</category>
-            <category>technical writing</category>
         </item>
     </channel>
 </rss>
