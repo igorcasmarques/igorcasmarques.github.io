@@ -11,7 +11,7 @@ sidebar_position: 1
 
 Here's an overview of the technical content I create:
 
-- **Reference**: Product documentation, [user manuals](../portfolio/technical-writing/tally-pie-manual), [white papers](../portfolio/technical-writing/strata-g-matrix-system), [technical descriptions](../portfolio/technical-writing/hb-pencil-with-eraser), reference guides, FAQs, wikis
+- **Reference**: Product documentation, [user manuals](../portfolio/technical-writing/automated-display-system), [white papers](../portfolio/technical-writing/strata-g-matrix-system), [technical descriptions](../portfolio/technical-writing/hb-pencil-with-eraser), reference guides, FAQs, wikis
 - **Learning**: [Instruction sets](../portfolio/instructional-design/borrowing-physical-items), tutorials ([text](../portfolio/instructional-design/create-your-technical-writer-website) and [video](https://www.youtube.com/@musictheory1017/videos)), [course outlines](https://kb.osu.edu/items/a22af78d-7425-4075-8240-b4d6845e30b0), ADDIE-based instructional material
 - **Internal documents**: [Proposals](../portfolio/technical-writing/minimizing-turnover-disruptions), reports, project plans, Gantt charts, memos  
 - **Visual work**: [Data visualizations](../portfolio/visual-communication/intro) (graphs, charts, etc.), screenshots and screen recordings, webcam presentations

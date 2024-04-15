@@ -17,6 +17,7 @@ These documents rely on top-down structuring and task orientation to provide rea
 
 | Title | Summary | Main Skills |
 |-------|---------|-------------|
+| [User manual of the automated display system for museums](./technical-writing/automated-display-system) | **User manual** made with Word and Teams to show team members of the [Ingenium museums in Ottawa](https://ingeniumcanada.org/) how to use an automated display system designed for them by Algonquin College students. | Informative technical writing, task orientation, and project management. | 
 | [Tally Pie user manual](./technical-writing/tally-pie-manual) | **User manual** made with Markdown and GitHub to show users how to use Tally Pie to generate dynamic pie charts. | Informative technical writing, task orientation, and version control. | 
 | [Strata-G&trade; sectional matrix system](./technical-writing/strata-g-matrix-system) | **White paper** made with Word and Excel to persuade dental practitioners to use Strata-G&trade; in restorations. | Persuasive technical writing, profiling audiences, and data visualizations. |
 | [HB pencil with eraser](./technical-writing/hb-pencil-with-eraser) | **Technical description** made with Word and Photoshop to describe an HB pencil eraser and its parts in detail. | Informative technical writing, task orientation, and command of top-down structure. |  

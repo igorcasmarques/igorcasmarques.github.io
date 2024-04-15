@@ -9,6 +9,7 @@ slug: intro
 
 Choose an example below to continue.
 
+1. [User manual of the automated display system for museums](./automated-display-system)
 1. [Tally Pie user manual](./tally-pie-manual)
 1. [Strata-G&trade; sectional matrix system](./strata-g-matrix-system)
 1. [HB pencil with eraser](./hb-pencil-with-eraser)
