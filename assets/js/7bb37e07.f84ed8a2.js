@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[4841],{2704:o=>{o.exports=JSON.parse('{"permalink":"/micro-blog/tags/typo","page":1,"postsPerPage":10,"totalPages":1,"totalCount":8,"blogDescription":"Micro-blog with casual entries about the use of technical writing in Ottawa, Canada.","blogTitle":"Micro-blog"}')}}]);

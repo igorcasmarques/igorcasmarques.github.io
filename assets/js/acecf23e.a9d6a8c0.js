@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[7393],{1838:o=>{o.exports=JSON.parse('{"blogBasePath":"/micro-blog","blogTitle":"Micro-blog"}')}}]);

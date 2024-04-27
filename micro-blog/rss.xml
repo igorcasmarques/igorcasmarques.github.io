@@ -4,10 +4,52 @@
         <title>Igor Coelho A. S. Marques Blog</title>
         <link>https://igorcasmarques.github.io/micro-blog</link>
         <description>Igor Coelho A. S. Marques Blog</description>
-        <lastBuildDate>Mon, 15 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Apr 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Say quoi 5]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/say-quoi-5</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/say-quoi-5</guid>
+            <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Oh no! How is Godzilla? Is he alright?]]></description>
+            <content:encoded><![CDATA[<p>Ehh ... quoi, <a href="https://www.linkedin.com/company/presotea/" target="_blank" rel="noopener noreferrer">Presotea 鮮茶道</a> ?</p>
+<img src="https://media.licdn.com/dms/image/D4E22AQFBZc-VJoseqw/feedshare-shrink_800/0/1713547902978?e=1717027200&amp;v=beta&amp;t=aH06LfvzFFbDWVeamouje1H1_aRhbckVaLXkYYLNzDI" alt="A cup from Presotea contains incomprehensible French instructions." width="500" height="auto">]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
+            <category>technical writing</category>
+            <category>typo</category>
+            <category>translation</category>
+            <category>packaging</category>
+        </item>
+        <item>
+            <title><![CDATA[Gobbledygook]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/Gobbledygook</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/Gobbledygook</guid>
+            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[That's how I felt about technical content growing.]]></description>
+            <content:encoded><![CDATA[<p>English magician Paul Daniels comments on the state of computer-related technical content in 1983:</p>
+<p><a href="https://www.linkedin.com/posts/icasm_technicalwriting-plainlanguage-activity-7186745838172348418-ysSU" target="_blank" rel="noopener noreferrer">(See the video here.)</a></p>
+<p>Source: BBC's Micro Live, aired on BBC2 in 1983.</p>]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
+            <category>technical writing</category>
+            <category>plain language</category>
+        </item>
+        <item>
+            <title><![CDATA[Letters]]></title>
+            <link>https://igorcasmarques.github.io/micro-blog/letters</link>
+            <guid>https://igorcasmarques.github.io/micro-blog/letters</guid>
+            <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[I still love them, even though they are largely obsolete.]]></description>
+            <content:encoded><![CDATA[<p>As long as they don't ask me to do anything, I love when friends write to me. It's a special thing to exchange text-mediated, long-form accounts of our lives. It rarely happens anymore, what with instant messaging and video calls; it's just not practical.</p>
+<p>But there was a time in my life when handwritten letters were my main form of communication. In 2007-2009, when I was a missionary for <a href="https://www.churchofjesuschrist.org/" target="_blank" rel="noopener noreferrer">The Church of Jesus Christ of Latter-day Saints</a>, I could only communicate with people outside of the area I lived in by mail (with very few exceptions).</p>
+<p>Here's a stash of letters that I received during that time:</p>
+<img src="https://media.licdn.com/dms/image/D4E22AQH_PK_Ks2K_Mg/feedshare-shrink_800/0/1713372461083?e=1717027200&amp;v=beta&amp;t=J7A0YcU9oFOuDy00kCT4SZ4mF6oCIL85VtC8DHSCjoI" alt="Picture of a pile of letters.'" width="500" height="auto">
+<p>I can't describe the joy I felt when I found one of these waiting for me in my mailbox. In fact, these letters were so special to me that I eventually married their sender.</p>]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
+            <category>writing</category>
+            <category>letters</category>
+        </item>
         <item>
             <title><![CDATA[Typo 7]]></title>
             <link>https://igorcasmarques.github.io/micro-blog/typo-7</link>
@@ -17,6 +59,7 @@
             <content:encoded><![CDATA[<p>The tween in me thinks this misspelling is funny because of another word that ends with those two syllables, but I also don't judge the people who made the typo. Schwa (ə) is the most common vowel sound in English because any vowel can make it in an unstressed syllable. Change the "a" in "receptacle" for any other vowel and the word still sounds the same.</p>
 <img src="https://media.licdn.com/dms/image/D4E22AQE_3osPall9Sg/feedshare-shrink_800/0/1713197890443?e=1715817600&amp;v=beta&amp;t=FA4MhuaM20xdO60dAT18lK9GLbOu3QGCYO5tUl7sg74" alt="A sign that instruct a store's clients where to throw the garbage misspells 'receptacle' as 'recepticle.'" width="400" height="auto">
 <p>It's also interesting that the sign tells us to think of the employees who have to empty the bin. I assume this is to prevent people from disposing of messy garbage because the bin isn't lined with a bag, but I'm not sure. Whatever the reason, it must have been a recurring issue that made them feel the need to include this plea on the sign.</p>]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
             <category>technical writing</category>
             <category>typo</category>
             <category>signage</category>
@@ -30,6 +73,7 @@
             <description><![CDATA[Rule number one: read the manual.]]></description>
             <content:encoded><![CDATA[<p>That feeling when the new <a href="https://www.primevideo.com/detail/0HAQAA7JM43QWX0H6GUD3IOF70" target="_blank" rel="noopener noreferrer">Fallout TV show</a> by <a href="https://www.linkedin.com/company/primevideoamazonstudios" target="_blank" rel="noopener noreferrer">Prime Video &amp; Amazon Studios</a> yields your first technical writing meme ☢️</p>
 <img src="https://media.licdn.com/dms/image/D4E22AQGZW4J3Z48ccQ/feedshare-shrink_800/0/1712985101562?e=1715817600&amp;v=beta&amp;t=HMAKkYooFiwZCbfKYLtL4Lmig_r0D0cb0Yisj9lb5N4" alt="An excerpt from the Fallout TV series where Coop the Ghoul says, &quot;Rule number one: read the manual.&quot;" width="500" height="auto">]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
             <category>technical writing</category>
             <category>meme</category>
             <category>fallout</category>
@@ -43,6 +87,7 @@
             <content:encoded><![CDATA[<p>Each typo spotted in the wild teaches me something new.</p>
 <img src="https://media.licdn.com/dms/image/D4E22AQGOI32p3WngEw/feedshare-shrink_800/0/1712927863635?e=1715817600&amp;v=beta&amp;t=iSJb2_w82KzOjL7jDJjwxLSxnIZZGULCezm27nR91Sw" alt="A sign posted the self-checkout area at Walmart reads &quot;TOP SHRNIK ITEMS&quot; instead of &quot;TOP SHRINK ITEMS&quot; and displays pictures of many items frequently shoplifted." width="400" height="auto">
 <p>This one at my <a href="https://www.walmart.ca/en/stores-near-me/barrhaven-supercentre-3638" target="_blank" rel="noopener noreferrer">local Walmart</a> taught me about "shrink" (also "shrinkage"), i.e., the reduction of a store's inventory due to shoplifting, spoiling, and mishandling. This sign was posted at the self-checkout area, so I guess it's there to remind store attendants to keep an eye out for people coming through with these items.</p>]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
             <category>typo</category>
             <category>technical writing</category>
             <category>signage</category>
@@ -59,6 +104,7 @@
 <img src="https://media.licdn.com/dms/image/D4E22AQFT7q5It7KXew/feedshare-shrink_800/0/1712704322456?e=1715817600&amp;v=beta&amp;t=tKnHqEYH_gpYGbIAIKpupyPoM0hynlqVS6mWSI7kvLE" alt="Picture of a video game box shows a warning in bold: &quot;Cancer and reproductive harm - p65warnings.ca.gov&quot;" width="400" height="auto">
 <p>I went to the website listed on the case. It's a catalogue of warnings about harmful chemicals by the <a href="https://oehha.ca.gov/" target="_blank" rel="noopener noreferrer">Office of Environmental Health Hazard Assessment (OEHHA)</a> of California. There was nothing about video games there, so I have to infer that the warning on my Pikmin 4 case refers to some of the chemicals used to make the game card, such as lead, cadmium, and flame retardants. I checked my other Switch games and, sure enough, several of them have the same warning as well.</p>
 <p>What I've learned is that playing the games is totally safe. Grinding up the game cards and using them as taco seasoning, on the other hand...</p>]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
             <category>technical writing</category>
             <category>packaging</category>
             <category>nintendo switch</category>
@@ -72,6 +118,7 @@
             <content:encoded><![CDATA[<p>Look, mom, I'm on the the <a href="https://www.nytimes.com/crosswords/game/daily/2024/04/07" target="_blank" rel="noopener noreferrer">New York Times Sunday crossword</a>!</p>
 <img src="https://media.licdn.com/dms/image/D4E22AQE5PK9Hr3RiAA/feedshare-shrink_2048_1536/0/1712463719942?e=1715212800&amp;v=beta&amp;t=aVelcHbrbQr-b4AfWHfNHF04gQYeo5T0o91D35jsHI0" alt="A crossword puzzle shows that the clue 'Technical writer, editor, and sound artist in Ottawa' resolves to Igor in 27 across." width="400" height="auto">
 <p>(Not really.)</p>]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
             <category>crossword</category>
             <category>technical writing</category>
             <category>gag</category>
@@ -85,6 +132,7 @@
             <content:encoded><![CDATA[<p>Yesterday, I posted a rant about bot activity and artificial engagement on <a href="https://www.linkedin.com/in/icasm" target="_blank" rel="noopener noreferrer">LinkedIn</a>. Guess who reacted to it overnight? Yes, a bot advertising for the <a href="https://www.talosgrowth.com/" target="_blank" rel="noopener noreferrer">same grey hat company</a> I was railing against.</p>
 <img src="https://media.licdn.com/dms/image/D4E22AQEXb4hUXAdOsg/feedshare-shrink_800/0/1712324052245?e=1715212800&amp;v=beta&amp;t=-DS8wwcaMCpA3d_hLinWSu8LZYwFtwI2-ZqHfxMrl0U" alt="Screenshot of a report of reactions to a LinkedIn post, with a bot account highlighted but with their name and face redacted." width="500" height="auto">
 <p>I can't make this up.</p>]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
             <category>linkedin</category>
             <category>bots</category>
             <category>engagement</category>
@@ -102,6 +150,7 @@
 <p>I'm sure there are <a href="https://en.wikipedia.org/wiki/Click_farm" target="_blank" rel="noopener noreferrer">click farms</a> and <a href="https://en.wikipedia.org/wiki/Sock_puppet_account" target="_blank" rel="noopener noreferrer">sock puppets</a> aplenty, which is disheartening. But some of these users seem real, even though their engagement certainly isn't. What I've found out since then is that there are <a href="https://www.talosgrowth.com/" target="_blank" rel="noopener noreferrer">companies</a> that, for a fee, will like and comment stuff on your behalf hundreds of times a day so you can increase profile views and "organically" grow your network.</p>
 <p>Yikes. There's more warmth in an April snow storm in Ottawa than in consuming bot content on LinkedIn.</p>
 <img src="https://media.licdn.com/dms/image/D4E22AQEqNXxltBXOyw/feedshare-shrink_800/0/1712241472161?e=1715212800&amp;v=beta&amp;t=bg7uHe5tUb_HyYVafCHrjxI9IRQuuwcit54MyaFbmUw" alt="A man contemplates a snow storm from his balcony.'" width="500" height="auto">]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
             <category>linkedin</category>
             <category>bots</category>
             <category>engagement</category>
@@ -116,6 +165,7 @@
             <content:encoded><![CDATA[<img src="https://media.licdn.com/dms/image/D4E22AQFLkkMW2HNHAg/feedshare-shrink_800/0/1711976534217?e=1715212800&amp;v=beta&amp;t=EiAs0mtnD2ZHKKFrMayx7EiyFxSCNlvgF3AsBclx3qk" alt="A car is parked under a sign that says, 'Don't even think of parking here.'" width="400" height="auto">
 <p>That's OK; I don't have to think, I can do it with muscle memory.</p>
 <p>(Seen near the corner of <a href="https://maps.app.goo.gl/MFiip7v31rncqm9T8" target="_blank" rel="noopener noreferrer">Albert and Bank</a>.)</p>]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
             <category>technical writing</category>
             <category>signage</category>
             <category>ottawa</category>
@@ -129,6 +179,7 @@
             <content:encoded><![CDATA[<p>This is the closest my writing has ever gotten me to fame. Can you guess what the <a href="https://youtu.be/jCJdl6Vs7wg?si=DZ7aKvQkGbKrXrc7" target="_blank" rel="noopener noreferrer">video</a> was about?</p>
 <img src="https://media.licdn.com/dms/image/D4E22AQEKKTU6yqggvw/feedshare-shrink_800/0/1711763334311?e=1715212800&amp;v=beta&amp;t=yanLU_B1ddjDMaOQZRStt79uwyevmMaKAOrPeH9Zhg4" alt="A screenshot of a YouTube comment with 1.1k likes that reads, The irony of watching this video while scrolling through the comment section." width="500" height="auto">
 <p>Happy Easter 🐰</p>]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
             <category>writing</category>
             <category>fame</category>
         </item>
@@ -159,6 +210,7 @@
 </ul>
 <img src="https://media.licdn.com/dms/image/D4E22AQEIvCJLifEYAQ/feedshare-shrink_1280/0/1711500778223?e=1715212800&amp;v=beta&amp;t=G5lJaDKWIihMbXnpwUrTwjSGG7nFte7x81tu0Z4rSA0" alt="Subalpine fir appears in sentence case rather than title case." width="300" height="auto">
 <p>We'll put these items to good use when we celebrate becoming citizens in 2026.</p>]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
             <category>canadian heritage</category>
             <category>editing</category>
         </item>
@@ -178,6 +230,7 @@
 <p>Last month, I went on a journey because of a typo on a sign. That journey ended in the place that appears in the picture, the historical School Section 10 building in Barrhaven.</p>
 <img src="https://media.licdn.com/dms/image/D4E22AQH91S559VprYw/feedshare-shrink_800/0/1711133311066?e=1714003200&amp;v=beta&amp;t=e0eZvnqq1Em6C-x8V83ly3ZUhuBOe2frxA1UY6WdRqM" alt="A man stands in front of the historical Jockvale School." width="400" height="auto">
 <p>Although this journey did not ultimately answer a toponymical question I had, it did help me feel a greater sense of belonging in my neighbourhood because of the places and people I discovered and connected with in the process.</p>]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
             <category>technical writing</category>
             <category>ottawa</category>
             <category>barrhaven</category>
@@ -194,6 +247,7 @@
 <p>A pleasure to break bread last night with my colleagues in Algonquin College's <a href="https://www.algonquincollege.com/sat/program/technical-writer/" target="_blank" rel="noopener noreferrer">technical writer program</a>. (We missed those who couldn't come.)</p>
 <p>Pictured: <a href="https://www.linkedin.com/in/robert-hennessy-technical-writer/" target="_blank" rel="noopener noreferrer">Robert Hennessy</a>, <a href="https://www.linkedin.com/in/mitchell-lui-843b7586/" target="_blank" rel="noopener noreferrer">Mitchell Lui</a>, <a href="https://polinagankina.myportfolio.com/" target="_blank" rel="noopener noreferrer">Polina Gankina</a>, <a href="https://www.linkedin.com/in/khushi-narshana-117b43188/" target="_blank" rel="noopener noreferrer">Khushi Narshana</a>, <a href="https://www.linkedin.com/in/david-rotel-863600225/" target="_blank" rel="noopener noreferrer">David Rotel</a>, <a href="https://www.linkedin.com/in/amina-shahin-301ba2290/" target="_blank" rel="noopener noreferrer">Amina Shahin</a>, and <a href="https://www.linkedin.com/in/jessica-bond-574b542b2/" target="_blank" rel="noopener noreferrer">Jessica Bond</a>.</p>
 <p>Happy spring! 💐</p>]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
             <category>ottawa</category>
             <category>algonquin college</category>
             <category>technical writing</category>
@@ -209,6 +263,7 @@
 <img src="https://media.licdn.com/dms/image/D4E22AQELs8SLotEpAw/feedshare-shrink_800/0/1710878760986?e=1714003200&amp;v=beta&amp;t=UhSFnwKQiPLBo32g3YudKCfnr7mHhEwiFJEho5ghAvI" alt="A public sign instructs passersby to pick up after their dogs." width="300" height="auto">
 <p>The ordering of icons suggests a sequence of steps. The first two I get: dog poops, person picks it up. But what about the toilet bowl? Turns out the <a href="https://www.linkedin.com/company/city-of-ottawa" target="_blank" rel="noopener noreferrer">City of Ottawa</a> "encourages flushing pet waste down the toilet, as it will be properly treated at the sewage plant."</p>
 <p>Cool. I had no idea.</p>]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
             <category>ottawa</category>
             <category>barrhaven</category>
             <category>signage</category>
@@ -226,6 +281,7 @@
 <p>As the GIF below shows, about half of the content on the Trending page has no political agenda, a quarter is (mostly right-wing) political propaganda, and a few posts here and there are outright chauvinistic.</p>
 <img src="https://media.licdn.com/dms/image/D4D22AQHXT9pIEWuIoQ/feedshare-shrink_800/0/1710534042476?e=1713398400&amp;v=beta&amp;t=GwdoAc1JRnZIGZjZHkxh-Gg7kgsP3SxARrpLI4tMbNc" alt="A sped-up screen recording of me browsing 9GAG and categorizing its political content." width="500" height="auto">
 <p>As soon as I fix a few critical bugs in the pie chart app, I'll go down <a href="https://www.linkedin.com/company/9gag" target="_blank" rel="noopener noreferrer">9GAG</a>'s rabbit hole to try and understand its political culture and the people (and bots) behind it.</p>]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
             <category>technical writing</category>
             <category>9gag</category>
             <category>memes</category>
@@ -241,6 +297,7 @@
             <content:encoded><![CDATA[<p>Accurate is good. Accurate and plain is much, much better.</p>
 <img src="https://media.licdn.com/dms/image/D4E22AQFTkRLAsaEu6Q/feedshare-shrink_800/0/1710369954418?e=1713398400&amp;v=beta&amp;t=S5dYz6OHyZgtbS5jBMumRw0wHiwxPYSYyH1yFUiHlMk" alt="A sign that instructs people the information of a meet-and-greet for librarians has 'go downstairs' scribbled on it." width="300" height="auto">
 <p>(I'm sure the people who used this sign for wayfinding appreciated the scribbled "Go downstairs".)</p>]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
             <category>technical writing</category>
         </item>
         <item>
@@ -253,6 +310,7 @@
 <p>This International Women's Day, I'm thinking of <a href="https://www.linkedin.com/in/gail-tilden-a6a3295/" target="_blank" rel="noopener noreferrer">Gail Tilden</a>, who has had a huge impact on my life.</p>
 <p>Gail was the VP of Brand Management at <a href="https://www.linkedin.com/company/nintendo" target="_blank" rel="noopener noreferrer">Nintendo of America</a> between 1985 and 2007 and oversaw much of the company's localization effort. I think it's fair to say that many of the games that shaped who I am did so because they went through Gail's filter before reaching me. Thanks, Gail.</p>
 <p>Check the video linked above. It's me playing a tune from The Legend of Zelda: A Link to the Past, composed by Koji Kondo and arranged for piano by Shinobu Amayake. Gail is the one who came with this game's epic subtitle.</p>]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
             <category>nintendo</category>
             <category>zelda</category>
             <category>iwd</category>
@@ -271,56 +329,9 @@
 <li>In my fourth decade, I'm learning French. It's tricky. I've discovered that it's not enough to love the language, you also have to love the people who speak it. I love French, and I'm learning to love the French.</li>
 </ul>
 <img src="https://media.licdn.com/dms/image/D4E22AQFIB4_ZZ-KDaQ/feedshare-shrink_800/0/1709651943448?e=1713398400&amp;v=beta&amp;t=Cw2cUvInSmmgf4TP7YtGM8FFfN4TwKunQ0x3gkZBxt8" alt="Screenshot of an MSN Messenger conversation between two people, circa 2009." width="500" height="auto">]]></content:encoded>
+            <author>coelhoigor@gmail.com (Igor Coelho A. S. Marques)</author>
             <category>language nerd</category>
             <category>foreign languages</category>
-        </item>
-        <item>
-            <title><![CDATA[Mayan [sic] MSG]]></title>
-            <link>https://igorcasmarques.github.io/micro-blog/mayan-sic-msg</link>
-            <guid>https://igorcasmarques.github.io/micro-blog/mayan-sic-msg</guid>
-            <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[If at least the burrito was decent, I could've forgiven the lousy copy.]]></description>
-            <content:encoded><![CDATA[<img src="https://media.licdn.com/dms/image/D4E22AQF5En2NqJR5gQ/feedshare-shrink_2048_1536/0/1709423767194?e=1713398400&amp;v=beta&amp;t=Ou-Z_0qb1u4gnaArIwBpSP_NSXS3dwfoOjN_26L7L6c" alt="A promotional sign inside a Mucho Burrito restaurant includes the line, 'The Mayans never used MSG, so why should we?'" width="200" height="auto">
-<p>This display inside <a href="https://www.linkedin.com/company/mucho-burrito---fresh-mexican-grill/" target="_blank" rel="noopener noreferrer">Mucho Burrito - Fresh Mexican Grill</a> is typo-free, but it doesn't mean it's great copy either. I didn't mind it too much until the line in the middle. Allow me to edit:</p>
-<ul>
-<li>"Mayans" isn't technically correct. Use "Maya" for the people and "Mayan" for their languages.</li>
-<li>The Maya are still around, in the millions. Referring to Indigenous peoples in the past mythologizes and erases them. Besides, the ancient Maya might have never used MSG, but they never used onions either--it's an Old World crop--and that hasn't stopped you, has it?</li>
-<li>You're really going to dis MSG and tap into a debunked (and potentially racist) urban legend? Really? Here's Health Canada | Santé Canada: "The safety of MSG has been studied worldwide. All studies found that MSG does not pose a health hazard to people."</li>
-</ul>]]></content:encoded>
-            <category>technical writing</category>
-            <category>urban legend</category>
-            <category>marketing</category>
-            <category>editing</category>
-        </item>
-        <item>
-            <title><![CDATA[Typo 5]]></title>
-            <link>https://igorcasmarques.github.io/micro-blog/typo-5</link>
-            <guid>https://igorcasmarques.github.io/micro-blog/typo-5</guid>
-            <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[Don't worry, boss, AI's got it.]]></description>
-            <content:encoded><![CDATA[<p>Who's going to tell <a href="https://www.linkedin.com/in/dremily" target="_blank" rel="noopener noreferrer">Dr. Emily Splichal</a>?</p>
-<img src="https://media.licdn.com/dms/image/D4E22AQGitFgx5vm9nQ/feedshare-shrink_800/0/1709303546447?e=1713398400&amp;v=beta&amp;t=ojos2zM67EfqBej4et-nTMq3KIAw_SNro08MEi48rDI" alt="AI-generated ad shows a hand with six fingers and a foot with four toes" width="300" height="auto">]]></content:encoded>
-            <category>typo</category>
-            <category>visual typo</category>
-            <category>clickbait</category>
-            <category>ai</category>
-        </item>
-        <item>
-            <title><![CDATA[Jockvale School 1]]></title>
-            <link>https://igorcasmarques.github.io/micro-blog/jockvale-school-1</link>
-            <guid>https://igorcasmarques.github.io/micro-blog/jockvale-school-1</guid>
-            <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Jockvale School in Ottawa is linked with Strandherd Dr and the birth of what is now Barrhaven.]]></description>
-            <content:encoded><![CDATA[<p>I went back to Bruce S. Elliott's <em>The City Beyond</em> to see if his comments about Nepean's School Section 10 (the historical Jockvale School House) would help me discover the origin of the Strandherd name. No such luck but I learned that several historical maps depict SS 10, which I've included in the GIF below.</p>
-<p><img loading="lazy" src="https://media.licdn.com/dms/image/D4E22AQG0Rt-ieGDIBA/feedshare-shrink_800/0/1709227847734?e=1713398400&amp;v=beta&amp;t=mkMEPlIHpmn9gc9vxkbtrEYm-gXUJlCEWuymw22JRIw" alt="Animation that depicts the Jockvale School's location on Strandherd and Jockvale in maps of 1863, 1879, and 1917." class="img_ev3q"></p>
-<p>SS 10 was founded by Irish Catholics in 1841, not long after they'd settled in the area, so I assume that the school's location was already geographically significant and accessible by then. This means that Strandherd has been there between Jockvale and Greenbank (and likely between Borrisokane and Longfields) at least since the 1840s. It's an important part of Barrhaven's history.</p>
-<p>As for the Strandherd name, it was probably given to the road in the mid 20th century by some developer or city planner, and it's unlikely it has a historical tie to 19th-century Nepean. The earliest mention of the name I could find in the <a href="https://www.linkedin.com/company/post-media-inc" target="_blank" rel="noopener noreferrer">Ottawa Citizen</a> is from 1974.</p>
-<p>End of the road. I'm starting to feel like Max in Aronofsky's Pi (1998). What started out as <a href="https://www.linkedin.com/company/oc-transpo" target="_blank" rel="noopener noreferrer">OC Transpo</a>'s glaring typo turned out to be ... just a typo, after all. It's time to shower, go outside for some -10° fresh air, and move on.</p>]]></content:encoded>
-            <category>typo</category>
-            <category>technical writing</category>
-            <category>ottawa</category>
-            <category>barrhaven</category>
-            <category>jockvale</category>
         </item>
     </channel>
 </rss>
