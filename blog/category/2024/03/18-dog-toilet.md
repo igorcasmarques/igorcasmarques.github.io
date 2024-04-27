@@ -2,11 +2,7 @@
 title: Dog and toilet?
 description: Wow, you really do learn something new everyday.
 slug: dog-toilet
-authors:
-  - name: Igor Coelho A. S. Marques
-    title: Technical writer in Ottawa, Canada 
-    url: https://www.linkedin.com/in/icasm
-    image_url: https://media.licdn.com/dms/image/D4E03AQHZjlq8Tl1ccw/profile-displayphoto-shrink_800_800/0/1705677142126?e=1713398400&v=beta&t=_mzrYXwTu2_-a-Tt-0HKC4utBw9RU3UE5tcg-3wN-gA
+authors: icasmarques
 tags: [ottawa, barrhaven, signage, technical writing, icons]
 image: https://media.licdn.com/dms/image/D4E22AQELs8SLotEpAw/feedshare-shrink_800/0/1710878760986?e=1714003200&v=beta&t=UhSFnwKQiPLBo32g3YudKCfnr7mHhEwiFJEho5ghAvI
 hide_table_of_contents: false

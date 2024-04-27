@@ -2,11 +2,7 @@
 title: Language fluency
 description: If at least the burrito was decent, I could've forgiven the lousy copy.
 slug: language-fluency
-authors:
-  - name: Igor Coelho A. S. Marques
-    title: Technical writer in Ottawa, Canada 
-    url: https://www.linkedin.com/in/icasm
-    image_url: https://media.licdn.com/dms/image/D4E03AQHZjlq8Tl1ccw/profile-displayphoto-shrink_800_800/0/1705677142126?e=1713398400&v=beta&t=_mzrYXwTu2_-a-Tt-0HKC4utBw9RU3UE5tcg-3wN-gA
+authors: icasmarques
 tags: [language nerd, foreign languages]
 image: https://media.licdn.com/dms/image/D4E22AQFIB4_ZZ-KDaQ/feedshare-shrink_800/0/1709651943448?e=1713398400&v=beta&t=Cw2cUvInSmmgf4TP7YtGM8FFfN4TwKunQ0x3gkZBxt8
 hide_table_of_contents: false

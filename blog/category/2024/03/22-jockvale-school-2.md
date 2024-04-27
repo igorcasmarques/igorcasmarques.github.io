@@ -2,11 +2,7 @@
 title: Jockvale School 2
 description: I didn't find what I was looking for, but felt good all the same.
 slug: jockvale-school-2
-authors:
-  - name: Igor Coelho A. S. Marques
-    title: Technical writer in Ottawa, Canada 
-    url: https://www.linkedin.com/in/icasm
-    image_url: https://media.licdn.com/dms/image/D4E03AQHZjlq8Tl1ccw/profile-displayphoto-shrink_800_800/0/1705677142126?e=1713398400&v=beta&t=_mzrYXwTu2_-a-Tt-0HKC4utBw9RU3UE5tcg-3wN-gA
+authors: icasmarques
 tags: [technical writing, ottawa, barrhaven, jockvale]
 image: https://media.licdn.com/dms/image/D4E22AQH91S559VprYw/feedshare-shrink_800/0/1711133311066?e=1714003200&v=beta&t=e0eZvnqq1Em6C-x8V83ly3ZUhuBOe2frxA1UY6WdRqM
 hide_table_of_contents: false

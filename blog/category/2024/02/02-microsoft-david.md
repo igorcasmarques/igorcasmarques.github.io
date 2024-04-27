@@ -2,11 +2,7 @@
 title: Microsoft David
 description: He helps me.
 slug: microsoft-david
-authors:
-  - name: Igor Coelho A. S. Marques
-    title: Technical writer in Ottawa, Canada 
-    url: https://www.linkedin.com/in/icasm
-    image_url: https://media.licdn.com/dms/image/D4E03AQHZjlq8Tl1ccw/profile-displayphoto-shrink_800_800/0/1705677142126?e=1713398400&v=beta&t=_mzrYXwTu2_-a-Tt-0HKC4utBw9RU3UE5tcg-3wN-gA
+authors: icasmarques
 tags: [text to speech, editing, accessibility, proofreading]
 image: https://media.licdn.com/dms/image/D4E22AQFEtlbC7z2hJQ/feedshare-shrink_800/0/1706798665616?e=1710979200&v=beta&t=cuedSxDWyXIWeZ-SIRkFVjp8WndjkQJ0dkqF7t5b4Pc
 hide_table_of_contents: false

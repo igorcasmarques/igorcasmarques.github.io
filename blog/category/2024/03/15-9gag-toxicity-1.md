@@ -2,11 +2,7 @@
 title: 9GAG's toxicity 1
 description: Half of everything on Trending is politically motivated. A lot of it is really bad.
 slug: 9gag-toxicity-1
-authors:
-  - name: Igor Coelho A. S. Marques
-    title: Technical writer in Ottawa, Canada 
-    url: https://www.linkedin.com/in/icasm
-    image_url: https://media.licdn.com/dms/image/D4E03AQHZjlq8Tl1ccw/profile-displayphoto-shrink_800_800/0/1705677142126?e=1713398400&v=beta&t=_mzrYXwTu2_-a-Tt-0HKC4utBw9RU3UE5tcg-3wN-gA
+authors: icasmarques
 tags: [technical writing, 9gag, memes, propaganda, chauvinism]
 image: https://media.licdn.com/dms/image/D4D22AQHXT9pIEWuIoQ/feedshare-shrink_800/0/1710534042476?e=1713398400&v=beta&t=GwdoAc1JRnZIGZjZHkxh-Gg7kgsP3SxARrpLI4tMbNc
 hide_table_of_contents: false

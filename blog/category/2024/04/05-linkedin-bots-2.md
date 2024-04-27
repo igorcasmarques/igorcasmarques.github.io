@@ -2,11 +2,7 @@
 title: LinkedIn bots 2
 description: Hard pass again.
 slug: linkedin-bots-2
-authors:
-  - name: Igor Coelho A. S. Marques
-    title: Technical writer in Ottawa, Canada 
-    url: https://www.linkedin.com/in/icasm
-    image_url: https://media.licdn.com/dms/image/D4E03AQHZjlq8Tl1ccw/profile-displayphoto-shrink_800_800/0/1705677142126?e=1713398400&v=beta&t=_mzrYXwTu2_-a-Tt-0HKC4utBw9RU3UE5tcg-3wN-gA
+authors: icasmarques
 tags: [linkedin, bots, engagement, ai]
 image: https://media.licdn.com/dms/image/D4E22AQEqNXxltBXOyw/feedshare-shrink_800/0/1712241472161?e=1715212800&v=beta&t=bg7uHe5tUb_HyYVafCHrjxI9IRQuuwcit54MyaFbmUw
 hide_table_of_contents: false

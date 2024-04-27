@@ -2,11 +2,7 @@
 title: Typo 3
 description: Ordinal numbers are hard.
 slug: typo-3
-authors:
-  - name: Igor Coelho A. S. Marques
-    title: Technical writer in Ottawa, Canada 
-    url: https://www.linkedin.com/in/icasm
-    image_url: https://media.licdn.com/dms/image/D4E03AQHZjlq8Tl1ccw/profile-displayphoto-shrink_800_800/0/1705677142126?e=1713398400&v=beta&t=_mzrYXwTu2_-a-Tt-0HKC4utBw9RU3UE5tcg-3wN-gA
+authors: icasmarques
 tags: [technical writing, typo, qa]
 image: https://media.licdn.com/dms/image/D4E22AQHHSJnTfPcvhw/feedshare-shrink_800/0/1707693101339?e=1710979200&v=beta&t=qCV_yk6l6NRLQniMoWb5OJoZWN79xqSBwuZDA4Wv-H8
 hide_table_of_contents: false

@@ -2,11 +2,7 @@
 title: Say quoi 1
 description: No lay up.
 slug: say-quoi-1
-authors:
-  - name: Igor Coelho A. S. Marques
-    title: Technical writer in Ottawa, Canada 
-    url: https://www.linkedin.com/in/icasm
-    image_url: https://media.licdn.com/dms/image/D4E03AQHZjlq8Tl1ccw/profile-displayphoto-shrink_800_800/0/1705677142126?e=1713398400&v=beta&t=_mzrYXwTu2_-a-Tt-0HKC4utBw9RU3UE5tcg-3wN-gA
+authors: icasmarques
 tags: [ottawa, octranspo, technical writing]
 image: https://media.licdn.com/dms/image/D4E22AQFAecNNRaLT1g/feedshare-shrink_800/0/1707490732510?e=1710979200&v=beta&t=umcThxP-LEjg18z7kDL4iPd0NtAsZ1748w-Gzza8Srk
 hide_table_of_contents: false

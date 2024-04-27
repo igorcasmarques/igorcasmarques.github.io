@@ -2,11 +2,7 @@
 title: Typo 6
 description: Honey, don't shrink the grocery store!
 slug: typo-6
-authors:
-  - name: Igor Coelho A. S. Marques
-    title: Technical writer in Ottawa, Canada 
-    url: https://www.linkedin.com/in/icasm
-    image_url: https://media.licdn.com/dms/image/D4E03AQHZjlq8Tl1ccw/profile-displayphoto-shrink_800_800/0/1705677142126?e=1713398400&v=beta&t=_mzrYXwTu2_-a-Tt-0HKC4utBw9RU3UE5tcg-3wN-gA
+authors: icasmarques
 tags: [typo, technical writing, signage, retail]
 image: https://media.licdn.com/dms/image/D4E22AQGOI32p3WngEw/feedshare-shrink_800/0/1712927863635?e=1715817600&v=beta&t=iSJb2_w82KzOjL7jDJjwxLSxnIZZGULCezm27nR91Sw
 hide_table_of_contents: false

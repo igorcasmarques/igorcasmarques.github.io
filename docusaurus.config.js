@@ -57,6 +57,24 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        id: 'my-story',
+        routeBasePath: 'my-story',
+        path: './my-story',
+        blogTitle: 'My story',
+        blogDescription: 'This is a (somewhat) brief account of my adult life.',
+        blogSidebarTitle: 'Chapters',
+        blogSidebarCount: 'ALL',
+        postsPerPage: 1,
+        authorsMapPath: '../blog/authors.yml',
+        sortPosts: 'ascending',
+      },
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -95,6 +113,11 @@ const config = {
           {
             to: 'micro-blog',
             label: 'Micro-blog',
+            position: 'left'
+          },
+          {
+            to: 'my-story/from-curitiba-to-provo',
+            label: 'My story',
             position: 'left'
           },
           {

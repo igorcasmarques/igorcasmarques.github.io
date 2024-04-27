@@ -2,11 +2,7 @@
 title: Typo 7
 description: One vowel sound to rule them all.
 slug: typo-7
-authors:
-  - name: Igor Coelho A. S. Marques
-    title: Technical writer in Ottawa, Canada 
-    url: https://www.linkedin.com/in/icasm
-    image_url: https://media.licdn.com/dms/image/D4E03AQHZjlq8Tl1ccw/profile-displayphoto-shrink_800_800/0/1705677142126?e=1713398400&v=beta&t=_mzrYXwTu2_-a-Tt-0HKC4utBw9RU3UE5tcg-3wN-gA
+authors: icasmarques
 tags: [technical writing, typo, signage, ottawa]
 image: https://media.licdn.com/dms/image/D4E22AQE_3osPall9Sg/feedshare-shrink_800/0/1713197890443?e=1715817600&v=beta&t=FA4MhuaM20xdO60dAT18lK9GLbOu3QGCYO5tUl7sg74
 hide_table_of_contents: false
