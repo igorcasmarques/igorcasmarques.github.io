@@ -6,7 +6,7 @@ hide_table_of_contents: false
 date: 2024-04-26T00:03
 ---
 
-*This is an account of my adult life in essay form. You can find my [resume](/docs/resume/intro) and [portfolio](/docs/portfolio/intro) in different areas of this site.* 
+*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) and [portfolio](/docs/portfolio/intro) in different areas of this site.* 
 
 ## In-person V-days
 
@@ -105,14 +105,16 @@ Fall 2010 marked the beginning of my third year in university. Academically, I w
 
 ### ALMA
 
-Whenever I was not in class or at work, I spent most of my time in the [Advanced Lab for Music Applications](https://music.byu.edu/facilities/electronic-facilities) (ALMA) in BYU's Harris Fine Arts Centre (HFAC). The ALMA had row after row of MIDI keyboards, each with a pair of headphones and a computer with all the music and audio apps I could want. The ALMA was located in a weird annex of the HFAC, away from most foot traffic, so it became a sort of sanctuary for me. 
+Whenever I was not in class or at work, I spent most of my time in the [Advanced Lab for Music Applications](https://music.byu.edu/facilities/electronic-facilities) (ALMA) in BYU's Harris Fine Arts Center (HFAC). The ALMA had row after row of MIDI keyboards, each with a pair of headphones and a computer with all the music and audio apps I could want. The ALMA was located in a weird annex of the HFAC, away from most foot traffic, so it became a sort of sanctuary for me. 
 
 I thought back to my reticence about applying to BYU, and the ALMA made me feel grateful for my parents' insistence.
 
 ### Move to Orem
 
-In late 2010, my parents decided to spend a small fortune they had been saving to buy a condo in Orem near exit 273 of the I-15. It had high ceilings, three bedrooms, two bathrooms, and a nice balcony. It was a couple of blocks away from Winco, my favourite grocery store ever. I loved that condo and never took it for granted.
+In late 2010, my parents decided to spend a small fortune they had been saving to buy a condo in Orem near exit 273 of the I-15. It had high ceilings, three bedrooms, two bathrooms, and a nice balcony with a view of the Wasatch Mountains. It was a couple of blocks away from [WinCo](https://www.wincofoods.com/), my favourite grocery store ever, and about 5 km away from the scenic Utah Lake.
 
-As 2010 came to a close, I was happy and stable. Now I just needed to bring Vero to the US and start a family with her.
+That condo would be my home until 2015. I loved living there and never took it for granted.
 
-[^1]: My fellow members of the Church might cringe when they read this since we're all taught that being children of God should be the basis of our identity. This much I know. It's all other parts of who I am that bewilder me.
+As 2011 rolled around, life was going well. I was excelling in university, I loved my job and my condo, and I had all the support I needed to feel stable and happy. I talked to Vero every night, which was no replacement for us being *physically* together, but was enough to carry me over until the summer.
+
+Still, I began to sense a new spectre nearby: my quarter-life crisis.

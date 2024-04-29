@@ -6,7 +6,7 @@ hide_table_of_contents: false
 date: 2024-04-26T00:00
 ---
 
-*This is an account of my adult life in essay form. You can find my [resume](/docs/resume/intro) and [portfolio](/docs/portfolio/intro) in different areas of this site.* 
+*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) and [portfolio](/docs/portfolio/intro) in different areas of this site.* 
 
 ## University or college? Both!
 
@@ -14,19 +14,31 @@ In late 2005, at the age of 17, I took the entrance exams for music production a
 
 I passed the exams with flying colours and enrolled in both programs simultaneously.
 
+### UFPR
+
 During the day, I attended UFPR. I felt impressed by my professors' credentials, most of whom had earned their terminal degrees and made a name for themselves in the US and Europe. Still, lectures were three-hour-long information dumps and the practical labs were a little too crowded to be useful. I enjoyed parts of it, such as socializing with like-minded people, but exams were hard and I struggled academically.
+
+### Belas
 
 When my day at UFPR ended, I bussed downtown to Belas, where college courses were held in the evening. I remember some things about those classes vividly.
 
-### Video game music
+#### Video game music
 
-One instructor asked us about our long-term goals. "I want to write music for video games," I replied. Everyone chuckled, thinking I was joking. "Oh, you're serious...," the instructor realized. I was. I knew it was a viable career choice, even then. I wasn't offended by their laughing, though; my answer was unusual for the time and place and laughing was a fair reaction. Besides, I've always enjoyed making people laugh, regardless of the reason.
+One instructor asked us about our long-term goals. "I want to write music for video games," I replied. Everyone chuckled, thinking I was joking. 
 
-### *Così piangendo va*
+"Oh, you're serious...," the instructor realized. 
 
-Another instructor, who taught counterpoint, had us listen to and analyze Victoria's [*O magnum mysterium*](https://youtu.be/9xPh-fXYAc4?si=BvWIHRapQ_IhjSPp). I had **never** heard anything like that. It moved me to tears. I would have similar experiences later in life with the final movement of Mozart's ["Jupiter" Symphony](https://youtu.be/UsNk-7j9lpY?si=Urm8cFJn8IGiyObl&t=1588), [*Mille regretz*](https://youtu.be/dkfVzCZ68_Q?si=WMq4gcyNpIRFHNVd) by Josquin des Prez, and some of Monteverdi's [madrigals](https://youtu.be/YUgIJ212IVg?si=A0skWk9NgEqHSxVX). Come to think of it, beautiful music has made me cry much more as an adult than sadness.
+I was. I knew it was a viable career choice, even then. I wasn't offended by their laughing, though; my answer was unusual for the time and place and laughing was a fair reaction. Besides, I've always enjoyed making people laugh, regardless of the reason.
 
-### Nightly commutes
+#### *Così piangendo va*
+
+Another instructor, who taught counterpoint, had us listen to and analyze Victoria's [*O magnum mysterium*](https://youtu.be/9xPh-fXYAc4?si=BvWIHRapQ_IhjSPp). 
+
+I had **never** heard anything like that. It moved me to tears. 
+
+I would have similar experiences later in life with the final movement of Mozart's ["Jupiter" Symphony](https://youtu.be/UsNk-7j9lpY?si=Urm8cFJn8IGiyObl&t=1588), [*Mille regretz*](https://youtu.be/dkfVzCZ68_Q?si=WMq4gcyNpIRFHNVd) by Josquin des Prez, and some of Monteverdi's [madrigals](https://youtu.be/YUgIJ212IVg?si=A0skWk9NgEqHSxVX). Come to think of it, beautiful music has made me cry much more as an adult than sadness.
+
+#### Nightly commutes
 
 After classes ended at about 22:30, I bussed back home with my best friend from church, who was a first-year student at Belas like me. Despite the late hour, buses were bustling with people who also had night classes in nearby colleges. It was a vibrant atmosphere, and my friend and I had some of the most fun conversations I've ever had in those commutes. 
 
@@ -38,7 +50,7 @@ My home was seven blocks away from the bus stop. I was often accosted by aggress
 
 Studying in two different institutions was unsustainable. Thankfully, it didn't last long. 
 
-Most of my adult cousins were attending [Brigham Young University](https://www.byu.edu/) (BYU) at the time, and my parents thought I should too. At first, I resisted the idea, but they convinced me that going abroad would give me the best chance to succeed as a musician, and I acceded.
+Many of my older cousins were attending [Brigham Young University](https://www.byu.edu/) (BYU) at the time, and my parents thought I should too. At first, I resisted the idea, but they convinced me that going abroad would give me the best chance to succeed as a musician, and I acceded.
 
 While I was a student of UFPR and Belas, I also had to scramble to:
 
@@ -51,7 +63,7 @@ I didn't know that the school year in the Northern Hemisphere was different than
 
 Yet, somehow, I was admitted to start in the fall of that same year. My father maintains that this was only possible due to the intercession of an old family friend who knew someone in the admissions office. I think my father overestimates the pull this family friend had, but whatever the case, I got in.
 
-### Things I didn't know
+### What I did and didn't know
 
 In August 2006, I quit my studies in Curitiba and went to Provo with my mother. With the help of my cousins, I rented a shared room a few blocks away from campus. My mother helped me furnish whatever little space I had, and some days later she went back home.
 
@@ -63,7 +75,7 @@ That first year at BYU was very confusing. I understood little about what was ha
 
 - I didn't know any of the higher-ed lingo, e.g., undergraduate vs. graduate, and I didn't understand how these words related to my reality. I also didn't know the difference between teaching assistants (TAs), adjunct faculty, and full-time professors, and addressed everyone by the title of "Dr."
 
-All I knew was that my family expected me to get good marks, qualify for merit-based bursaries, find a part-time job, and leave on a mission for [The Church of Jesus Christ of Latter-Day Saints](https://www.churchofjesuschrist.org/) the following year. That was the path my cousins had blazed for me.
+All I knew was that my family expected me to get good marks, qualify for merit-based bursaries, find a part-time job, and leave on a mission for [The Church of Jesus Christ of Latter-Day Saints](https://www.churchofjesuschrist.org/) the following year. That was the path my older cousins had blazed for me.
 
 ### My first jobs
 
@@ -73,7 +85,7 @@ A few months later, a cousin of mine who worked for [BYU Broadcasting](https://w
 
 ### Money stress
 
-I worked all 20 weekly hours that my immigration status allowed me to, but money was still always tight. At some point in the fall of '06, the little cash my mother had left me ran out, and I realized that it was hard to make my money stretch all the way to the next paycheque. I started skipping breakfast and supper and set aside a $8-10 budget for a daily midday meal. Taco Bell and Little Ceasar's gave me the best bank for my buck, and that's what I mostly ate during that first year in university.
+My student visa allowed me to work 20 weekly hours, and I worked all 20 hours every week, but money was still always tight. At some point in the fall of '06, the little cash my mother had left me ran out, and I realized that it was hard to make my money stretch all the way to the next paycheque. I started skipping breakfast and supper and set aside a $8-10 budget for a daily midday meal. Taco Bell and Little Ceasar's gave me the best bank for my buck, and that's what I mostly ate during that first year in university.
 
 On Sundays, I went to my aunt's after church to enjoy my only decent, home-cooked meal all week. I also visited my cousins who lived nearby during the week to scavenge their leftovers. With their permission, of course.
 

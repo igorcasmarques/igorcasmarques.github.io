@@ -1,12 +1,12 @@
 ---
-title: 3. Second year in New Jersey
-slug: second-year-in-new-jersey
+title: 3. Mission (Year 2)
+slug: mission-year-two
 authors: icasmarques
 hide_table_of_contents: false
 date: 2024-04-26T00:02
 ---
 
-*This is an account of my adult life in essay form. You can find my [resume](/docs/resume/intro) and [portfolio](/docs/portfolio/intro) in different areas of this site.* 
+*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) and [portfolio](/docs/portfolio/intro) in different areas of this site.* 
 
 ## Long Branch
 

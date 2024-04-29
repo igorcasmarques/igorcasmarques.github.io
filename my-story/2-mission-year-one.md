@@ -1,12 +1,12 @@
 ---
-title: 2. First year in New Jersey
-slug: first-year-in-new-jersey
+title: 2. Mission (Year 1)
+slug: mission-year-one
 authors: icasmarques
 hide_table_of_contents: false
 date: 2024-04-26T00:01
 ---
 
-*This is an account of my adult life in essay form. You can find my [resume](/docs/resume/intro) and [portfolio](/docs/portfolio/intro) in different areas of this site.* 
+*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) and [portfolio](/docs/portfolio/intro) in different areas of this site.* 
 
 ## What's a mission?
 
