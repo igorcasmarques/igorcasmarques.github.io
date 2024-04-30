@@ -43,13 +43,13 @@ The AC Spanish branch no longer exists. It was moribund when I was there during 
 
 We were used to belligerent people. We were not shy about defending our beliefs when someone was hostile to us, but we tried to avoid confrontation as much as possible because it was not productive. It was a tug of war with no winners.
 
-We lived by this verse in The Book of Mormon,
+We lived by this verse in the Book of Mormon,
 
 > He that hath the spirit of contention is not of [God], but is of the devil, who is the father of contention, and he stirreth up the hearts of men to contend with anger, one with another.[^1]
 
 When we sensed that people just wanted to argue with us, we tried to retreat diplomatically. If they weren't going to share our beliefs, at least we hoped they'd remember us as decent people. But some people trapped us before attacking us (verbally, mostly).
 
-Whenever my companion and I were tired of working in AC, we took the train to Egg Harbor City and worked there. One of those days, a man answered a door that we knocked and talked to us. That was rare.
+Whenever my companion and I were tired of working in AC, we took the train to Egg Harbor City and worked there. One of those days, a man didn't send us away after knocking on his door and talked to us on the doorstep. That was rare.
 
 "Elder... Mar-KAY? Mar-KEE? What is that, French?," he asked me.
 
@@ -75,7 +75,7 @@ I didn't feel threatened by that man, but I did feel icky after the visit. Thank
 
 My mission leaders sent me to Princeton, an English-speaking area, to finish my mission. Spring in Princeton was unreal. The streets were fragrant, abuzz with bumblebees, and dressed in vibrant colours.
 
-### Companionship problems
+### Companionship troubles
 
 My time in Princeton was weird. On the one hand, I was at my boldest as a missionary. The apathy of the university community toward us somehow energized me, and I started to feel empowered by rejection. I walked upright and did not have a problem talking to anyone.
 

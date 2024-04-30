@@ -8,7 +8,7 @@ date: 2024-04-26T00:00
 
 *This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) and [portfolio](/docs/portfolio/intro) in different areas of this site.* 
 
-## University or college? Both!
+## College or university? Both!
 
 In late 2005, at the age of 17, I took the entrance exams for music production at the [Federal University of Paraná](https://ufpr.br/) (UFPR) and for music composition and conducting at the state's [College of Music and Fine Arts](https://embap.curitiba1.unespar.edu.br/) (Belas). I really only cared about the program at Belas, whose conservatory I'd already been attending since I was 10, but my parents and my school teachers expected me to apply to UFPR because it was the most prestigious university in the city. 
 
@@ -30,7 +30,7 @@ One instructor asked us about our long-term goals. "I want to write music for vi
 
 I was. I knew it was a viable career choice, even then. I wasn't offended by their laughing, though; my answer was unusual for the time and place and laughing was a fair reaction. Besides, I've always enjoyed making people laugh, regardless of the reason.
 
-#### *Così piangendo va*
+#### Counterpoint
 
 Another instructor, who taught counterpoint, had us listen to and analyze Victoria's [*O magnum mysterium*](https://youtu.be/9xPh-fXYAc4?si=BvWIHRapQ_IhjSPp). 
 
@@ -63,7 +63,7 @@ I didn't know that the school year in the Northern Hemisphere was different than
 
 Yet, somehow, I was admitted to start in the fall of that same year. My father maintains that this was only possible due to the intercession of an old family friend who knew someone in the admissions office. I think my father overestimates the pull this family friend had, but whatever the case, I got in.
 
-### What I did and didn't know
+### Naïveté
 
 In August 2006, I quit my studies in Curitiba and went to Provo with my mother. With the help of my cousins, I rented a shared room a few blocks away from campus. My mother helped me furnish whatever little space I had, and some days later she went back home.
 
@@ -79,7 +79,7 @@ All I knew was that my family expected me to get good marks, qualify for merit-b
 
 ### My first jobs
 
-In November 2006, I landed my first real job ever. I worked in the cafeteria of the [Provo Missionary Training Centre](https://provo.mtc.byu.edu/) (MTC). My duties were straightforward: clean the kitchen and serving areas and restock chafing dishes that were running low. Despite the simplicity, I was never trained how I thought I should've been, and I often felt lost in the job. It certainly didn't help that I earned minimum wage and not a cent more.
+In November 2006, I landed my first real job ever. I worked in the cafeteria of the [Provo Missionary Training Center](https://provo.mtc.byu.edu/) (MTC). My duties were straightforward: clean the kitchen and serving areas and restock chafing dishes that were running low. Despite the simplicity, I was never trained how I thought I should've been, and I often felt lost in the job. It certainly didn't help that I earned minimum wage and not a cent more.
 
 A few months later, a cousin of mine who worked for [BYU Broadcasting](https://www.byutv.org/) got me an interview for a job as an English-Portuguese translator. His boss offered me 25¢ above minimum wage, and I accepted without hesitation. My cousin became my supervisor and mentor for my four-month stint at that job and we often hung out together after work.
 

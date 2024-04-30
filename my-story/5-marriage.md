@@ -8,9 +8,9 @@ date: 2024-04-26T00:04
 
 *This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) and [portfolio](/docs/portfolio/intro) in different areas of this site.* 
 
-## Identity crisis
+## Fear of failure
 
-I turned twenty-three in 2011 but did not feel like an adult. In my mind, I was still the wide-eyed teenager from Curitiba. I didn't have a clear artistic voice, my portfolio was unremarkable, and my creative output was mutating from "impressive for my age" to "not sure how this will help me get a job" and "maybe I should've become a diplomat like my dad wanted."
+I turned 23 in '11 but did not feel like an adult. In my mind, I was still the wide-eyed teenager from Curitiba. I didn't have a clear artistic voice, my portfolio was unremarkable, and my creative output was mutating from "impressive for my age" to "not sure how this will help me get a job" and "maybe I should've become a diplomat like my dad wanted."
 
 Meanwhile, my older cousins were finishing their undergraduate degrees and getting jobs, showing me what professional success looked like for international students like us. Their steps became my roadmap: 
 
@@ -41,7 +41,7 @@ When I visited Vero in Chile in 2010, we got our wedding bands—courtesy of my 
 
 ## Concepción
 
-Vero and I got married in the church building of the University ward in Concepción. The ceremony itself took place in the chapel and was officiated by a justice of the peace (JP). Vero had stressed to me how important it was to be punctual because Chilean JPs were notoriously impatient with delays, but she acted against her own advice and arrived half an hour late to our wedding. I was freaking out, but luckily our JP didn't seem to mind Vero's tardiness. 
+Vero and I got married in the church of the University ward in Concepción. The ceremony itself took place in the chapel and was officiated by a justice of the peace (JP). Vero had stressed to me how important it was to be punctual because Chilean JPs were notoriously impatient with delays, but she acted against her own advice and arrived half an hour late to our wedding. I was freaking out, but luckily our JP didn't seem to mind Vero's tardiness. 
 
 After we were married, the JP left and Vero and I went to the nearby campus of the [University of Concepción](https://en.wikipedia.org/wiki/University_of_Concepci%C3%B3n), her alma mater, to take pictures with a photographer. Meanwhile, our guests started on the appetizers in the church building's cultural hall.
 
@@ -67,9 +67,9 @@ My first job in Concepción was at a radio station, selling ad space. I hated it
 
 Then, I learned about a well-paid, temporary gig for the government that aligned perfectly with our time frame. Chile would hold its [decennial census in 2012](https://es.wikipedia.org/wiki/Censo_chileno_de_2012), and they were looking for an army of census takers. Mysteriously, I applied and got the job, even though no one else we knew who had applied—and there were many in our age group—had been selected.
 
-I **loved** working for as a census taker. It was all of the fun parts of my mission minus the rejection and heartache. I walked the streets of Concepción 10 hours a day, going from home to home and interviewing people about their lives and their families. I met people across the socioeconomic spectrum, from well-to-do traditional families to destitute squatters.
+I **loved** working for the census. It was all of the fun parts of my mission minus the rejection and heartache. I walked the streets of Concepción 10 hours a day, going from home to home and interviewing people about their lives and families. I met people across the socioeconomic spectrum, from well-to-do traditional families to destitute squatters.
 
-Being a census taker could be funny, too. Many people did not understand the questions we asked—or what the census itself even was, for that matter. This led to some confusion.
+Being a census taker could be hilarious, too. Many people did not understand the questions we asked—or what the census itself even was, for that matter. This led to some confusion.
 
 #### Material
 
@@ -83,41 +83,47 @@ When people declared they were indigenous, the mandatory follow-up question was 
 
 The census asked people about the languages they spoke. It was not uncommon for upper middle-class parents to proudly state that their children spoke two, three, four languages. It was not just parental pride; it was a matter of social prestige and a return of their investment. 
 
-In Chile, private K-12 schools were the norm for middle-class families. This included lower middle-class families, who prioritized private education as soon as they could afford it. Some private schools for the upper social classes in Concepción distinguished themselves from the rest by offering foreign-language immersion programs and calling themselves the "British" or the "French" or the "Arabic" school. This fed into the people's strong pro-foreigner (especially pro-European) bias.
+In Chile, private K-12 schools were the norm for middle-class families. This included lower middle-class families, who prioritized private education as soon as they could afford it. Some private schools for the upper social classes in Concepción distinguished themselves from the rest by offering foreign-language immersion programs and calling themselves the "British" or the "French" or the "Arabic" school. This fed into people's strong pro-foreigner (especially pro-European) bias.
 
 I'd spoken with Chileans in English and had good reason to doubt those kids spoke all of those languages fluently, but I put down whatever their parents told me.
 
-#### Audífonos
+#### Audífono
 
-The word for "hearing aid" in Spanish is "audífono," which is the same word for "headphones." One of the questions I had to ask was, 
+The word for "hearing aid" in Spanish is *audífono*, which is the same word for "headphones." One of the questions I had to ask was, 
 
 *"Do you have difficulty hearing, even with a* hearing aid *on?"* 
 
-Some young people who didn't know what hearing aids were thought I was asking them, 
+Some young people who didn't know what a hearing aid was thought I was asking them, 
 
 *"Do you have difficulty hearing when you have* headphones *on?"* 
 
 "Well, yes," one young man told me. "I like to listen to loud music and can't hear anything when I've got my headphones on."
 
-I wasn't supposed to question people's answers and had to record exactly what they said, but  whenever this confusion happened, I'd clarify what type of "audífono" this question referred to.
+I wasn't supposed to question people's answers and had to record exactly what they said, but  whenever this misunderstanding happened, I'd clarify what type of *audífono* I was referring to.
 
-"Well, then no," they would amend.
+"Well, then no," they amended.
 
-## Vero's graduation
+#### Relation
 
-After the census ended, I felt empty. I could only watch so much The Office and play so much Batman: Arkham City on my PlayStation before I felt an itch to resume "my life" in Orem. It was selfish. I did have a lot to do that fall in addition to my university courses:
+The census required us to determine how people were related to the head of household (HH). The question we had to ask about each person was something like,
 
-- Polish my portfolio
-- Take the Graduate Records Examination (GRE)
-- Apply to grad school
-- Write my capstone project
+*"Cuál es su relación con el jefe de hogar?"*
 
-But I should've stayed a little longer in Concepción. If I had arranged an accommodation to miss the first few weeks of classes at BYU, I wouldn't have missed Vero's commencement ceremony in September 2012. That was my first big lapse of judgment as a husband.
+Which means,
 
-Being a good and loving husband has been a learning process for me. I've never been abusive or mean, but I wasn't very affectionate at that stage, and I didn't prioritize my wife like I should have. 
+*"How are you and the HH related?*
 
-I hope I know better now.
+Possible answers included: self, spouse, child, parent, etc. However, because *relación* can mean "relationship" in addition to "relation" (as in degree of kinship), what some people heard was,
+
+*"What is your relationship with the HH like?*
+
+Then they'd start going off about their marital problems and parenting challenges, which people somehow thought the census would like to record. 
+
+## Can I go now?
+
+After the census ended,[^4] I felt empty. I could only watch so much *The Office* (US) and play so much *Batman: Arkham City* on my PlayStation before I felt an itch to resume "my life" in Orem, as selfish as it was. 
 
 [^1]: Some of my cousins were able to speedrun this process by marrying US citizens. 
-[^2]: It was clear to me that many composers-slash-producers that worked for recording studios and media (TV, movies, advertising, etc.) didn't need these credentials. But I didn't want to write music for media or produce pop albums. My experiences at BYU had changed my ambitions; my dream of writing [music for video games](/my-story/1-from-curitiba-to-provo.md#video-game-music) gave way to a plan to become an academic composer and professor. I figured this would give me the most freedom to pursue my crazy ideas.
+[^2]: I knew that composers-slash-producers who worked for mass media didn't need a terminal degree, but I didn't want go into that. Even though I had gotten into music composition because I wanted to write [music for video games](/my-story/1-from-curitiba-to-provo.md#video-game-music), my time at BYU convinced me that a career in academia would give me the most freedom to pursue my crazy ideas.
 [^3]: Getting engaged in Chile was similar enough.
+[^4]: The 2012 census in Chile was [controversial and likely fraudulent](https://es.wikipedia.org/wiki/Censo_chileno_de_2012#Controversias), and had to be re-taken five years later. I have zero regrets about how I performed my duties, but apparently there were systemic issues with the whole process.

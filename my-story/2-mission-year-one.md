@@ -14,7 +14,7 @@ During that first year at BYU, I got a call to serve as a full-time missionary f
 
 The Church sends missionaries to places far from their homes and calls them to share the message of the [restored Gospel of Jesus Christ](https://www.comeuntochrist.org/) with the people who live there. In practice, this means missionaries spend most of their day-to-day finding people willing to listen to them so they can visit them in their homes, share a set of spiritual messages, and bring them to church on Sundays.
 
-### "Slow of speech"
+### Introversion
 
 Nephi, a prophet in the [Book of Mormon](https://www.churchofjesuschrist.org/study/scriptures/bofm?lang=eng), wrote that he was not "mighty in writing, like unto speaking."[^1] I'm the opposite.
 

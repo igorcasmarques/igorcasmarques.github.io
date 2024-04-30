@@ -71,7 +71,7 @@ Incidentally, I wish I had saved that recording.
 
 ## Chile 2010
 
-Vero had a friend from Chiguayante, her hometown, who had moved to Provo recently. I'd met her in Chile and thought she was great fun, so we got together once or twice that year. On 27 February 2010, she called me in the morning.
+Vero had a friend from Chiguayante, her hometown, who had moved to Provo recently. I'd met her in Chile and thought she was great fun, so we met up once or twice that year. On 27 February 2010, she called me in the morning.
 
 ### 27F
 
@@ -87,7 +87,7 @@ Vero had a friend from Chiguayante, her hometown, who had moved to Provo recentl
 
 We commiserated with each other and tried calling, emailing, using social media, anything to reach the people we loved down there. Eventually, she was able to talk to her family, and I got a call from Vero, who apparently had borrowed a satellite phone. 
 
-Vero told me that the earthquake had been vicious, her family was OK, and their home appeared to have suffered no structural damage. Life was complicated with severe aftershocks, looting, damaged roads, and a lack of services, but they were safe albeit traumatized and constantly on edge. She told not to worry, that her family, neighbourhood, and Church ward were managing, then she hung up.
+Vero told me that the earthquake had been vicious, that her family was OK, and that their home appeared to have suffered no structural damage. Life was complicated with severe aftershocks, looting, damaged roads, and a lack of services, but they were safe albeit traumatized and constantly on edge. She told me not to worry and that her family, neighbourhood, and Church ward were managing. Then she hung up.
 
 Vero has fascinating stories about that time, but they are hers to tell. On my end, all I could do was wait and hope for the best.
 
@@ -95,7 +95,9 @@ Vero has fascinating stories about that time, but they are hers to tell. On my e
 
 Chileans are proud of their resilience and the country soon resumed activities, even though many people continued to struggle for years with the after-effects of 27F.
 
-When I visited Chile that summer (which was winter in the Southern Hemisphere), I was most impressed by the ruins of the [Alto Río](https://es.wikipedia.org/wiki/Edificio_Alto_R%C3%ADo), a 15-storey building near the Biobío river that broke in half and collapsed during the earthquake. An [imposing but controversial memorial](https://www.architectural-review.com/buildings/atanacio-soza-arquitectos-memorial-27f-a-potential-symbol-of-drastic-change) was erected near the site of the Alto Río in 2013. I also noticed that 27F had become a scapegoat for problems that clearly antedated it, so I started joking with Vero and blaming 27F for any inconvenience I encountered there.
+When I visited Chile that summer (which was winter in the Southern Hemisphere), I was most impressed by the ruins of the [Alto Río](https://es.wikipedia.org/wiki/Edificio_Alto_R%C3%ADo), a 15-storey building near the Biobío river that broke in half and collapsed during the earthquake. An [imposing but controversial memorial](https://www.architectural-review.com/buildings/atanacio-soza-arquitectos-memorial-27f-a-potential-symbol-of-drastic-change) was erected near the site of the Alto Río in 2013.
+
+I also noticed that 27F had become a scapegoat for problems that clearly antedated it, so I started joking with Vero and blaming 27F for any inconvenience I encountered.
 
 2010 was a World Cup year as well, and Chileans were excited about the prospects of their national team. The Chilean squad did very well in the tournament until they had to go against Brazil in the round of 16, at which point they were properly thrashed, 3-0. That could've caused some friction with my girlfriend, but she was as Brazilian as she was Chilean, and felt comfortable with whatever outcome of that match. 
 
