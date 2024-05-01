@@ -29,7 +29,7 @@ That was one of the most random things that has ever happened to me.
 
 ## Atlantic City
 
-I spent my second winter in the mission in Atlantic City. Come Christmastime, we said yes to everyone who invited us for supper on Christmas eve. We went from home to home to home on a sort of holiday binge and ate a ridiculous amount of food that December 24<sup>th</sup>.
+I spent my second winter in the mission in Atlantic City, NJ. Come Christmastime, we said yes to everyone who invited us for supper on Christmas eve. We went from home to home to home on a sort of holiday binge and ate a ridiculous amount of food that December 24<sup>th</sup>.
 
 ### AC branch
 
@@ -73,7 +73,7 @@ I didn't feel threatened by that man, but I did feel icky after the visit. Thank
 
 ## Princeton
 
-My mission leaders sent me to Princeton, an English-speaking area, to finish my mission. Spring in Princeton was unreal. The streets were fragrant, abuzz with bumblebees, and dressed in vibrant colours.
+My mission leaders sent me to Princeton, NJ, an English-speaking area, to finish my mission. Spring in Princeton was unreal. The streets were fragrant, abuzz with bumblebees, and dressed in bright colours.
 
 ### Companionship troubles
 

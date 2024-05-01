@@ -16,7 +16,7 @@ The Church sends missionaries to places far from their homes and calls them to s
 
 ### Introversion
 
-Nephi, a prophet in the [Book of Mormon](https://www.churchofjesuschrist.org/study/scriptures/bofm?lang=eng), wrote that he was not "mighty in writing, like unto speaking."[^1] I'm the opposite.
+Nephi, a prophet in the [Book of Mormon](https://www.churchofjesuschrist.org/study/scriptures/bofm?lang=eng), wrote that he was not "mighty in writing, like unto speaking."[^1] I'm the exact opposite.
 
 Being a full-time missionary was extremely uncomfortable for me. 
 
@@ -36,7 +36,7 @@ I served in seven areas.
 
 ## First areas
 
-Even though I was called to serve in English, my mission leaders placed me in Riverside when I arrived on the field so I could work with the area's large Portuguese-speaking population.
+Even though I was called to serve in English, my mission leaders placed me in Riverside, NJ when I arrived on the field so I could work with the area's large Portuguese-speaking population.
 
 ### Riverside
 
@@ -48,7 +48,7 @@ Some time later, I dreamed with Jesus Christ. He was much taller than me, and he
 
 ### Burlington
 
-After two transfers in Riverside, I was moved to nearby Burlington and placed in a trio with another Brazilian missionary. We were to keep working with the Portuguese-speaking people of the area. We worked hard and had a lot of fun, but we were not able to get a group of Brazilians to come to church consistently like we had been tasked to do.
+After two transfers in Riverside, I was moved to nearby Burlington, NJ and placed in a trio with another Brazilian missionary. We were to keep working with the Portuguese-speaking people of the area. We worked hard and had a lot of fun, but we were not able to get a group of Brazilians to come to church consistently like we had been tasked to do.
 
 In Burlington, I discovered that missionaries have their own folklore. Some of it was harmless fun, like silly traditions and superstitions. For instance, some missionaries I knew kissed their right-hand knuckles and fist-bumped the roofs of their cars whenever they crossed an intersection with a yellow light. They did it either to avoid getting a ticket or to have good luck with the ladies after the mission. Maybe both.
 
@@ -68,7 +68,7 @@ When I was in Burlington, my Mission President reached out to me. Our interactio
 
 ### Freehold
 
-My first companion in Freehold was eccentric. Maybe he was neurodivergent, or had a personality disorder. During our daily language study in the morning, he chose to study Russian instead of Spanish, even though we never interacted with any Russians. When we visited people, he'd often refuse to speak, close his eyes, and go to sleep while I was speaking. One time he even ate a house centipede just to be funny.
+My first companion in Freehold, NJ was eccentric. Maybe he was neurodivergent, maybe he had a personality disorder—maybe he was just odd. During our daily language study in the morning, he chose to study Russian instead of Spanish, even though we never interacted with any Russians. When we visited people, he'd often refuse to speak, close his eyes, and go to sleep while I was speaking. One time he even ate a living house centipede just to be funny.
 
 Regardless, the more I learned Spanish and interacted with Latin American immigrants, the more I became enamoured with the language, the people, and their cultures. My Mission President's decision to put me in a Spanish-speaking area had a butterfly effect in my life that I'm very thankful for.
 

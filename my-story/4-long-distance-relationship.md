@@ -10,7 +10,7 @@ date: 2024-04-26T00:03
 
 ## In-person V-days
 
-After I was honourably released from my mission, I met with [Elder Richard Scott](https://www.churchofjesuschrist.org/church/leader/richard-g-scott?lang=eng), a member of the Church's [Quorum of Twelve Apostles](https://www.churchofjesuschrist.org/learn/quorum-of-the-twelve-apostles?lang=eng). Among other things, he told me that my next priority should be finding an "eternal companion." My mind went to Vero.
+After I was honourably released from my mission, I met with [Elder Richard Scott](https://www.churchofjesuschrist.org/church/leader/richard-g-scott?lang=eng), a member of the [Quorum of Twelve Apostles](https://www.churchofjesuschrist.org/learn/quorum-of-the-twelve-apostles?lang=eng). Among other things, he told me that my next priority should be finding an "eternal companion." My mind went to Vero.
 
 I finished my mission in May 2009, four months before I had to resume my studies at BYU, and I chose to spend that time in Curitiba. Vero had broken up with her previous boyfriend some time before and agreed to come to Brazil to see if we were a good match.
 
@@ -36,42 +36,40 @@ The interviewers wanted to make sure that:
 - I could write "my way out of a paper bag."
 - I had a good voice for radio.
 
-I checked two out of these three boxes; my accent and lack of experience got in the way of the third. Nevertheless, I got the job.
+I checked the first two out of these three boxes; my accent and lack of experience got in the way of the third. Nevertheless, I got the job.
 
 ### Job duties
 
-They gave me the title of *assistant producer* and told me that that was not the position that I had applied for—that had gone to another young man—but that they had liked me and wanted to keep me because another student was going to graduate soon anyway. 
+The people who hired me at Classical 89 gave me the title of *assistant producer* and told me that that was not the position that I had applied for—that had gone to another young man—but that they had liked me and wanted to keep me because another student was going to graduate soon anyway. 
 
-I worked happily at Classical 89 until I graduated in 2013.
-
-My main tasks were: 
+My main tasks as an assistant producer were: 
 
 - Assist with the logistics of concert recordings
 - Edit and package interviews and live performances for the air
 - Support the full-time announcers in their shifts
-- Record my own shifts on weekday evenings and weekends
+- Pre-record shifts that would air on weekday evenings and weekends
 
-I've always chosen my words carefully because I hated being misunderstood as a child. Being an assistant producer at Classical 89 helped me elevate that personality trait into communicative power. I learned a lot by reading aloud what I'd written and then revising it until it sounded good enough to say it on the air.
+I've always chosen my words carefully because I hated being misunderstood as a child. Working at Classical 89 helped me elevate that personality trait into communicative power. I learned a lot by reading aloud what I'd written and then revising it until it sounded good enough to say it on the air.
 
 ### Crisis of self-awareness
 
-One day, I checked out a portable Zoom recorder. Strangely, I noticed that the recorder's storage was almost full, even though everyone tended to format the recorders before checking them in. I listened to the recording to find out who'd left it there so I could ask for their permission to clear the memory and use the recorder for my project.
+One day, I checked out a portable Zoom recorder at work. Strangely, I noticed that the recorder's storage was almost full, even though everyone used to format the recorders before checking them in after using them. I listened to the recording to find out who had made it so I could ask for their permission to clear the memory and use the recorder for my project.
 
 It was the young man who had gotten the position I had applied for. I'd been working with him for several months and I thought he was a nice guy. In the recording, he was interviewing his wife, as a joke.
 
 Then, out of nowhere, he began to role-play as me.
 
-He put on a thick accent and started acting stupid. In his role-play, he, or rather, *I* was courting his wife like a lustful jackass while she refused my advances, laughing. I thought it was weird that she acted like she knew who I was, even though we'd never met. Was I the person that couple liked gossiping about? Were there other people who thought I was like that?
+He put on a thick accent and started acting stupid. In his role-play, he, or rather, *I* was courting his wife like a jackass while she refused my advances, laughing. I thought it was weird that she acted like she knew who I was, even though we'd never met. Was I the person that couple liked gossiping about? Were there other people who thought I was like that?
 
-I didn't hear the whole thing. I couldn't, I was too perplexed. Maybe that parody of me was a truer version of myself than the person I thought I was. But I was not offended. I've always enjoyed making people laugh, regardless of the reason.
+I didn't hear the whole thing. I paused the recording at some point because I was too perplexed to continue. Maybe that parody of me was a truer version of myself than the person I thought I was. 
 
-I pondered on the rare and fleeting nature of self-awareness. In the years since, I have accepted self-awareness as one my life's most elusive goals, and made peace with the fact that I may never know who I really am,[^1] or who I appear to be to other people.
+I considered how rare and fleeting self-awareness can be. In the years since, I have accepted self-awareness as one my life's most elusive goals, and made peace with the fact that I may never know who I really am, or who I appear to be to other people.
 
-Incidentally, I wish I had saved that recording.
+I was baffled by my co-worker's recording, but not offended. I've always enjoyed making people laugh, regardless of the reason. Incidentally, I wish I had saved that recording, but I think I deleted it right away.
 
 ## Chile 2010
 
-Vero had a friend from Chiguayante, her hometown, who had moved to Provo recently. I'd met her in Chile and thought she was great fun, so we met up once or twice that year. On 27 February 2010, she called me in the morning.
+Vero had a friend from Chiguayante, her hometown, who had moved to Provo recently. I'd met her in Chile and thought she was great fun, so we met up once or twice that year. On Saturday, 27 February 2010, she called me in the morning.
 
 ### 27F
 
@@ -85,11 +83,11 @@ Vero had a friend from Chiguayante, her hometown, who had moved to Provo recentl
 
 "There's been a massive earthquake near Conce, one of the worst ones ever! And a tsunami, too. Phone, internet, nothing's working, so nobody knows if people there are OK." (She was right; that earthquake, nicknamed 27F, remains the eighth most intense seismic activity in recorded history.)
 
-We commiserated with each other and tried calling, emailing, using social media, anything to reach the people we loved down there. Eventually, she was able to talk to her family, and I got a call from Vero, who apparently had borrowed a satellite phone. 
+We commiserated with each other and tried calling, emailing, using social media, anything to reach the people we loved down there. Over the course of that weekend, she was able to talk to her family, and I got a call from Vero, who apparently had borrowed a satellite phone. 
 
 Vero told me that the earthquake had been vicious, that her family was OK, and that their home appeared to have suffered no structural damage. Life was complicated with severe aftershocks, looting, damaged roads, and a lack of services, but they were safe albeit traumatized and constantly on edge. She told me not to worry and that her family, neighbourhood, and Church ward were managing. Then she hung up.
 
-Vero has fascinating stories about that time, but they are hers to tell. On my end, all I could do was wait and hope for the best.
+Vero has fascinating stories about 27F, but they are hers to tell. On my end, all I could do was wait and hope for the best.
 
 ### World Cup
 
@@ -103,7 +101,7 @@ I also noticed that 27F had become a scapegoat for problems that clearly antedat
 
 ## Year 3 at BYU
 
-Fall 2010 marked the beginning of my third year in university. Academically, I was doing very well and qualified for a full-tuition bursary.
+Fall 2010 marked the beginning of my third year in university. Academically, I was doing very well and had qualified for not one, but two simultaneous full-tuition bursaries.
 
 ### ALMA
 
@@ -113,7 +111,7 @@ I thought back to my reticence about applying to BYU, and the ALMA made me feel 
 
 ### Move to Orem
 
-In late 2010, my parents decided to spend a small fortune they had been saving to buy a condo in Orem near exit 273 of the I-15. It had high ceilings, three bedrooms, two bathrooms, and a nice balcony with a view of the Wasatch Mountains. It was a couple of blocks away from [WinCo](https://www.wincofoods.com/), my favourite grocery store ever, and about 5 km away from the scenic Utah Lake.
+In late 2010, my parents decided to spend a small fortune they had been saving to buy a condo in Orem near exit 273 of the I-15. It had high ceilings, three bedrooms, two bathrooms, and a nice balcony with a view of the Wasatch Mountains. It was a couple of blocks away from [WinCo](https://www.wincofoods.com/), my favourite grocery store ever, and about 5 km away from scenic Utah Lake.
 
 That condo would be my home until 2015. I loved living there and never took it for granted.
 

@@ -37,13 +37,15 @@ Vero and I had always had a serious, marriage-oriented relationship. In 2010, we
 
 In Brazil, engagement was an agreement, not a surprise ultimatum one sprang on the other, and both the man and the woman wore plain gold bands when they got engaged—somewhat dear, but still a fraction of the price of the engagement rings people go into debt for in the US. The discussion that culminated in the decision to get married could happen in a specially romantic or significant place for the couple, but usually there were no theatrics involved. Engaged couples then invited their family and friends to a party to announce and celebrate their engagement, and remained engaged for up to a few years until the conditions were right to get married.[^3]
 
-When I visited Vero in Chile in 2010, we got our wedding bands—courtesy of my maternal grandmother—and announced our engagement to our families and friends. We thought it'd be a good idea to get married in December 2011. Vero would be done with university coursework and would need an just additional half year to undertake a mandatory practical internship. Incidentally, as an international student in the US, I could defer my studies for a half year, making me able to move to Chile and support her during her internship. 
+When I visited Vero in Chile in 2010, we got our wedding bands—courtesy of my maternal grandmother—and announced our engagement to our families and friends. 
+
+We thought it'd be a good idea to get married in December 2011. Vero would be done with university coursework and would need an just additional half year to undertake a mandatory practical internship. Incidentally, as an international student in the US, I could defer my studies for a half year, making me able to move to Chile and support her during her internship. 
 
 ## Concepción
 
-Vero and I got married in the church of the University ward in Concepción. The ceremony itself took place in the chapel and was officiated by a justice of the peace (JP). Vero had stressed to me how important it was to be punctual because Chilean JPs were notoriously impatient with delays, but she acted against her own advice and arrived half an hour late to our wedding. I was freaking out, but luckily our JP didn't seem to mind Vero's tardiness. 
+Vero and I got married in the church of the [University ward](https://maps.churchofjesuschrist.org/wards/130354) in Concepción. The ceremony itself took place in the chapel and was officiated by a justice of the peace (JP). Vero had stressed to me how important it was to be punctual because Chilean JPs were notoriously impatient with delays, but she acted against her own advice and arrived half an hour late to our wedding. I was freaking out, but luckily our JP didn't seem to mind Vero's tardiness. 
 
-After we were married, the JP left and Vero and I went to the nearby campus of the [University of Concepción](https://en.wikipedia.org/wiki/University_of_Concepci%C3%B3n), her alma mater, to take pictures with a photographer. Meanwhile, our guests started on the appetizers in the church building's cultural hall.
+After we were married, the JP left and Vero and I went to the nearby campus of the [University of Concepción](https://en.wikipedia.org/wiki/University_of_Concepci%C3%B3n), her alma mater, to take pictures with a photographer. Meanwhile, our guests started on the appetizers in the church's cultural hall.
 
 Our wedding reception was modest but plentiful and fun. Dozens of relatives and friends attended—including my parents, siblings, and an aunt that worked tirelessly that day to decorate the hall we held our reception in. We ate a delicious meal prepared by the catering business Vero worked for on weekends and danced until late that night.
 
@@ -53,11 +55,11 @@ After the reception, we travelled 500 km north to Santiago, where we were [seale
 
 A week later, Vero and I were back in Concepción. We lived in a tiny one-bedroom apartment on Ongolmo, close to Paicaví and Carrera, a central area in the city with lots of young people like us. Nights were rough for me because our neighbours were loud and drunk people often argued and fought in front of our apartment building. Vero slept through it all.
 
-As the seasons changed, we experienced some of the most terrifying windstorms I've ever seen. One time, I was walking back from church alone on Sunday when I heard a heart-stopping noise. A powerful gust had lifted a large zinc sheet from a building behind me and sent it dancing in the air, thundering with each flutter.
+As the seasons changed, we experienced some of the most terrifying windstorms I've ever seen. One time, I was walking back from church alone on Sunday when I heard a heart-stopping noise. A powerful gust had lifted a large corrugated zinc sheet from a building behind me and sent it dancing in the air, thundering with each flutter.
 
 Another time, there was such an intense driving rain that water was spouting violently out of the rabbets of our apartment's windows. The putty on those windows was old and spotty, so I had an idea: stuff the rabbets with thin plastic bags, like the ones grocery stores used to give customers back then. Vero laughed and laughed, but it worked. It didn't look great, but it worked. 
 
-I still brag about the presence of mind I displayed that day, and Vero still laughs. But I've never minded her laughing. I love to make her laugh more than anybody else.
+I still brag about the presence of mind I showed that day, and Vero still laughs. But I've never minded her laughing. I love to make her laugh more than anybody else.
 
 ### Censo 2012
 
@@ -65,7 +67,7 @@ Before long, Vero settled in her routine doing her internship while I looked for
 
 My first job in Concepción was at a radio station, selling ad space. I hated it and quit after my first paycheque.
 
-Then, I learned about a well-paid, temporary gig for the government that aligned perfectly with our time frame. Chile would hold its [decennial census in 2012](https://es.wikipedia.org/wiki/Censo_chileno_de_2012), and they were looking for an army of census takers. Mysteriously, I applied and got the job, even though no one else we knew who had applied—and there were many in our age group—had been selected.
+Then, I learned about a well-paid, temporary gig for the government that aligned perfectly with our time frame. Chile was going to hold its [decennial census in 2012](https://es.wikipedia.org/wiki/Censo_chileno_de_2012), and they were looking for an army of census takers. I applied and mysteriously got the job, even though no one else we knew who had applied—and there were many in our age group—had been selected.
 
 I **loved** working for the census. It was all of the fun parts of my mission minus the rejection and heartache. I walked the streets of Concepción 10 hours a day, going from home to home and interviewing people about their lives and families. I met people across the socioeconomic spectrum, from well-to-do traditional families to destitute squatters.
 
@@ -73,17 +75,17 @@ Being a census taker could be hilarious, too. Many people did not understand the
 
 #### Material
 
-I had to ask people what their residences were made of. Most people had no idea. Some people answered "material," which is as vague and obvious in Spanish as it is in English. They said it with such confidence, too! I soon learned that some old-timers used "material" in opposition to wood, so it basically meant brick and mortar or reinforced concrete.
+I had to ask people what their residences were made of. Most people had no idea. Some people answered "material," which is as vague and obvious in Spanish as it is in English. They said it with such confidence, too. I soon learned that some old-timers used "material" in opposition to wood, so it basically meant brick and mortar (for houses) or reinforced concrete (for apartment buildings).
 
 #### Being indigenous
 
-When people declared they were indigenous, the mandatory follow-up question was about their ethnic group. For indigenous people, the answer was straightforward. Those who self-identified as indigenous but didn't have strong ties with a particular group were generally stumped. Some walked back and said they weren't actually indigenous. Others doubled down and said that all Chileans should consider themselves indigenous and picked the Mapuche as their ethnic group because they represented anti-colonial resistance.
+When people declared they were indigenous, the mandatory follow-up question was about their ethnic group. For indigenous people, the answer was straightforward. Those who self-identified as indigenous but didn't have strong ties with a particular group were generally stumped. Some walked back and said they weren't actually indigenous. Others doubled down and said that all Chileans should consider themselves indigenous and picked the [Mapuche](https://www.britannica.com/topic/Mapuche) as their ethnic group because they represented anti-colonial resistance.
 
 #### Polyglots
 
 The census asked people about the languages they spoke. It was not uncommon for upper middle-class parents to proudly state that their children spoke two, three, four languages. It was not just parental pride; it was a matter of social prestige and a return of their investment. 
 
-In Chile, private K-12 schools were the norm for middle-class families. This included lower middle-class families, who prioritized private education as soon as they could afford it. Some private schools for the upper social classes in Concepción distinguished themselves from the rest by offering foreign-language immersion programs and calling themselves the "British" or the "French" or the "Arabic" school. This fed into people's strong pro-foreigner (especially pro-European) bias.
+In Chile, private K-12 schools were the norm for middle-class families. This included lower middle-class families, who prioritized private education for their children as soon as they could afford it. Some private schools for the upper social classes in Concepción distinguished themselves from the rest by offering foreign-language immersion programs and calling themselves the "British" or the "French" or the "Arabic" school. This fed into people's strong pro-foreigner (especially pro-European) bias.
 
 I'd spoken with Chileans in English and had good reason to doubt those kids spoke all of those languages fluently, but I put down whatever their parents told me.
 
@@ -97,31 +99,31 @@ Some young people who didn't know what a hearing aid was thought I was asking th
 
 *"Do you have difficulty hearing when you have* headphones *on?"* 
 
-"Well, yes," one young man told me. "I like to listen to loud music and can't hear anything when I've got my headphones on."
+"Well, yes," one young man told me. "I like to listen to loud music on my iPod and can't hear anything when I've got my headphones on."
 
 I wasn't supposed to question people's answers and had to record exactly what they said, but  whenever this misunderstanding happened, I'd clarify what type of *audífono* I was referring to.
 
-"Well, then no," they amended.
+"OK, then no," they amended.
 
 #### Relation
 
-The census required us to determine how people were related to the head of household (HH). The question we had to ask about each person was something like,
+The census required us to determine how people were related to the head of household. The question we had to ask about each person was something like,
 
 *"Cuál es su relación con el jefe de hogar?"*
 
 Which means,
 
-*"How are you and the HH related?*
+*"How are you and the head of household related?*
 
 Possible answers included: self, spouse, child, parent, etc. However, because *relación* can mean "relationship" in addition to "relation" (as in degree of kinship), what some people heard was,
 
-*"What is your relationship with the HH like?*
+*"What is your relationship with the head of household like?*
 
 Then they'd start going off about their marital problems and parenting challenges, which people somehow thought the census would like to record. 
 
 ## Can I go now?
 
-After the census ended,[^4] I felt empty. I could only watch so much *The Office* (US) and play so much *Batman: Arkham City* on my PlayStation before I felt an itch to resume "my life" in Orem, as selfish as it was. 
+After the census ended,[^4] I felt empty. I could only watch so much *The Office* (US) and play so much *Batman: Arkham City* on my PlayStation before I felt an itch to resume "my life" in Orem, as selfish as that was. 
 
 [^1]: Some of my cousins were able to speedrun this process by marrying US citizens. 
 [^2]: I knew that composers-slash-producers who worked for mass media didn't need a terminal degree, but I didn't want go into that. Even though I had gotten into music composition because I wanted to write [music for video games](/my-story/1-from-curitiba-to-provo.md#video-game-music), my time at BYU convinced me that a career in academia would give me the most freedom to pursue my crazy ideas.

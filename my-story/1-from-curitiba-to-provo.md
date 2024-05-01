@@ -10,7 +10,7 @@ date: 2024-04-26T00:00
 
 ## College or university? Both!
 
-In late 2005, at the age of 17, I took the entrance exams for music production at the [Federal University of Paraná](https://ufpr.br/) (UFPR) and for music composition and conducting at the state's [College of Music and Fine Arts](https://embap.curitiba1.unespar.edu.br/) (Belas). I really only cared about the program at Belas, whose conservatory I'd already been attending since I was 10, but my parents and my school teachers expected me to apply to UFPR because it was the most prestigious university in the city. 
+In late 2005, at the age of 17, I took the entrance exams for [music production at the Federal University of Paraná](https://sacod.ufpr.br/artes/musica-licenciatura-e-bacharelado/) (UFPR) and for [music composition and conducting at the state's College of Music and Fine Arts](https://embap.curitiba1.unespar.edu.br/menu-ensino/graduacao/bacharelado-em-composicao-e-regencia) (Belas). I really only cared about the program at Belas, whose conservatory I'd already been attending since I was 10, but my parents and my school teachers expected me to apply to UFPR because it was the most prestigious university in the city. 
 
 I passed the exams with flying colours and enrolled in both programs simultaneously.
 
@@ -40,7 +40,7 @@ I would have similar experiences later in life with the final movement of Mozart
 
 #### Nightly commutes
 
-After classes ended at about 22:30, I bussed back home with my best friend from church, who was a first-year student at Belas like me. Despite the late hour, buses were bustling with people who also had night classes in nearby colleges. It was a vibrant atmosphere, and my friend and I had some of the most fun conversations I've ever had in those commutes. 
+After classes ended at about 22:30, I bussed back home with my best friend from church, who was a first-year student at Belas like me. Despite the late hour, buses were bustling with people who also had night classes in nearby colleges. It was a vibrant atmosphere, and my friend and I had some of the most fun conversations I've ever had on those commutes. 
 
 I felt fortunate to have a friend like him, with whom I could connect deeply on many levels. Our paths would diverge in later years, and I was never to regain a friendship like that in my adult life.
 
