@@ -81,11 +81,11 @@ My time in Princeton was weird. On the one hand, I was at my boldest as a missio
 
 On the other hand, I hardly connected with anybody. My first companion there was terrible. He refused to talk to people and chewed me out openly in front of anyone. He'd been seeing a therapist, but the pressures of missionary work got to him and he ended up going home a few weeks later, six months before his release date.
 
-The missionary that replaced him was was lazy and petty, but not as mean. We worked less than we should have and had zero success. With one exception.
+The missionary that replaced him was lazy and petty, but not as mean. We worked less than we should and had zero success. With one exception.
 
 ### Technically, I taught at Princeton
 
-A woman in her 20s was receptive to our messages. She was was pursuing a graduate degree at Princeton and had become good friends with a classmate who was a member of our ward. I'm not sure if she had ulterior motives vis-à-vis her friend, but I don't think she did. She was bright and genuine. My companion and I shared our messages with her and her friend once a week in a classroom on campus. She eventually lost interest, and I still blame myself for that. 
+A woman in her twenties was receptive to our messages. She was was pursuing a graduate degree at Princeton and had become good friends with a classmate who was a member of our ward. I'm not sure if she had ulterior motives vis-à-vis her friend, but I don't think she did. She was bright and genuine. My companion and I shared our messages with her and her friend once a week in a classroom on campus. She eventually lost interest, and I still blame myself for that. 
 
 Missionaries say they are "trunky" when they feel indolent toward the end of their missions, i.e., their trunks are packed and they are fixated about going home. Regrets aside, I was never "trunky" in Princeton and continued to work hard until my last day on the field in late May 2009.
 

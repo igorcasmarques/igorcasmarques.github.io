@@ -21,7 +21,7 @@ But I should've stayed a little longer in Concepción.
 
 ### Vero's graduation
 
-I returned to the US in late July 2012 to prepare for my return to school and to get everything in order for Vero to come after her convocation ceremony in mid-September. 
+I returned to the US in late July 2012 to prepare for my classes and to get everything in order for Vero to come after her convocation ceremony in mid-September. 
 
 I regret doing it that way. I could've arranged an accommodation to miss the first few weeks of classes at BYU to attend Vero's graduation. Even in the worst case scenario, I could've survived a few bad marks.
 
