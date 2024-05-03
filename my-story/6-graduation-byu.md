@@ -37,11 +37,11 @@ I went to see my boss at the radio station to hand in my notice. I was transpare
 
 When Vero arrived in the US, her English was good but not yet fluent, so she enrolled in BYU's [English Language Center](https://elc.byu.edu/) (ELC) and studied English full-time from January-April 2013. During this period, her immigration status changed from F-2 (spouse of an international student) to F-1 (international student), which meant she could now obtain a Social Security Number and a driver's licence, and work part-time on campus like me.
 
-In theory, ELC students could work any job on campus. In practice, the vast majority of them worked custodian jobs that required little to no communication skills, and that's what Vero did as well. She cleaned office spaces in the Wilkinson Center from 4-8 am on weekdays before attending classes. It was a far cry from being a dental surgeon in Chile, but we could use the money and Vero was a good sport about it.
+In theory, ELC students could work any job on campus. In practice, the vast majority of them worked custodian jobs that required little to no communication skills, and that's what Vero did as well. She cleaned office spaces in the Wilkinson Center from 4-8 a.m. on weekdays before attending classes. It was a far cry from being a dental surgeon in Chile, but we could use the money and Vero was a good sport about it.
 
 A lot of what I did at Classical 89 by that point was pre-recorded, so I arranged with my supervisor to work a very early shift like Vero. My voice sounded nice and deep at that time of day, too.
 
-Waking up that early was hard, though. Both of us had attended [early-morning seminary](https://www.churchofjesuschrist.org/si/seminary?lang=eng) every day at 6 am as teenagers, but our condo was located more than 15 km northwest of campus and we had to wake up at about 3:15 am to shower, get ready for the day, and get to work on time. 
+Waking up that early was hard, though. Both of us had attended [early-morning seminary](https://www.churchofjesuschrist.org/si/seminary?lang=eng) every day at 6 a.m. as teenagers, but our condo was located more than 15 km northwest of campus and we had to wake up at about 3:15 a.m. to shower, get ready for the day, and get to work on time. S
 
 One thing made our commutes easier. As we drove down Canyon Rd and then 900 E in Provo and got closer and closer to the Wasatch Mountains, we often saw groups of white-tailed deer grazing on people's lawns and even on the campus greens. It was magical. They never dared coming down from the mountains after sunrise. 
 
@@ -49,7 +49,7 @@ I kept hoping we'd run into a cougar, which is BYU's mascot, either on our commu
 
 ## One quarter century down
 
-When I turned 25 in the spring of '13, I'd been married for a year and a half and had been accepted to the master's program in [music composition at the University of Utah](https://music.utah.edu/students/programs-degrees.php#comp) (the U). They offered me a full-tuition scholarship and a graduate assistantship that paid more I had ever earned—a low bar to clear, but nice anyway. 
+When I turned 25 in the spring of '13, I'd been married for a year and a half and had been accepted to the master's program in [music composition at the University of Utah](https://music.utah.edu/students/programs-degrees.php#comp) (U of U). They offered me a full-tuition scholarship and a graduate assistantship that paid more I had ever earned—a low bar to clear, but nice anyway. 
 
 I went on to graduate *cum laude* from BYU, and felt that I had become a seasoned radio producer after working at Classical 89 for nearly four years.
 
@@ -63,25 +63,25 @@ Vero became pregnant with our first son, Samuel, when we were in Concepción, ri
 
 We did not have health insurance in the US, so we signed up for prenatal care at a community health centre in Provo that offered sliding fee discounts for low-income people like us. The care Vero received at this clinic was not excellent and ultimately led to complications that caused Samuel to have a difficult premature birth.
 
-### Year 1 at the U
+### Year 1 at the U of U
 
-Vero and I chose not to move when the U accepted my application. We continued to live in the Orem condo my parents owned so we could save rent money. Our family was growing, after all. We also saved on gas because the U gave me a public transit pass, and that's what I used to travel the 65 km each way to go to campus.
+Vero and I chose not to move when the U of U accepted my application. We continued to live in the Orem condo my parents owned so we could save rent money. Our family was growing, after all. We also saved on gas because the U gave me a public transit pass, and that's what I used to travel the 65 km each way to go to campus.
 
-My course schedule at the U was lighter than in my undergrad and my responsibilities as a grad assistant were flexible, so I didn't have to go to campus every day. When I did, Vero drove me to the Orem train station to take the [FrontRunner](https://en.wikipedia.org/wiki/FrontRunner) north to Murray Central, where I switched to the campus-bound [Red Line TRAX](https://en.wikipedia.org/wiki/TRAX_(light_rail)#Lines_and_stations). It took me nearly two hours to go from home to campus or vice-versa.
+The course schedule of my master's was more spread out over the week than in my undergrad and my responsibilities as a grad assistant were flexible, so I didn't have to go to campus every day. When I did, Vero drove me to the Orem train station so I could take the [FrontRunner](https://en.wikipedia.org/wiki/FrontRunner) north to Murray Central, where I switched to the campus-bound [Red Line TRAX](https://en.wikipedia.org/wiki/TRAX_(light_rail)#Lines_and_stations). It took me nearly two hours to go from home to campus or vice-versa.
 
-I rarely drove myself to campus. It was twice as fast as public transit, but it left Vero stranded at home and was less comfortable and productive than riding the trains.
+I rarely drove myself to campus. It was twice as fast as public transit, but it left Vero stranded at home and was less comfortable and productive than riding the trains for me.
 
-The FrontRunner had desks with eletrical outlets, and I could usually find one to sit at and play *Civilization V*, compose, or do some homework. When I switched to the TRAX, I liked reading books on my Kindle and listening to Ricky Gervais's [podcasts and old Xfm episodes](https://en.wikipedia.org/wiki/Ricky_Gervais#Radio) with Stephen Merchant and Karl Pilkington. I got hooked on their brand of humour and consumed everything else I discovered by them, like the animated HBO show, *An Idiot Abroad*, and *Derek*.
+The FrontRunner had desks with eletrical outlets, and I could usually find one to sit at and play *Civilization V*, compose, or do some homework. When I switched to the TRAX—which were more like buses—I liked reading books on my Kindle and listening to Ricky Gervais's [podcasts and old Xfm episodes](https://en.wikipedia.org/wiki/Ricky_Gervais#Radio) with Stephen Merchant and Karl Pilkington. I got hooked on their brand of humour and consumed everything else I discovered by them, like the animated HBO show, *An Idiot Abroad*, and *Derek* on Netflix.
 
 ### "Painful to read"
 
-I got along well with my composition instructor at the U, [Morris Rosenzweig](https://morrisrosenzweig.com/bio). He was incredibly talented and clear-minded, and had the personality of a lovable grouchy old man, always kvetching about this or that. He held me in high regard, higher than I deserved.
+I got along well with my composition instructor at the U of U, [Morris Rosenzweig](https://morrisrosenzweig.com/bio). He was incredibly talented and clear-minded, and had the personality of a lovable grouchy old man, always kvetching about this or that. He held me in high regard, higher than I deserved.
 
 I wanted to understand what made him tick. I interviewed him about his creative process and his daily routine, and wrote a paper about him, which I then submitted to [*Perspectives of New Music*](https://www.perspectivesofnewmusic.org/). 
 
-I had to become a published researcher if I were to succeed in academia, and at almost 26 years of age, I needed to do it sooner rather than later. *Perspectives* is the go-to academic journal in the field of contemporary music in the US, but I'd gotten an A in the paper in my research methods course, so I figure I had a chance.
+I had to become a published researcher if I were to succeed in academia, and at almost 26 years of age, I needed to do it sooner rather than later. It was intimidating to submit a paper to *Perspectives* because it was (and still is) the go-to academic journal in the field of contemporary music in the US. But I'd gotten an A in the paper in my research methods course, so I figure I had a chance. How bad could it be?
 
-I got a scathing response from *Perspectives*. One reviewer wrote, and I paraphrase, "I hope it was less painful for Rosenzweig to sit through the interviews with this writer than it was for me to read this horrible paper."
+Pretty bad, actually. I got a scathing response from *Perspectives*. One reviewer wrote, and I paraphrase, "I hope it was less painful for Rosenzweig to sit through the interviews with this writer than it was for me to read this horrible paper."
 
 I still have the email from *Perspectives* but I can't bring myself to open the attachment with the reviewers' comments, even after all these years. It was the lowest blow to my self-esteem to date. It's not like I didn't know rejection, either; rejection had been my daily bread as a missionary and a constant companion in my undergrad when I applied to competitions, new music festivals, and grad school programs. But this email from *Perspectives* was particularly scarring.[^1]
 

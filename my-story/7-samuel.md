@@ -38,7 +38,7 @@ Vero and I were so worried about his weight that we meticulously measured how ma
 
 #### Waiting
 
-Samuel's first week in the NICU coincided with spring break at the U, so I was able to be with him and Vero without interruptions. When classes and work resumed for me, my mother-in-law arrived in the US and filled in for me in the NICU, though I still visited the hospital whenever I could. 
+Samuel's first week in the NICU coincided with spring break at the U of U, so I was able to be with him and Vero without interruptions. When classes and work resumed for me, my mother-in-law arrived in the US and filled in for me in the NICU, though I still visited the hospital whenever I could. 
 
 When Samuel slept, I kept Vero company and read books. On Sunday evenings, I liked to watch Neil deGrasse Tyson's *Cosmos: A Spacetime Odyssey* in the hospital's breakroom, which premiered that year.
 
@@ -78,12 +78,12 @@ In spite of our hardships, I fell in love with Samuel more and more each day.
 
 I didn't know I was capable of loving so deeply and intensely. He imbued my life with purpose and adjusted my priorities. My studies, my career, my ego, nothing else seemed to matter too much in comparison to my son's (and my wife's) welfare and happiness.
 
-## Back to the U
+## Back to the U of U
 
 By the fall of '14, Vero's diligent breastfeeding and mothering had helped Samuel become a healthy, happy, and plump baby boy with no apparent sequelae of his complicated birth. He was still small, but Samuel's pediatrician told us that this was not a problem per se. After all, I'm a short man myself.
 
 I was afraid Vero would have a hard time when I went back to school, but a visit from her older sister and two close friends from Chiguayante in October propped her spirit. After they were gone, we had Thanksgiving and Christmas with my cousins and their families to look forward to. Fun things would happen again; we just had to be patient. 
 
-Meanwhile, I continued to work hard on my master's degree. I taught university courses in music theory, sight singing, and dictation to 1<sup>st</sup>- and 2<sup>nd</sup>-year music majors at the U. I wrote my thesis project and helped coordinate the logistics of two new music ensembles. 
+Meanwhile, I continued to work hard on my master's degree. I taught university courses in music theory, sight singing, and dictation to 1<sup>st</sup>- and 2<sup>nd</sup>-year music majors at the U of U. I wrote my thesis project and helped coordinate the logistics of two new music ensembles. 
 
 I also applied to 10 different doctoral programs, all outside of Utah. I thought that my family needed a change of scenery in 2015.

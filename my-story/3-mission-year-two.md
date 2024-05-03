@@ -63,7 +63,7 @@ I got that all the time. People did not realize Brazil is a diverse country. But
 
 "Not at all. You're pure white. Not a hint of black or brown. You come from a lineage of untainted slave owners and Indian killers, don't you? Hundreds of years in Brazil and not one of your ancestors wanted to sleep with a black lady?"[^2]
 
-I didn't know how to respond. The man was right, at least partially. I do have slave-owning ancestors. But that's just one branch of my family tree. I also have a freedwoman ancestor from the early 1800s in Minas Gerais. My maternal grandmother's maternal grandmother came from an indigenous group in southern Maranhão.
+I didn't know how to respond. The man was right, at least partially. I do have slave-owning ancestors. But that's just one branch of my family tree. There was also family lore about a freedwoman ancestor from the early 1800s in Minas Gerais and another one who belonged to an indigenous group in southern Maranhão.
 
 But there was no point in contradicting the man. He bid us go in, and we sat in his living room. We never refused an invitation to enter a home. He continued to be edgy and toy with us just to see how we would react. He was bored on a Saturday afternoon, and we were his entertainment.
 
