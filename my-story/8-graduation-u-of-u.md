@@ -26,7 +26,7 @@ Toward the end of the interview, a young faculty member wanted to discuss one of
 
 *Purple Robe* starts out as a thicket of uncoordinated and repetitive noise that gradually gives way to a baroque vocalise. It's very expressive. The part I like the best is the transition between the last bit of noise and the vocalise, which features straight-up clapping by the orchestra's percussionists. It's ridiculously simple but it gives me goosebumps.
 
-I didn't impress the UCLA committee enough to get a spot in the program and they wait-listed me, which was just as well because they hadn't exactly passed my vibe check either. I found the people there to be as stuffy as the weather that day, and LA traffic was purgatorial.
+I didn't impress the UCLA committee enough to get a spot in the program and they wait-listed me, which was just as well because they hadn't exactly passed my vibe check either. I found the people there to be as stuffy as the weather, and LA traffic was purgatorial.
 
 ### CUNY
 
@@ -40,7 +40,7 @@ CUNY also wait-listed me.
 
 ### UB
 
-Between my interviews at UCLA and CUNY, I got a phone call from composer [David Felder](http://www.david-felder.com/). During his 30-year tenure at UB, Felder had amassed an impressive catalogue of prize-winning original works and prestigious commissions and collaborations. His professional network was second to none. Felder was also the founder and director of the [Center for 21<sup>st</sup> Century Music](https://arts-sciences.buffalo.edu/music21c.html), which brought new music superstars from all over the world to Buffalo throughout the year and especially in the summer during the [June in Buffalo](https://arts-sciences.buffalo.edu/music21c/june-in-buffalo.html) conference. 
+Between my interviews at UCLA and CUNY, I got a phone call from composer [David Felder](http://www.david-felder.com/). During his 30-year tenure at UB, Felder had amassed an impressive catalogue of prize-winning original works and prestigious commissions and collaborations. He was also the founder and director of the [Center for 21<sup>st</sup> Century Music](https://arts-sciences.buffalo.edu/music21c.html), which brought new music superstars from all over the world to Buffalo throughout the year and especially in the summer during the [June in Buffalo](https://arts-sciences.buffalo.edu/music21c/june-in-buffalo.html) conference. Felder's professional network was second to none. 
 
 There was no admissions committee at UB. Felder called the shots. 
 
@@ -80,9 +80,9 @@ It's hard to explain, but I've always felt a powerful call.
 
 #### "It's all done"
 
-Because of my my blue eyes, I used to fantasize that my ancestors were Viking warriors or Celtic druids. Never mind that my father had repeatedly said that we were Portuguese because my mother already done all the work and traced our origins all the way until the paper trail died in the 1300s.
+Because of my my blue eyes, I used to fantasize that my ancestors were Viking warriors or Celtic druids. Never mind that my father used to say that we were Portuguese because my mother had already done all the work and traced our origins all the way until the paper trail died in the 1300s.
 
-That much is true. My mother indeed descends from minor nobility with deep, deep roots in northern Portugal—obviously not Vikings, but maybe descendants of Celts after all. They arrived in Brazil during the gold rush of the 1700s, and were influential landowners and key players in the local politics of southern Minas Gerais at the time. They also owned slaves, by the way, as [that man in Egg Harbor City](/my-story/3-mission-year-two.md#confrontation) had guessed.
+My mother descends from the Arantes of Braga, a minor noble family with deep, deep roots in northern Portugal—obviously not Vikings, but maybe descendants of Celts after all. Thanks to the work of distant cousins before us, we know that the Arantes arrived in Brazil during the gold rush of the 1700s, and that they were influential landowners and key players in the local politics of southern Minas Gerais in the 18<sup>th</sup> and 19<sup>th</sup> centuries. They also owned slaves, by the way, as [that man in Egg Harbor City](/my-story/3-mission-year-two.md#confrontation) had guessed.
 
 But that was just one branch of my family tree. There was so much more that we did not know.
 
@@ -90,11 +90,11 @@ But that was just one branch of my family tree. There was so much more that we d
 
 For instance, we knew nothing of my father's paternal grandparents other than their names and likely origins: Bernardino from Portugal and Anna from Italy. This mystery beckoned to me.
 
-I started with the records we already had and started digging on [FamilySearch](https://www.familysearch.org). I discovered that Bernardino had immigrated to Rio de Janeiro in 1912 from the village of Avanca in the Aveiro region of central Portugal. Luckily, FamilySearch had records of the Catholic Church in Avanca spanning hundreds of years.
+I started with the scattered records we already had and started digging on [FamilySearch](https://www.familysearch.org). I discovered that Bernardino had immigrated to Rio de Janeiro in 1912 from the village of Avanca in the Aveiro region of central Portugal. Luckily, FamilySearch had records of the Catholic Church in Avanca spanning hundreds of years.
 
-I started scouring the records, page by page, and finding my ancestors, name by name. Each time a document provided a clue to advance a generation in my family tree, I felt a rush, like a drug. And I felt proud, too; all of my discoveries were backed up by hard evidence, not spurious family lore. 
+I started scouring the records, page by page, and finding my ancestors, name by name. Each time a document provided a clue to advance a generation in my family tree, I felt a drug-like rush. And I felt proud, too; all of my discoveries were backed up by hard evidence, not spurious family lore. 
 
-I spent untold hours doing this and found hundreds of ancestors and relatives. This includes an unbroken patrilineal chain between me and Aleixo Simão, born c. 1590 in the neighbourhood of Paredes in Avanca, the same area his 8th great-grandson, Bernardino, would one day be born in and leave for Brazil.[^2]
+I spent untold hours doing this and found hundreds of ancestors and relatives. This includes an unbroken patrilineal chain between me and Aleixo Simão, born c. 1590 in the neighbourhood of Paredes in Avanca, the same area where his 8<sup>th</sup> great-grandson, Bernardino, would one day be born in and leave for Brazil.[^2]
 
 ## Staggered flights, again
 
@@ -102,9 +102,9 @@ When the time came for us to leave Chile, I thought it'd be a good idea if I wer
 
 It would be the third time I left my wife behind in Chile because I was impatient.
 
-At least my heart was in the right place this time. I wanted to go back to Orem by myself so I could stuff a small container with our belongings and then drive our family car with the rest of our stuff to Amherst, NY, where we had rented an apartment. When Vero and Samuel arrived in Amherst a week later, they'd find a fully furnished home with all utilities running. 
+At least my heart was in the right place this time. I wanted to go back to Orem by myself so I could stuff a small container with our belongings and then drive our family car with the rest of our things to Amherst, NY, where we had rented an apartment. When Vero and Samuel arrived in Amherst a week later, they'd find a fully furnished home with all utilities running. 
 
-My goal was to make their transition as smooth as possible. I did not realize that, for Vero, the hardest part of the transition would be hopping from long flight to long flight by herself with a toddler in tow.
+My goal was to make their transition as smooth as possible. I did not realize that, for Vero, the hardest part of the transition would be hopping from flight to flight by herself with a toddler in tow.
 
 [^1]: I'm told more modern houses in Chile, particularly of the upper middle-class, do feature fibreglass insulation, although central heating is still rare.
 [^2]: One day I'll write a detailed story of the Marques of Avanca so my descendants can have an additional resource to consult when they start getting curious about their origins like I did. 

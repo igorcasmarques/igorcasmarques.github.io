@@ -69,7 +69,7 @@ But there was no point in contradicting the man. He bid us go in, and we sat in 
 
 "I used to be gay, you know. I know how you guys feel about gays," he said. The Church had been on the news recently for sponsoring ads in support of [Proposition 8](https://library.law.howard.edu/civilrightshistory/lgbtq/prop8), which banned same-sex marriage in California that year. "But I grew out of that," he continued. "As soon as I tried ladies, I realized I really, really liked them." He the described how he had met his wife, who was upstairs, in graphic detail. 
 
-I didn't feel threatened by that man, but I did feel icky after the visit. Thankfully, later that day we found a nice Honduran family and made baleadas with them. They were modest and kind and sharing a meal with them restored my spirit.
+I didn't feel threatened by that man, but I did feel icky after the visit. I soon felt better when later that day we found a nice Honduran family and made baleadas with them. They were modest and kind and sharing a meal with them restored my spirit.
 
 ## Princeton
 

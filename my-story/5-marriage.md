@@ -69,7 +69,7 @@ My first job in Concepción was at a radio station, selling ad space. I hated it
 
 Then, I learned about a well-paid, temporary gig for the government that aligned perfectly with our time frame. Chile was going to hold its [decennial census in 2012](https://es.wikipedia.org/wiki/Censo_chileno_de_2012), and they were looking for an army of census takers. I applied and mysteriously got the job, even though no one else we knew who had applied—and there were many in our age group—had been selected.
 
-I **loved** working for the census. It was all of the fun parts of my mission minus the rejection and heartache. I walked the streets of Concepción 10 hours a day, going from home to home and interviewing people about their lives and families. I met people across the socioeconomic spectrum, from well-to-do traditional families to destitute squatters.
+I **loved** working for the census. It was all of the fun parts of my mission minus the rejection and heartache. I walked the streets of Concepción 10 hours a day, going from home to home and interviewing people about their lives and families. I met people across the socioeconomic spectrum, from well-to-do traditional families to squatters and drifters.
 
 Being a census taker could be hilarious, too. Many people did not understand the questions we asked—or what the census itself even was, for that matter. This led to some confusion.
 
@@ -93,11 +93,11 @@ I'd spoken with Chileans in English and had good reason to doubt those kids spok
 
 The word for "hearing aid" in Spanish is *audífono*, which is the same word for "headphones." One of the questions I had to ask was, 
 
-*"Do you have difficulty hearing, even with a* hearing aid *on?"* 
+*Do you have difficulty hearing, even with a* hearing aid *on?* 
 
 Some young people who didn't know what a hearing aid was thought I was asking them, 
 
-*"Do you have difficulty hearing when you have* headphones *on?"* 
+*Do you have difficulty hearing when you have* headphones *on?* 
 
 "Well, yes," one young man told me. "I like to listen to loud music on my iPod and can't hear anything when I've got my headphones on."
 
@@ -109,23 +109,23 @@ I wasn't supposed to question people's answers and had to record exactly what th
 
 The census required us to determine how people were related to the head of household. The question we had to ask about each person was something like,
 
-*"Cuál es su relación con el jefe de hogar?"*
+*Cuál es su relación con el jefe de hogar?*
 
-Which means,
+which means,
 
-*"How are you and the head of household related?*
+*How is this person and the head of household related?*
 
 Possible answers included: self, spouse, child, parent, etc. However, because *relación* can mean "relationship" in addition to "relation" (as in degree of kinship), what some people heard was,
 
-*"What is your relationship with the head of household like?*
+*What is this person's relationship with the head of household like?*
 
-Then they'd start going off about their marital problems and parenting challenges, which people somehow thought the census would like to record. 
+Then they'd start going off about their marital problems or parenting challenges, which people somehow thought the census would like to record. 
 
 ## Can I go now?
 
-After the census ended,[^4] I felt empty. I could only watch so much *The Office* (US) and play so much *Batman: Arkham City* on my PlayStation before I felt an itch to resume "my life" in Orem, as selfish as that was. 
+After the census ended,[^4] I felt empty. I could only watch so much *The Office* (US) and play so much *Batman: Arkham City* on my PlayStation 3 before I felt a strong urge to resume "my life" in Orem, as selfish as that was. 
 
 [^1]: Some of my cousins were able to speedrun this process by marrying US citizens. 
-[^2]: I knew that composers-slash-producers who worked for mass media didn't need a terminal degree, but I didn't want go into that. Even though I had gotten into music composition because I wanted to write [music for video games](/my-story/1-from-curitiba-to-provo.md#video-game-music), my time at BYU convinced me that a career in academia would give me the most freedom to pursue my crazy ideas.
+[^2]: I knew that composers-slash-producers who worked for mass media didn't need a terminal degree, but I didn't want to go into that. Even though I had gotten into music composition because I wanted to write [music for video games](/my-story/1-from-curitiba-to-provo.md#video-game-music), my time at BYU convinced me that a career in academia would give me the most freedom to pursue my crazy ideas.
 [^3]: Getting engaged in Chile was similar enough.
 [^4]: The 2012 census in Chile was [controversial and likely fraudulent](https://es.wikipedia.org/wiki/Censo_chileno_de_2012#Controversias), and had to be re-taken five years later. I have zero regrets about how I performed my duties, but apparently there were systemic issues with the whole process.
