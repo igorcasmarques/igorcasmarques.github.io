@@ -40,7 +40,7 @@ CUNY also wait-listed me.
 
 ### UB
 
-Between my interviews at UCLA and CUNY, I got a phone call from composer [David Felder](http://www.david-felder.com/). During his 30-year tenure at UB, Felder had amassed an impressive catalogue of prize-winning original works and prestigious commissions and collaborations. He was also the founder and director of the [Center for 21<sup>st</sup> Century Music](https://arts-sciences.buffalo.edu/music21c.html), which brought new music superstars from all over the world to Buffalo throughout the year and especially in the summer during the [June in Buffalo](https://arts-sciences.buffalo.edu/music21c/june-in-buffalo.html) conference. Felder's professional network was second to none. 
+Between my interviews at UCLA and CUNY, I got a phone call from composer [David Felder](http://www.david-felder.com/). During his 30-year tenure at UB, Felder had amassed an impressive catalogue of prize-winning original works and prestigious commissions and collaborations. He was also the founder and director of the [Center for 21st Century Music](https://arts-sciences.buffalo.edu/music21c.html), which brought new music superstars from all over the world to Buffalo throughout the year and especially in the summer during the [June in Buffalo](https://arts-sciences.buffalo.edu/music21c/june-in-buffalo.html) conference. Felder's professional network was second to none. 
 
 There was no admissions committee at UB. Felder called the shots. 
 
@@ -82,7 +82,7 @@ It's hard to explain, but I've always felt a powerful call.
 
 Because of my my blue eyes, I used to fantasize that my ancestors were Viking warriors or Celtic druids. Never mind that my father used to say that we were Portuguese because my mother had already done all the work and traced our origins all the way until the paper trail died in the 1300s.
 
-My mother descends from the Arantes of Braga, a minor noble family with deep, deep roots in northern Portugal—obviously not Vikings, but maybe descendants of Celts after all. Thanks to the work of distant cousins before us, we know that the Arantes arrived in Brazil during the gold rush of the 1700s, and that they were influential landowners and key players in the local politics of southern Minas Gerais in the 18<sup>th</sup> and 19<sup>th</sup> centuries. They also owned slaves, by the way, as [that man in Egg Harbor City](/my-story/3-mission-year-two.md#confrontation) had guessed.
+My mother descends from the Arantes of Braga, a minor noble family with deep, deep roots in northern Portugal—obviously not Vikings, but maybe descendants of Celts after all. Thanks to the work of distant cousins before us, we know that the Arantes arrived in Brazil during the gold rush of the 1700s, and that they were influential landowners and key players in the local politics of southern Minas Gerais in the 18th and 19th centuries. They also owned slaves, by the way, as [that man in Egg Harbor City](/my-story/3-mission-year-two.md#confrontation) had guessed.
 
 But that was just one branch of my family tree. There was so much more that we did not know.
 
@@ -94,7 +94,7 @@ I started with the scattered records we already had and started digging on [Fami
 
 I started scouring the records, page by page, and finding my ancestors, name by name. Each time a document provided a clue to advance a generation in my family tree, I felt a drug-like rush. And I felt proud, too; all of my discoveries were backed up by hard evidence, not spurious family lore. 
 
-I spent untold hours doing this and found hundreds of ancestors and relatives. This includes an unbroken patrilineal chain between me and Aleixo Simão, born c. 1590 in the neighbourhood of Paredes in Avanca, the same area where his 8<sup>th</sup> great-grandson, Bernardino, would one day be born in and leave for Brazil.[^2]
+I spent untold hours doing this and found hundreds of ancestors and relatives. This includes an unbroken patrilineal chain between me and Aleixo Simão, born c. 1590 in the neighbourhood of Paredes in Avanca, the same area where his 8th great-grandson, Bernardino, would one day be born in and leave for Brazil.[^2]
 
 ## Staggered flights, again
 

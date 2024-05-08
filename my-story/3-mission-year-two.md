@@ -29,7 +29,7 @@ That was one of the most random things that has ever happened to me.
 
 ## Atlantic City
 
-I spent my second winter in the mission in Atlantic City, NJ. Come Christmastime, we said yes to everyone who invited us for supper on Christmas eve. We went from home to home to home on a sort of holiday binge and ate a ridiculous amount of food that December 24<sup>th</sup>.
+I spent my second winter in the mission in Atlantic City, NJ. Come Christmastime, we said yes to everyone who invited us for supper on Christmas eve. We went from home to home to home on a sort of holiday binge and ate a ridiculous amount of food that December 24.
 
 ### AC branch
 

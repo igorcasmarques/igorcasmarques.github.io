@@ -26,7 +26,7 @@ My parents and my sister reminisce about these road trips with fondness. They're
 
 ### Road trip rating scale
 
-As an adult, travelling with Vero helped me get over over my hang-ups about road trips. I still try to avoid them, but when they're unavoidable—Vero insists on going to new places—I've figured out how I can make them bearable and, dare I say, even fun. 
+As an adult, travelling with Vero helped me get over my hang-ups about road trips. I still try to avoid them, but when they're unavoidable—Vero insists on going to new places—I've figured out how I can make them bearable and, dare I say, even fun. 
 
 Good road trips are characterized by six factors:
 

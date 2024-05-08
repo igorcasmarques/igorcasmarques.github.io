@@ -40,7 +40,9 @@ Even though I was called to serve in English, my mission leaders placed me in Ri
 
 ### Riverside
 
-I didn't get along with my first companion. I felt sad and lonely that first transfer, especially at night. We lasted one transfer together. My next companion was on his last transfer. It was summer, he was ready to go home, and we didn't accomplish much of consequence either.
+I didn't get along with my first companion. I felt sad and lonely that first transfer, especially at night. We lasted one transfer together. 
+
+My next companion was on his last transfer. It was summer, he was ready to go home, and we didn't accomplish much of consequence either.
 
 I suffered from sleep paralysis in Riverside. It happened twice. The first time was scary, but I realized what was happening and weathered it. The second time was much worse. I heard noises and saw figures. One of those figures was a pale man with a black beard and bloodshot eyes. He got close to me, face to face, and howled at me.
 
