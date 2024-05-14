@@ -23,7 +23,7 @@ The clarinetist did a great job, but *Suíte curitibana* didn't live up to my im
 The circumstances that led to the premiere of *Suíte curitibana* were quite organic: 
 
 - A new music ensemble came to UB.
-- They played workshopped pieces by grad students, including one of mine.
+- They workshopped pieces by grad students, including one of mine.
 - The ensemble's clarinetist and I were simpatico.
 - He told me about his personal project of premiering as many solo clarinet pieces by living composers as possible.
 - I told him I had a piece for solo bass clarinet that hadn't been premiered yet.
@@ -45,12 +45,12 @@ This is why young composers can be straight-A students and still fail creatively
 - In general, composers are inquisitive and like learning all of the other things a typical university education requires.   
 - Nobody enjoys performing below their capacity.
 
-#### *Why don't young composers quit school then?*
+#### *Can't they just quit school then?*
 
-- Composition is just as hard as engineering, psychology, or any other university major, so most people can't learn it without teachers and curricula and all the structure universities provide.
+- Composition is just as hard as engineering, psychology, or any other university program, so most people can't learn it without teachers and curricula and all the structure universities provide.
 - The main patron of new music in the 21st century is academia and grant-giving institutions that favour academics. 
 
-#### *You make it seem like young composers need to be consummate professionals before they finish school.*
+#### *So they need to be consummate professionals before finishing school?*
 
 Correct. The quality of a composer's portfolio is what unlocks opportunities. But young composers can't populate their portfolio with good pieces if they don't have access to opportunities that yield such pieces in the first place.
 
@@ -66,11 +66,11 @@ The hopelessness of the situation had been apparent to me for years, but it was 
 
 My teachers didn't talk much, if at all, about these events. When I brought them up, some were even derisive, calling them "beauty pageants." Yet they all proudly listed their prizes and prestigious collaborations in the program notes of their concerts. How did they expect me to get a respectable commission from, say, the [Fromm Foundation](https://frommfoundation.fas.harvard.edu/), if all I had was a barely passable portfolio?
 
-I had to be proactive and apply, apply, apply. Festivals, conferences, competitions, calls for scores, residences. If I threw enough stuff at the wall, something was bound to stick, and when it did, I hoped things would snowball from there. 
+I had to be proactive and apply, apply, apply. Festivals, conferences, competitions, calls for scores, residences. If I threw enough stuff at the wall, something was bound to stick, and when it did, things would snowball from there. God's accountant was keeping track of my hard work and would make sure I got my due eventually.
 
-God's accountant was keeping track of my hard work and would make sure I got my due eventually. 
+Hopefully. 
 
-Thus, between 2014-2019, I consulted resources like the [Composer's Site](http://composerssite.com/), which publicize opportunities for young composers to develop professionally. Each time I found an opportunity that I thought I'd be a good candidate for, I plugged it into an Excel spreadsheet.[^1] 
+Thus, between 2014-2019, I consulted resources like the [Composer's Site](http://composerssite.com/), where opportunities for young composers to develop professionally are publicized. Each time I found an opportunity that I thought I'd be a good candidate for, I plugged it into an Excel spreadsheet.[^1] 
 
 ### First two years
 
@@ -92,15 +92,15 @@ A few weeks later, Alba Rosa Viva! informed me that I had been selected as one o
 
 I got three more wins that spring:
 
-- I was invited to attend the [Bozzini Lab](https://quatuorbozzini.ca/en/projets/bozzini_lab) in Vancouver, BC, where I'd collaborate with the [Quatuor Bozzini](https://quatuorbozzini.ca/en) in producing an experimental new piece for string quartet
+- I was invited to attend the [Bozzini Lab](https://quatuorbozzini.ca/en/projets/bozzini_lab) in Vancouver, BC, where I'd collaborate with the [Quatuor Bozzini](https://quatuorbozzini.ca/en) in producing an experimental new piece for string quartet.
 - I was accepted into [The Walden School](https://waldenschool.org/)'s week-long [Creative Musicians Retreat](https://waldenschool.org/creative-musicians-retreat/) in New Hampshire, where I would meet dozens of composers, performers, improvisers, choral directors, etc.
-- *Interlude (Between Bite and Kiss)*, a duo for guitar and left-hand piano inspired by the incredible work of [Alex Caldiero](https://thesonosopher.com/caldiero-vita), won a call for scores by a Japanese publisher—it was premiered later that year in Kyoto
+- *Interlude (Between Bite and Kiss)*, a duo for guitar and left-hand piano inspired by the incredible work of [Alex Caldiero](https://thesonosopher.com/caldiero-vita), won a call for scores by a Japanese publisher, and it would be premiered later that year in Kyoto.
 
 I also participated in the [June in Buffalo](https://arts-sciences.buffalo.edu/music21c/june-in-buffalo.html) festival in 2016, which I was entitled to attend as a PhD student at UB.
 
 ### Vero's aunts
 
-Vero had three aunts visit us in Amherst in the summer. None of them had ever been to the US and felt like they were on an adventure. Vero took them to New York City and the [Sacred Grove](https://www.churchofjesuschrist.org/learn/locations/sacred-grove?lang=eng), then came home a few days before I had to leave for the Creative Musicians Retreat.  
+Vero had three aunts visit us in Amherst in the summer. None of them had ever been to the US. It was an adventure for them and for us. Vero took them to New York City and the [Sacred Grove](https://www.churchofjesuschrist.org/learn/locations/sacred-grove?lang=eng), then came home a few days before I had to leave for the Creative Musicians Retreat.  
 
 The Retreat had a fun structure: 
 
@@ -119,7 +119,7 @@ In late September, I went to Utrecht via the now defunct [WOW Air](https://wowai
 
 #### Reykjavík
 
-The flight to Iceland was a red-eye. When we were near Greenland, a flight attendant announced that we could see the aurora borealis from my side of the airplane. I was tired and my eyes hurt, but seeing the aurora was still magical.
+The flight to Iceland was a red-eye. When we were near Greenland, a flight attendant announced that the aurora borealis was visible from my side of the airplane. I was tired and my eyes hurt, but seeing the aurora was still magical.
 
 We arrived in Iceland before sunrise. When I boarded the shuttle from the airport to the city, the driver said, "Good morning," in English. I greeted her in Icelandic and she immediately switched to Icelandic. I must've sounded convincing enough, but that's all I had learned: greetings. She then asked me a question, I confessed I didn't actually speak Icelandic, she looked annoyed, and switched back to English. 
 
@@ -137,9 +137,7 @@ I walked everywhere in Reykjavík and had a great time. How could a world capita
 
 When I finally made it to the Netherlands, I spent a couple of hours exploring Amsterdam before going to my Airbnb in Vleuten, a few km from Utrecht's city centre. The following couple of days were filled with rehearsals, stroopwafel, shawarma, and getting to know the other finalists and the competition's organizers. 
 
-The concert that featured the works of all finalists took place in a cathedral in Utrecht. Everything looked and sounded beautiful. 
-
-Much to my surprise, *huithrothroy* placed 2nd in the competition. I was eating hors-d'œuvre with the performers when someone came looking for me to tell me I'd won something. I swallowed quickly and jogged to the stage to receive the prize. 
+The concert that featured the works of all finalists took place in a cathedral. Everything looked and sounded beautiful. Much to my surprise, *huithrothroy* placed 2nd in the competition. I was eating hors-d'œuvre with the performers when someone came looking for me to tell me I'd won something. I swallowed quickly and jogged to the stage to receive the prize. 
 
 ## Happy sigh
 

@@ -136,7 +136,7 @@ One day, a cousin of mine and his wife came to my sister's place. My brother-in-
 
 "Mr. Crowley" has a long synthesizer intro, so I improvised a spoken introduction on the microphone. I'd heard the song so many times as a teenager that I knew the intro by heart, so I rambled on and on about darkness and occultism, and ended with something like "Please welcome to the stage: SATAN!" right before Ozzy sang, "Miiiiister Crooow-leeeey."
 
-My timing and delivery were so on point that my sister, my brother-in-law, my cousin, and his wife all burst laughing. They were guffawing so much that we couldn't even play the game anymore. To this day, they tell me it was one of the funniest moments of their lives, which automatically makes it one of the proudest moments of mine.
+My timing and delivery were so on point that my sister, my brother-in-law, my cousin and his wife Vero all burst laughing. They were guffawing so much that we couldn't even play the game anymore. To this day, they tell me it was one of the funniest moments of their lives, which automatically makes it one of the proudest moments of mine.
 
 [^1]: I know my parents meant well and wanted to keep me safe, so I don't resent them. I must say, though, that I was surprised when I learned that no one I've met seemed to know about this unbreakable rule that my family had. 
 [^2]: Samuel's, just in case.
