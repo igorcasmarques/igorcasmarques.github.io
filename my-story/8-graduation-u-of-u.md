@@ -48,6 +48,20 @@ He and I were on the phone for half an hour, and like [Rosenzweig](https://morri
 
 I was sold. I thanked UCLA and CUNY for considering my application and asked them to remove me from their wait lists.
 
+## What's "new music"?
+
+Time for an aside.
+
+My bachelor's, my master's, my PhD, all of it was to become a composer of *new music*. But what I (and many others) call new music is not just any music that is new; new music refers to the work of living composers who see themselves as continuators of a 1,000-year-old Western European tradition that reveres the *score*, music's written medium. 
+
+The score is the means for composers to crystallize intricate and goal-oriented systems of relationships between musical events, and for students to learn from them. 
+
+People tend to call this type of music "Classical," so it makes sense that some call the music living composers write "contemporary Classical." Other terms include "art music," "concert music," "modern music," just "contemporary music" (without the "Classical"), etc. Each term is more problematic than the next, and composers and listeners have been arguing about this issue since forever. 
+
+Me, I prefer *music*, no qualifiers, but if I have to specify, I go with *new music* because it's the broadest and because it emphasizes innovation.
+
+Close parentheses.
+
 ## Chile between degrees
 
 After I finished my master's in the spring of '15, our family flew down to Chile to be with Vero's family in Chiguayante until we had to move to Buffalo in the fall. Vero's parents lived in a house west of Manuel Rodríguez, Chiguayante's main thoroughfare, between a Unimarc grocery store and the town's train tracks. It also had a nice view of the Manquimávida hill.
