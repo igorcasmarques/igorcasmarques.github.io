@@ -4,7 +4,6 @@ slug: first-real-successes
 authors: icasmarques
 hide_table_of_contents: false
 date: 2024-04-26T00:09
-draft: true
 ---
 
 *This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) and [portfolio](/docs/portfolio/intro) in different areas of this site.* 
@@ -75,17 +74,19 @@ Thus, between 2014-2019, I consulted resources like the [Composer's Site](http:/
 
 ### First two years
 
-In 2014, I entered 99 events in my spreadsheet and applied to 32. My success rate was 0%. But I was not discouraged; I was green and chastised myself for not doing the spreadsheet earlier.
+In 2014, I entered 99 events in the spreadsheet and applied to 32. My success rate was 0%. But I was not discouraged; I was green and chastised myself for not doing the spreadsheet earlier.
 
-In 2015, I entered 140 events and applied to 14. I was busy with the transition between my master's and my PhD and had to be more selective with these applications. My success rate was 7%: I was selected to a pricey new music retreat in Croatia that I ultimately could not attend because Vero's mental health was deteriorating.[^2]
+In 2015, I entered 140 events in the spreadsheet but only applied to 14. I was busy with the transition between my master's and my PhD and had to be more selective with these applications. Just one application had a positive outcome. I was selected to a pricey new music retreat in Croatia that I ultimately could not attend because: a) Vero's mental health was deteriorating, and b) I wouldn't have been able to afford it anyway.
 
 ### And then...
 
 In the winter of '16, I got an email from the [Alba Rosa Viva! Festival](https://albarosavietor.com/en/). They had posted a call for new chamber pieces, which I had responded with *huithrothroy*, an evocative duo for flute and piano based on the [song of the chucao bird](https://xeno-canto.org/species/Scelorchilus-rubecula). They were now requesting a computer-made realization of *huithrothroy*. 
 
-I thought it was odd they wanted a computer realization of the piece; it could never make justice to an actual performance by human beings (which I didn't have because they wanted an un-premiered piece). Anyway, I sent them the audio file as requested. 
+I thought it was odd that they'd want a computer realization of the piece; it could never make justice to an actual performance by human beings (which I didn't have because they wanted an un-premiered piece). Anyway, I sent them the audio file as requested. 
 
-A few weeks later, Alba Rosa Viva! informed me that I had been selected as one of five finalists in the festival, and that my piece would be performed in early October 2016 in Utrecht, Netherlands. When I read that, I called Vero and told her, "It's happening! It's finally happening! I can't believe it! This is it! This is the true beginning of my career!"
+A few weeks later, Alba Rosa Viva! informed me that I had been selected as one of five finalists in the festival, and that my piece would be performed in early October 2016 in Utrecht, Netherlands. 
+
+"It's happening!," I told Vero in excitement. "It's finally happening! I can't believe it! This is it! This is the true beginning of my career!"
 
 ## A year of hope
 
@@ -99,7 +100,7 @@ I also participated in the [June in Buffalo](https://arts-sciences.buffalo.edu/m
 
 ### Vero's aunts
 
-Vero had three aunts visit us in Amherst in the summer. None of them had ever been to the US and treated the trip like an adventure. Vero took them to New York City and the [Sacred Grove](https://www.churchofjesuschrist.org/learn/locations/sacred-grove?lang=eng), then came home a few days before I had to leave for the Creative Musicians Retreat.  
+Vero had three aunts visit us in Amherst in the summer. None of them had ever been to the US and felt like they were on an adventure. Vero took them to New York City and the [Sacred Grove](https://www.churchofjesuschrist.org/learn/locations/sacred-grove?lang=eng), then came home a few days before I had to leave for the Creative Musicians Retreat.  
 
 The Retreat had a fun structure: 
 
@@ -112,19 +113,17 @@ Multi-Grammy® winner [Michael Daugherty](https://smtd.umich.edu/profiles/michae
 
 It was just banter. The audience laughed, the performers laughed, but the biggest grin was my own—I **loved** being mentioned in the same breath as the legendary [Georg Friedrich Haas](https://en.wikipedia.org/wiki/Georg_Friedrich_Haas).
 
-Meanwhile, hosting her aunts and looking after Samuel by herself weighed Vero down more than she could bear, so I cut my time short at the Retreat and went back home a couple of days early to support her. 
-
 ### Trip to the Netherlands
 
 In late September, I went to Utrecht via the now defunct [WOW Air](https://wowair.com/). The airfare was cheap, but it had a catch: there was a day-long stopover in Reykjavík between Toronto and Amsterdam. Since I'd long been fascinated with [Iceland and Vikings](/my-story/8-graduation-u-of-u.md#its-all-done), the stopover was a plus for me.
 
 #### Reykjavík
 
-The flight to Iceland was a red-eye. When we were near Greenland, a flight attendant announced that the aurora borealis was visible from my side of the airplane. I was tired and my eyes hurt, but seeing the aurora was still magical.
+The flight to Iceland was a red-eye. When we were near Greenland, a flight attendant announced that we could see the aurora borealis from my side of the airplane. I was tired and my eyes hurt, but seeing the aurora was still magical.
 
 We arrived in Iceland before sunrise. When I boarded the shuttle from the airport to the city, the driver said, "Good morning," in English. I greeted her in Icelandic and she immediately switched to Icelandic. I must've sounded convincing enough, but that's all I had learned: greetings. She then asked me a question, I confessed I didn't actually speak Icelandic, she looked annoyed, and switched back to English. 
 
-"Where are you going?" She repeated herself, in a language I could understand.
+"Where are you going?" She repeated herself in a language I could understand.
 
 "Erm... Reykjavík?", I replied.
 
@@ -136,7 +135,7 @@ I walked everywhere in Reykjavík and had a great time. How could a world capita
 
 #### Utrecht
 
-When I finally made it to the Netherlands, I spent a couple of hours in Amsterdam before going to my Airbnb in Vleuten, a few km from Utrecht's city centre. The following couple of days were filled with rehearsals, stroopwafel, shawarma, and getting to know the other finalists and the competition's organizers. 
+When I finally made it to the Netherlands, I spent a couple of hours exploring Amsterdam before going to my Airbnb in Vleuten, a few km from Utrecht's city centre. The following couple of days were filled with rehearsals, stroopwafel, shawarma, and getting to know the other finalists and the competition's organizers. 
 
 The concert that featured the works of all finalists took place in a cathedral in Utrecht. Everything looked and sounded beautiful. 
 
@@ -144,11 +143,10 @@ Much to my surprise, *huithrothroy* placed 2nd in the competition. I was eating 
 
 ## Happy sigh
 
-2016 was a great year for me. My work on the spreadsheet was starting to pay off after more than two years of failures.
+Professionally, 2016 was a great year for me. My work on the spreadsheet was starting to pay off after more than two years of zero success.
 
-I was excited about 2017, too. The peerless [Arditti Quartet](https://ardittiquartet.com/) was coming to Buffalo in the winter—and they were going to record one of my pieces. 
+And I had good reason to believe that 2017 was going to be good too. The peerless [Arditti Quartet](https://ardittiquartet.com/) was coming to Buffalo in the winter—and they were going to record one of my pieces. 
 
 I couldn't wait. 
 
 [^1]: The last time I updated this spreadsheet was in 2023. It had almost 800 events in it.
-[^2]: I don't think I would've been able to afford it anyway.
