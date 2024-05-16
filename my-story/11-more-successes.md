@@ -53,7 +53,7 @@ By that point, I had taught MUS 116 several times in person and once online. Ver
 
 Online teaching in '17 was nothing like what it has become since the pandemic. It was normal for instructors to teach asynchronously via email chains and PDFs. We set deadlines for homework and quizzes, and then marked the students' submissions. We rarely engaged with students in real time.
 
-Vero's suggestion meant elevating my course above the glorified newsletter that used to pass for online teaching, but it also meant considerable extra work. 
+Vero's suggestion would elevate my course above the glorified newsletter that used to pass for online teaching, but it also meant considerable extra work. 
 
 "But if you do it well, it'll be good for your resume," she advised. She convinced me. 
 
@@ -63,11 +63,15 @@ That episode also reinforced to me how important it was to listen to Vero's coun
 
 ### Cruise
 
-Somehow, my father found a very good deal on a cruise from Florida to The Bahamas in August, and offered to give us three cruise tickets if we took care of the airfare. We accepted his gift, got a direct a flight from Buffalo to Fort Lauderdale, and set up a base in Boca Ratón. 
+Somehow, my father found a very good deal on a cruise from Florida to The Bahamas in August, and offered to give us three cruise tickets if we took care of the airfares. We'd been holding on to a voucher from JetBlue that we got after we volunteered to opt out of an overbooked flight, so flying would also be free for us. 
 
-Before the cruise departed, we spent several days exploring southern Florida, from Cape Canaveral to Key West. My favourite part of this leg of the trip was visiting NASA's [Kennedy Space Center](https://www.kennedyspacecenter.com/), where we watched a live launch. It was hot, humid, and Samuel cried when the people around us started yelling the countdown, but it didn't matter; watching the rocket go into space awed me.  
+We accepted my father's gift, took a direct flight from Buffalo to Fort Lauderdale, and set up a base in Boca Ratón. 
 
-Our cruise was very nice, too, but it didn't satisfy me the way I thought it would. On the one hand, it was great to unplug from all responsibilities, loaf around, go for a swim, eat heaps of delicious food, visit paradisiacal islands. This part I really liked.
+Before the cruise departed, we spent several days exploring southern Florida, from Cape Canaveral to Key West. My favourite part of this leg of the trip was visiting NASA's [Kennedy Space Center](https://www.kennedyspacecenter.com/), where we watched a live launch. It was hot, humid, and Samuel cried when everyone started yelling the countdown, but it didn't matter; watching the rocket go into space awed us.  
+
+Our cruise was very nice, too, but I wasn't able to relax as much as I thought I would. On the one hand, it was great to unplug from all responsibilities, loaf around, go for a swim, eat heaps of delicious food, visit paradisiacal islands. This part I really liked.
+
+(Incidentally, Samuel slept through the night for the first time EVER during this cruise. What a random place for this milestone.)
 
 However, I felt morally ambivalent about the whole thing. The cruise ship was literally a giant floating casino, and being there felt wasteful and environmentally irresponsible. I also didn't like the lazy and gluttonous person I became there. 
 
@@ -75,9 +79,11 @@ Maybe I'm too ascetic.[^3]
 
 ### Hurricanes
 
-When we came home from the trip, we found out why the cruise tickets had been cheap: August is peak hurricane season in the region. 
+When we came home from the trip, we found out why the cruise tickets had been cheap: August is peak hurricane season in that area. 
 
-We'd seen a scary storm in Key West, but our cruise was uneventful. Huge cyclones started buffeting the area mere days after we left. In 2017, hurricanes Harvey, Irma, and Maria laid waste to Texas, Florida, and Puerto Rico, respectively.
+We'd seen a scary storm in Key West, but our cruise was uneventful. Huge cyclones started buffeting the region mere days after we left. In 2017, hurricanes Harvey, Irma, and Maria laid waste to Texas, Florida, and Puerto Rico, respectively. 
+
+We were glad to have escaped all of that.
 
 ## Year 3 (UB)
 
