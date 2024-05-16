@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[5585],{9178:e=>{e.exports=JSON.parse('{"permalink":"/my-story/page/11","page":11,"postsPerPage":1,"totalPages":11,"totalCount":11,"previousPage":"/my-story/page/10","blogDescription":"This is a (somewhat) brief account of my adult life.","blogTitle":"My story"}')}}]);
