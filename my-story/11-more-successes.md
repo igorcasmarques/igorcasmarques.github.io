@@ -87,13 +87,25 @@ We were glad to have escaped all of that.
 
 ## Year 3 (UB)
 
-My biggest concern going into my third year at UB were my upcoming comprehensive exams—or *comps*. As the name implies, the comps covered all subjects in musicology, music theory, music history, orchestration, etc. My comps would mark the official end of my coursework, so I was happy not to have to worry about course marks ever again.
+My biggest concern going into my third year at UB were my upcoming comprehensive exams—or *comps*. 
+
+### Comps
+
+As the name implies, the comps covered all subjects in musicology, music theory, music history, orchestration, etc. My comps would mark the official end of my coursework, so I was happy not to have to worry about course marks ever again.
 
 I was advised to set apart six months to study for my comps, so I scheduled them in the spring of '18 to give me enough time to prepare while also tending to my other responsibilities.
 
 The comps were hard but fair. There were only three questions, and the expectation was that I'd write (by hand) as much as I could about each topic during the allotted three hours. I took the test in my beloved Music Library, passed, and went from PhD student to PhD candidate. In graduate lingo, I was now *ABD*: all but dissertation.
 
-Now that the end was in sight, I started to feel a familiar itch: it was time for a new baby. How cool would it be have a picture holding **two children** while wearing my PhD regalia at convocation? 
+### Pre-school
+
+By the fall of '17, Samuel qualified to attend a state-sponsored pre-school full time. He struggled at first, but the pre-school's caring staff helped him adapt to the new social environment and grow. 
+
+The pre-school was adjacent to the UB campus, and was an annex of a retirement community. I volunteered there once or twice a week to help clean up messes and play songs on the guitar for the kids. One time, Samuel and I even performed a little concert on the piano for his classmates and some of the elderly residents. 
+
+Being with my son in his pre-school was the highlight of my week.
+
+Now that Samuel had started going to school and the end of my PhD was in sight, I started to feel a familiar itch: it was time for a new baby. How cool would it be have a picture holding **two children** while wearing my PhD regalia at convocation? 
 
 [^1]: [Doctrine and Covenants 38:30](https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/38?lang=eng&id=p30#p30).
 [^2]: The lowest open string on the violin is a G3. The next open string is a D4, above C♯4. Since violinists can only produce one note per string, and C♯4 can only be played on the G string, the Arditti fourth is impossible to play without a *scordatura*, i.e., a non-standard tuning of the violin's strings.

@@ -84,6 +84,6 @@ By the fall of '14, Vero's diligent breastfeeding and mothering had helped Samue
 
 I was afraid Vero would have a hard time when I went back to school, but a visit from her older sister and two close friends from Chiguayante in October propped her spirit. After they were gone, we had Thanksgiving and Christmas with my cousins and their families to look forward to. Fun things would happen again; we just had to be patient. 
 
-Meanwhile, I continued to work hard on my master's degree. I taught university courses in music theory, sight singing, and dictation to 1st- and 2nd-year music majors at the U of U. I wrote my thesis project and helped coordinate the logistics of two new music ensembles. 
+I continued to work hard on my master's degree. I taught university courses in music theory, sight singing, and dictation to 1st- and 2nd-year music majors at the U of U. I wrote my thesis project and helped coordinate the logistics of two new music ensembles. 
 
 I also applied to 10 different doctoral programs, all outside of Utah. I thought that my family needed a change of scenery in 2015.
