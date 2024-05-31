@@ -101,7 +101,7 @@ I also noticed that 27F had become a scapegoat for problems that clearly antedat
 
 ## Year 3 at BYU
 
-Fall 2010 marked the beginning of my third year in university. Academically, I was doing very well and had qualified for not one, but two simultaneous full-tuition bursaries.
+Fall 2010 marked the beginning of my third year in university. Academically, I was doing very well and had qualified for not one, but two simultaneous full-tuition scholarships.
 
 ### ALMA
 

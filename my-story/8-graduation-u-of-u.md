@@ -64,7 +64,7 @@ Close parentheses.
 
 ## Chile between degrees
 
-After I finished my master's in the spring of '15, our family flew down to Chile to be with Vero's family in Chiguayante until we had to move to Buffalo in the fall. Vero's parents lived in a house west of Manuel Rodríguez, Chiguayante's main thoroughfare, between a Unimarc grocery store and the town's train tracks. It also had a nice view of the Manquimávida hill.
+After I finished my master's in the spring of 2015, our family flew down to Chile to be with Vero's family in Chiguayante until we had to move to Buffalo in the fall. Vero's parents lived in a house west of Manuel Rodríguez, Chiguayante's main thoroughfare, between a Unimarc grocery store and the town's train tracks. It also had a nice view of the Manquimávida hill.
 
 ### Routine
 

@@ -10,13 +10,13 @@ date: 2024-04-26T00:04
 
 ## Fear of failure
 
-I turned 23 in '11 but did not feel like an adult. In my mind, I was still the wide-eyed teenager from Curitiba. I didn't have a clear artistic voice, my portfolio was unremarkable, and my creative output was mutating from "impressive for my age" to "not sure how this will help me get a job" and "maybe I should've become a diplomat like my dad wanted."
+I turned 23 in 2011 but did not feel like an adult. In my mind, I was still the wide-eyed teenager from Curitiba. I didn't have a clear artistic voice, my portfolio was unremarkable, and my creative output was mutating from "impressive for my age" to "not sure how this will help me get a job" and "maybe I should've become a diplomat like my dad wanted."
 
 Meanwhile, my older cousins were finishing their undergraduate degrees and getting jobs, showing me what professional success looked like for international students like us. Their steps became my roadmap: 
 
 1. Attend university with an [F-1 student visa](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/students-and-employment).
-1. Secure a job after graduation during the "practical training" grace period.
-1. Have the employer sponsor the transition from F-1 to an [H-1B work visa](https://www.dol.gov/agencies/whd/immigration/h1b).
+1. Secure a job to activate F-1's "optional practical training" (OPT) post-graduation extension.
+1. Have the employer sponsor the transition from F-1 to an [H-1B work visa](https://www.dol.gov/agencies/whd/immigration/h1b) after the OPT.
 1. Live out the required number of years on H-1B to qualify for permanent residence, i.e., the [Green Card](https://www.uscis.gov/green-card).[^1]
 
 My cousins were also getting married and having babies by then. None of them considered going back to Brazil a viable option. They all wanted to make a life for their families in the US—as did I. 

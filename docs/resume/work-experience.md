@@ -46,7 +46,7 @@ What I do as a technical writer today owes much to the 30+ college courses I've 
 
 **Employer**: [University at Buffalo](https://arts-sciences.buffalo.edu/music.html)  
 **Location**: Buffalo, NY
-- Published an essay on the experience of teaching 17 courses in 13 terms
+- Published an [essay](https://ojs.library.osu.edu/index.php/engagingstudents/article/view/7694/6331) on the experience of teaching 17 courses in 13 terms
 - Reformulated an unpopular music theory course and got 96% student approval
 - Created a [music theory YouTube channel](https://www.youtube.com/@musictheory1017/videos), which nows has 100,000 views and nearly 1.7k subscribers 
 - Secured funding and helped organize the June in Buffalo 2019 festival

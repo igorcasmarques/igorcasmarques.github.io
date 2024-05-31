@@ -80,7 +80,7 @@ I didn't know I was capable of loving so deeply and intensely. He imbued my life
 
 ## Back to the U of U
 
-By the fall of '14, Vero's diligent breastfeeding and mothering had helped Samuel become a healthy, happy, and plump baby boy with no apparent sequelae of his complicated birth. He was still small, but Samuel's pediatrician told us that this was not a problem per se. After all, I'm a short man myself.
+By the fall of 2014, Vero's diligent breastfeeding and mothering had helped Samuel become a healthy, happy, and plump baby boy with no apparent sequelae of his complicated birth. He was still small, but Samuel's pediatrician told us that this was not a problem per se. After all, I'm a short man myself.
 
 I was afraid Vero would have a hard time when I went back to school, but a visit from her older sister and two close friends from Chiguayante in October propped her spirit. After they were gone, we had Thanksgiving and Christmas with my cousins and their families to look forward to. Fun things would happen again; we just had to be patient. 
 

@@ -80,7 +80,7 @@ In 2015, I entered 140 events in the spreadsheet but only applied to 14. I was b
 
 ### And then...
 
-In the winter of '16, I got an email from the [Alba Rosa Viva! Festival](https://albarosavietor.com/en/). They had posted a call for new chamber pieces, which I had responded with *huithrothroy*, an evocative duo for flute and piano based on the [song of the chucao bird](https://xeno-canto.org/species/Scelorchilus-rubecula). They were now requesting a computer-made realization of *huithrothroy*. 
+In the winter of 2016, I got an email from the [Alba Rosa Viva! Festival](https://albarosavietor.com/en/). They had posted a call for new chamber pieces, which I had responded with *huithrothroy*, an evocative duo for flute and piano based on the [song of the chucao bird](https://xeno-canto.org/species/Scelorchilus-rubecula). They were now requesting a computer-made realization of *huithrothroy*. 
 
 I thought it was odd that they'd want a computer realization of the piece; it could never make justice to an actual performance by human beings (which I didn't have because they wanted an un-premiered piece). Anyway, I sent them the audio file as requested. 
 

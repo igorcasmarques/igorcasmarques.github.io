@@ -66,7 +66,7 @@ My classes started around Labour Day.
 
 When I was assigned to have composition lessons with [Jeffrey Stadelman](http://www.jeffreystadelman.com/), I couldn't help but feel slighted by Felder, who had seemed so eager to have me as his student when we talked before. 
 
-I did my best to take it in stride and Stadelman turned out to be a good teacher. He was calm and pensive, an interesting contrast with his towering height of over 200 cm. We met weekly until the spring of '16, at which point he retired. I believe I was his last composition student at UB.
+I did my best to take it in stride and Stadelman turned out to be a good teacher. He was calm and pensive, an interesting contrast with his towering height of over 200 cm. We met weekly until the spring of 2016, at which point he retired. I believe I was his last composition student at UB.
 
 That first semester at UB, I taught a course on Brazilian music that I created from scratch. Unfortunately, it failed to attract many enrollees, so the following term the Music Department put me in charge of a section of MUS 116, an introductory course of music theory for non-musicians with consistently high enrolment rates. 
 
@@ -118,7 +118,7 @@ Later that week, I was able to talk to a CBP agent on the phone, and I realized 
 
 ### ~Second time in Canada~
 
-My mother-in-law wanted to visit us in the fall of '15. She could use a break from her routine in Chile and Vero could use the help, so she bought a ticket from Santiago to Toronto—it was more cost-effective than coming to Buffalo and still within a reasonable driving distance. 
+My mother-in-law wanted to visit us in the fall of 2015. She could use a break from her routine in Chile and Vero could use the help, so she bought a ticket from Santiago to Toronto—it was more cost-effective than coming to Buffalo and still within a reasonable driving distance. 
 
 I had learned my lesson. I wanted to pick her up at Toronto Pearson so I applied to a visa to Canada.  
 

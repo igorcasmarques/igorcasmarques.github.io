@@ -38,7 +38,7 @@ The workshop and recording session went as I expected. Some people had a good ti
 
 ### More wins
 
-The recording that came out of this session became a centrepiece in my portfolio, helping me nab two more wins for *Escenas* in '17:
+The recording that came out of this session became a centrepiece in my portfolio, helping me nab two more wins for *Escenas* in 2017:
 
 - As a finalist in the [Mivos/Kanter Prize](https://www.mivosquartet.com/12th-mivoskanter-string-quartet-composition-prize) of the [Mivos Quartet](https://www.mivosquartet.com/).
 - As a finalist in the Música Hoje contest in my hometown of Curitiba, where it was premiered by the city's chamber orchestra in August. The competition's director had been my professor at [UFPR](/my-story/1-from-curitiba-to-provo.md#ufpr), so my music had gone "full circle" since I left Brazil.
@@ -51,7 +51,7 @@ The spring came and my 2nd year at UB was over. In the summer, two things preocc
 
 By that point, I had taught MUS 116 several times in person and once online. Vero suggested I should teach it with a wider audience in mind this time and make my lectures [publicly available on YouTube](https://www.youtube.com/@musictheory1017).
 
-Online teaching in '17 was nothing like what it has become since the pandemic. It was normal for instructors to teach asynchronously via email chains and PDFs. We set deadlines for homework and quizzes, and then marked the students' submissions. We rarely engaged with students in real time.
+Online teaching in 2017 was nothing like what it has become since the pandemic. It was normal for instructors to teach asynchronously via email chains and PDFs. We set deadlines for homework and quizzes, and then marked the students' submissions. We rarely engaged with students in real time.
 
 Vero's suggestion would elevate my course above the glorified newsletter that used to pass for online teaching, but it also meant considerable extra work. 
 
@@ -93,13 +93,13 @@ My biggest concern going into my third year at UB were my upcoming comprehensive
 
 As the name implies, the comps covered all subjects in musicology, music theory, music history, orchestration, etc. My comps would mark the official end of my coursework, so I was happy not to have to worry about course marks ever again.
 
-I was advised to set apart six months to study for my comps, so I scheduled them in the spring of '18 to give me enough time to prepare while also tending to my other responsibilities.
+I was advised to set apart six months to study for my comps, so I scheduled them in the spring of 2018 to give me enough time to prepare while also tending to my other responsibilities.
 
 The comps were hard but fair. There were only three questions, and the expectation was that I'd write (by hand) as much as I could about each topic during the allotted three hours. I took the test in my beloved Music Library, passed, and went from PhD student to PhD candidate. In graduate lingo, I was now *ABD*: all but dissertation.
 
 ### Pre-school
 
-By the fall of '17, Samuel qualified to attend a state-sponsored pre-school full time. He struggled at first, but the pre-school's caring staff helped him adapt to the new social environment and grow. 
+By the fall of 2017, Samuel qualified to attend a state-sponsored pre-school full time. He struggled at first, but the pre-school's caring staff helped him adapt to the new social environment and grow. 
 
 The pre-school was adjacent to the UB campus, and was an annex of a retirement community. I volunteered there once or twice a week to help clean up messes and play songs on the guitar for the kids. One time, Samuel and I even performed a little concert on the piano for his classmates and some of the elderly residents. 
 

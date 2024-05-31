@@ -18,4 +18,3 @@ Choose a section below to learn more about me.
 1. [Personal Traits](./personal-traits)
 1. [Work Experience](./work-experience)
 1. [Volunteering](./volunteering)
-1. [References](./references)

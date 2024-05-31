@@ -44,7 +44,7 @@ By mid-2018, I realized I had put on a lot of weight since Samuel had been born.
 I think I started overeating in response to stress. It was tough balancing my various obligations. I had to: 
 
 - Care for my wife and son.
-- Do well in university and finish my PhD before my bursary dried up.
+- Do well in university and finish my PhD before my scholarship dried up.
 - Be a good teacher to my music theory and history students.
 - Polish my portfolio so I could get a permanent job.
 
@@ -62,7 +62,7 @@ Regardless, I never let my bad physique get in the way of my happiness, so I tru
 
 ## Europe again
 
-In the summer of '18, I was selected to participate in the [Voix Nouvelles](https://www.royaumont.com/evenement/academie-voix-nouvelles-fsc18/) academy at the [Royaumont abbey](https://en.wikipedia.org/wiki/Royaumont_Abbey) north of Paris. Vero and I decided to turn my going to France into a family trip, so I booked a flight for the three of us to London Heathrow two weeks before my residency started.
+In the summer of 2018, I was selected to participate in the [Voix Nouvelles](https://www.royaumont.com/evenement/academie-voix-nouvelles-fsc18/) academy at the [Royaumont abbey](https://en.wikipedia.org/wiki/Royaumont_Abbey) north of Paris. Vero and I decided to turn my going to France into a family trip, so I booked a flight for the three of us to London Heathrow two weeks before my residency started.
 
 ### London
 
@@ -122,7 +122,7 @@ Neither panned out, so I kept applying.
 
 Meanwhile, Vero's pregnancy was advancing. We now had access to health insurance, so Vero received much better care in Buffalo than she had in Utah. When her OB/GYN learned of Samuel's difficult birth, they ordered more tests than usual, prescribed her some medicine, and recommended frequent bed rest.
 
-It worked. The baby grew well and healthy until he decided to be born in the winter of '19, four weeks early. We called him Elias, the Greek version of Elijah. It works well in Portuguese, Spanish, and English and it represents the connection we feel to our ancestors.
+It worked. The baby grew well and healthy until he decided to be born in the winter of 2019, four weeks early. We called him Elias, the Greek version of Elijah. It works well in Portuguese, Spanish, and English and it represents the connection we feel to our ancestors.
 
 It was snowy when Elias was born, but I felt warm and awash with love, and even though he was technically a preemie, he had no issues and had to spend just a day or two at Sisters of Charity Hospital before coming home.
 

@@ -10,7 +10,7 @@ date: 2024-04-26T00:05
 
 ## Back in Orem
 
-In addition to my university courses, I had a lot to do in the fall of '12:
+In addition to my university courses, I had a lot to do in the fall of 2012:
 
 - Polish my portfolio and resume
 - Take the [Graduate Records Examination](https://www.ets.org/gre/test-takers.html)
@@ -49,7 +49,7 @@ I kept hoping we'd run into a cougar, which is BYU's mascot, either on our commu
 
 ## One quarter century down
 
-When I turned 25 in the spring of '13, I'd been married for a year and a half and had been accepted to the master's program in [music composition at the University of Utah](https://music.utah.edu/students/programs-degrees.php#comp) (U of U). They offered me a full-tuition scholarship and a graduate assistantship that paid more I had ever earned—a low bar to clear, but nice anyway. 
+When I turned 25 in the spring of 2013, I'd been married for a year and a half and had been accepted to the master's program in [music composition at the University of Utah](https://music.utah.edu/students/programs-degrees.php#comp) (U of U). They offered me a full-tuition scholarship and a graduate assistantship that paid more I had ever earned—a low bar to clear, but nice anyway. 
 
 I went on to graduate *cum laude* from BYU, and felt that I had become a seasoned radio producer after working at Classical 89 for nearly four years.
 
@@ -87,7 +87,7 @@ I still have the email from *Perspectives* but I can't bring myself to open the 
 
 ## Water breaking
 
-One night in the winter of '14, Vero started having frequent and powerful contractions. She was scared, but I assured her that they were [Braxton Hicks contractions](https://en.wikipedia.org/wiki/Braxton_Hicks_contractions), and told her to go back to sleep. 
+One night in the winter of 2014, Vero started having frequent and powerful contractions. She was scared, but I assured her that they were [Braxton Hicks contractions](https://en.wikipedia.org/wiki/Braxton_Hicks_contractions), and told her to go back to sleep. 
 
 Then, her water broke. She was officially in labour.
 
