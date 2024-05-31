@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[2647],{559:l=>{l.exports=JSON.parse('{"label":"technical writing","permalink":"/micro-blog/tags/technical-writing","allTagsPath":"/micro-blog/tags","count":26,"unlisted":false}')}}]);

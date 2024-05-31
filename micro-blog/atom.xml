@@ -2,11 +2,117 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://igorcasmarques.github.io/micro-blog</id>
     <title>Igor Coelho A. S. Marques Blog</title>
-    <updated>2024-04-19T00:00:00.000Z</updated>
+    <updated>2024-05-31T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://igorcasmarques.github.io/micro-blog"/>
     <subtitle>Igor Coelho A. S. Marques Blog</subtitle>
     <icon>https://igorcasmarques.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Observation 3]]></title>
+        <id>https://igorcasmarques.github.io/micro-blog/observation-3</id>
+        <link href="https://igorcasmarques.github.io/micro-blog/observation-3"/>
+        <updated>2024-05-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A poem about life in Ottawa.]]></summary>
+        <content type="html"><![CDATA[<img src="https://media.licdn.com/dms/image/D4E22AQGjaCYbUWUh4w/feedshare-shrink_800/0/1716935156808?e=1720051200&amp;v=beta&amp;t=hzR-RQntUY-Tlx3MqoErYZs-W38udtpIeuRkhvd5jTw" alt="a poem titled Urban discus reads,\n\nDo people feel disappointed\nwhen they learn that\ntennis shoes hanging from powerlines\ndon't mean anything?" width="400" height="auto">]]></content>
+        <author>
+            <name>Igor Coelho A. S. Marques</name>
+            <email>coelhoigor@gmail.com</email>
+            <uri>https://www.linkedin.com/in/icasm</uri>
+        </author>
+        <category label="poetry" term="poetry"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observation 2]]></title>
+        <id>https://igorcasmarques.github.io/micro-blog/observation-2</id>
+        <link href="https://igorcasmarques.github.io/micro-blog/observation-2"/>
+        <updated>2024-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A poem about life in Ottawa.]]></summary>
+        <content type="html"><![CDATA[<img src="https://media.licdn.com/dms/image/D4E22AQHtEC6gC8CNcQ/feedshare-shrink_800/0/1716737055393?e=1720051200&amp;v=beta&amp;t=exc-cH2F8DAP3k5M_b61JIah2Nv94d-PhraDEYTI5ds" alt="A poem titled Graffiti reads,\n\nThere's a dumpster in Stonecrest Park\nenclosed by a tall wooden fence\n\nOn the back of the fenced-in dumpster,\nfour spruces arranged in a semicircle\n\nThere, on the side of the fence in the shade of the four spruces,\na spray-painted red heart\nabout the same size as my son's head" width="400" height="auto">]]></content>
+        <author>
+            <name>Igor Coelho A. S. Marques</name>
+            <email>coelhoigor@gmail.com</email>
+            <uri>https://www.linkedin.com/in/icasm</uri>
+        </author>
+        <category label="poetry" term="poetry"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Observation 1]]></title>
+        <id>https://igorcasmarques.github.io/micro-blog/observation-1</id>
+        <link href="https://igorcasmarques.github.io/micro-blog/observation-1"/>
+        <updated>2024-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A poem about life in Ottawa.]]></summary>
+        <content type="html"><![CDATA[<img src="https://media.licdn.com/dms/image/D4E22AQG9XEqcL6SNoQ/feedshare-shrink_800/0/1716561118251?e=1720051200&amp;v=beta&amp;t=_vltbVMCfJwJ8U5UIoAztb20YdYx4jeKopmlQUOjRGU" alt="A poem titled Anxiety is written on a notebook page. It reads,\nIt's May\nI'm waiting for my bus at Fallowfield Station\nand I'm worried about colours\n\nWhen the white here turns to green too soon,\nis the green elsewhere turning to brown?" width="400" height="auto">]]></content>
+        <author>
+            <name>Igor Coelho A. S. Marques</name>
+            <email>coelhoigor@gmail.com</email>
+            <uri>https://www.linkedin.com/in/icasm</uri>
+        </author>
+        <category label="poetry" term="poetry"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where is me?]]></title>
+        <id>https://igorcasmarques.github.io/micro-blog/where-is-me</id>
+        <link href="https://igorcasmarques.github.io/micro-blog/where-is-me"/>
+        <updated>2024-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Personally, I don't think it matters except for the overcorrection.]]></summary>
+        <content type="html"><![CDATA[<p>Years ago, I was told to place myself last when talking about a group of people. "It's a matter of courtesy," they said. "My wife and I" was good, "me and my wife" was not. Over time, I noticed that one belonged in business speak, and the other in informal speech, so I realized I'd been taught a register of formality.</p>
+<p>But there's more to it than politeness. "I" and "me" are different types of pronouns: one is for subjects, the other is for objects. This is why:</p>
+<p>😊 "My wife and I love food" = Good<br>
+<!-- -->🤨 "I and my wife love food" = Technically OK, but rarely used<br>
+<!-- -->🍪 "Me and my wife love food" = Cookie Monster talk ("me love food")<br>
+<!-- -->😊 "My son called me and my wife" = Good<br>
+<!-- -->😊 "My son called my wife and me" = Ideal<br>
+<!-- -->🙄 "My son called my wife and I" = Grammatically unsound overcorrection</p>]]></content>
+        <author>
+            <name>Igor Coelho A. S. Marques</name>
+            <email>coelhoigor@gmail.com</email>
+            <uri>https://www.linkedin.com/in/icasm</uri>
+        </author>
+        <category label="technical writing" term="technical writing"/>
+        <category label="editing" term="editing"/>
+        <category label="formality" term="formality"/>
+        <category label="grammar" term="grammar"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just one term]]></title>
+        <id>https://igorcasmarques.github.io/micro-blog/just-one-term</id>
+        <link href="https://igorcasmarques.github.io/micro-blog/just-one-term"/>
+        <updated>2024-05-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Inflation doomed his re-election.]]></summary>
+        <content type="html"><![CDATA[<p>Hi, <a href="https://www.linkedin.com/company/familytreedna" target="_blank" rel="noopener noreferrer">FamilyTreeDNA</a>.</p>
+<p>It's really neat to know that George H. W. Bush and I are distant cousins—VEEEEEEEEERY distant, as our common male ancestor lived over 4,000 years ago—but please have an editor take a look at your content before publishing it. Unlike his son, Bush Sr. famously served only one term; he lost his re-election bid in 1992 to Bill Clinton.</p>
+<img src="https://media.licdn.com/dms/image/D4E22AQEtfTQu3-VwIQ/feedshare-shrink_2048_1536/0/1716384670779?e=1720051200&amp;v=beta&amp;t=ODA95jsQ8qLe5HALY-i-Ss9PVcjs3v-wGrv9LaIHMmw" alt="A blurb on FamilyTree DNA's website incorrectly states that the late George H. W. Bush served two terms as President of the United States." width="500" height="auto">]]></content>
+        <author>
+            <name>Igor Coelho A. S. Marques</name>
+            <email>coelhoigor@gmail.com</email>
+            <uri>https://www.linkedin.com/in/icasm</uri>
+        </author>
+        <category label="technical writing" term="technical writing"/>
+        <category label="editing" term="editing"/>
+        <category label="dna" term="dna"/>
+        <category label="genealogy" term="genealogy"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Divorced Dads]]></title>
+        <id>https://igorcasmarques.github.io/micro-blog/divorced-dads</id>
+        <link href="https://igorcasmarques.github.io/micro-blog/divorced-dads"/>
+        <updated>2024-05-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Don't look up scarification on Google.]]></summary>
+        <content type="html"><![CDATA[<p>Comedian <a href="https://www.youtube.com/@AudioOpera" target="_blank" rel="noopener noreferrer">Graeme Barrett</a> has a hilarious series on YouTube called <a href="https://divorceddads.shop/" target="_blank" rel="noopener noreferrer">Divorced Dads</a>. It's about a fictional collectible card game à la Magic: The Gathering. When Barrett released the card game for real, I immediately ordered some packs.</p>
+<p>The rules are simple and fit on a double-sided 8 x 11 cm (not in) card. Part of the charm of Divorced Dads is its low production value, so I was not surprised to find a glaring typo on the rule card: "scarified" (intentionally scarred for aesthetic reasons) rather than "sacrificed" (discarded from the playing field).</p>
+<img src="https://media.licdn.com/dms/image/D4E22AQEF6PBtqiZDQg/feedshare-shrink_800/0/1716309923158?e=1720051200&amp;v=beta&amp;t=aQV4PDgsxaTBWd5oYc8YCK6WsbNC1D6U0KJZSrAawV0" alt="The rule card of Divorced Dads, a fantasy card game, misspells &quot;sacrificed&quot; as &quot;scarified.&quot;" width="500" height="auto">
+<p>Will collectors one day be willing to pay thousands of dollars for this first-edition misspelled rule card?</p>
+<p>Probably not.</p>]]></content>
+        <author>
+            <name>Igor Coelho A. S. Marques</name>
+            <email>coelhoigor@gmail.com</email>
+            <uri>https://www.linkedin.com/in/icasm</uri>
+        </author>
+        <category label="technical writing" term="technical writing"/>
+        <category label="divorced dads" term="divorced dads"/>
+        <category label="graeme barrett" term="graeme barrett"/>
+        <category label="typo" term="typo"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Say quoi 5]]></title>
         <id>https://igorcasmarques.github.io/micro-blog/say-quoi-5</id>
@@ -290,126 +396,5 @@
         <category label="ottawa" term="ottawa"/>
         <category label="barrhaven" term="barrhaven"/>
         <category label="jockvale" term="jockvale"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AC Tech Writers 2024]]></title>
-        <id>https://igorcasmarques.github.io/micro-blog/ac-tech-writers</id>
-        <link href="https://igorcasmarques.github.io/micro-blog/ac-tech-writers"/>
-        <updated>2024-03-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We're few but mighty.]]></summary>
-        <content type="html"><![CDATA[<p>Watch out, Ottawa! You're about to be flooded with technical documentation that is so well-structured, scannable, and task-oriented that you'll start reading user manuals for fun!</p>
-<img src="https://media.licdn.com/dms/image/D4E22AQEjL38Ybu_aDw/feedshare-shrink_800/0/1710951210358?e=1714003200&amp;v=beta&amp;t=TXeYshipwA5-HNI8P223NHRNAmcStQdbQd3oqkz2ioA" alt="Selfie with eight friends in view at night." width="400" height="auto">
-<p>A pleasure to break bread last night with my colleagues in Algonquin College's <a href="https://www.algonquincollege.com/sat/program/technical-writer/" target="_blank" rel="noopener noreferrer">technical writer program</a>. (We missed those who couldn't come.)</p>
-<p>Pictured: <a href="https://www.linkedin.com/in/robert-hennessy-technical-writer/" target="_blank" rel="noopener noreferrer">Robert Hennessy</a>, <a href="https://www.linkedin.com/in/mitchell-lui-843b7586/" target="_blank" rel="noopener noreferrer">Mitchell Lui</a>, <a href="https://polinagankina.myportfolio.com/" target="_blank" rel="noopener noreferrer">Polina Gankina</a>, <a href="https://www.linkedin.com/in/khushi-narshana-117b43188/" target="_blank" rel="noopener noreferrer">Khushi Narshana</a>, <a href="https://www.linkedin.com/in/david-rotel-863600225/" target="_blank" rel="noopener noreferrer">David Rotel</a>, <a href="https://www.linkedin.com/in/amina-shahin-301ba2290/" target="_blank" rel="noopener noreferrer">Amina Shahin</a>, and <a href="https://www.linkedin.com/in/jessica-bond-574b542b2/" target="_blank" rel="noopener noreferrer">Jessica Bond</a>.</p>
-<p>Happy spring! 💐</p>]]></content>
-        <author>
-            <name>Igor Coelho A. S. Marques</name>
-            <email>coelhoigor@gmail.com</email>
-            <uri>https://www.linkedin.com/in/icasm</uri>
-        </author>
-        <category label="ottawa" term="ottawa"/>
-        <category label="algonquin college" term="algonquin college"/>
-        <category label="technical writing" term="technical writing"/>
-        <category label="friends" term="friends"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dog and toilet?]]></title>
-        <id>https://igorcasmarques.github.io/micro-blog/dog-toilet</id>
-        <link href="https://igorcasmarques.github.io/micro-blog/dog-toilet"/>
-        <updated>2024-03-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Wow, you really do learn something new everyday.]]></summary>
-        <content type="html"><![CDATA[<p>I'm not a dog owner, so I was puzzled by this sign. There are three icons under "Stoop &amp; Scoop": a squatting dog doing its business; an arrow connecting the waste to a bag; and a toilet bowl.</p>
-<img src="https://media.licdn.com/dms/image/D4E22AQELs8SLotEpAw/feedshare-shrink_800/0/1710878760986?e=1714003200&amp;v=beta&amp;t=UhSFnwKQiPLBo32g3YudKCfnr7mHhEwiFJEho5ghAvI" alt="A public sign instructs passersby to pick up after their dogs." width="300" height="auto">
-<p>The ordering of icons suggests a sequence of steps. The first two I get: dog poops, person picks it up. But what about the toilet bowl? Turns out the <a href="https://www.linkedin.com/company/city-of-ottawa" target="_blank" rel="noopener noreferrer">City of Ottawa</a> "encourages flushing pet waste down the toilet, as it will be properly treated at the sewage plant."</p>
-<p>Cool. I had no idea.</p>]]></content>
-        <author>
-            <name>Igor Coelho A. S. Marques</name>
-            <email>coelhoigor@gmail.com</email>
-            <uri>https://www.linkedin.com/in/icasm</uri>
-        </author>
-        <category label="ottawa" term="ottawa"/>
-        <category label="barrhaven" term="barrhaven"/>
-        <category label="signage" term="signage"/>
-        <category label="technical writing" term="technical writing"/>
-        <category label="icons" term="icons"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9GAG's toxicity 1]]></title>
-        <id>https://igorcasmarques.github.io/micro-blog/9gag-toxicity-1</id>
-        <link href="https://igorcasmarques.github.io/micro-blog/9gag-toxicity-1"/>
-        <updated>2024-03-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Half of everything on Trending is politically motivated. A lot of it is really bad.]]></summary>
-        <content type="html"><![CDATA[<p>I discovered <a href="https://www.linkedin.com/company/9gag" target="_blank" rel="noopener noreferrer">9GAG</a> some 10 years ago. I was a stressed-out new father in grad school, and the site was like an emotional IV for me, each funny meme a drop of serotonin. While the site has always had its bad apples, it was easier to ignore the toxic stuff because the site's political content was not as pervasive or as extreme as it has been since the pandemic.</p>
-<p>I'm a technical writer and the intersection of political memes, propaganda, and technical writing interests me. I'm also a programmer, so I decided to code a dynamic pie chart to try and quantify the unease I feel with political content on <a href="https://www.linkedin.com/company/9gag" target="_blank" rel="noopener noreferrer">9GAG</a>.</p>
-<p>As the GIF below shows, about half of the content on the Trending page has no political agenda, a quarter is (mostly right-wing) political propaganda, and a few posts here and there are outright chauvinistic.</p>
-<img src="https://media.licdn.com/dms/image/D4D22AQHXT9pIEWuIoQ/feedshare-shrink_800/0/1710534042476?e=1713398400&amp;v=beta&amp;t=GwdoAc1JRnZIGZjZHkxh-Gg7kgsP3SxARrpLI4tMbNc" alt="A sped-up screen recording of me browsing 9GAG and categorizing its political content." width="500" height="auto">
-<p>As soon as I fix a few critical bugs in the pie chart app, I'll go down <a href="https://www.linkedin.com/company/9gag" target="_blank" rel="noopener noreferrer">9GAG</a>'s rabbit hole to try and understand its political culture and the people (and bots) behind it.</p>]]></content>
-        <author>
-            <name>Igor Coelho A. S. Marques</name>
-            <email>coelhoigor@gmail.com</email>
-            <uri>https://www.linkedin.com/in/icasm</uri>
-        </author>
-        <category label="technical writing" term="technical writing"/>
-        <category label="9gag" term="9gag"/>
-        <category label="memes" term="memes"/>
-        <category label="propaganda" term="propaganda"/>
-        <category label="chauvinism" term="chauvinism"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go downstairs]]></title>
-        <id>https://igorcasmarques.github.io/micro-blog/go-downstairs</id>
-        <link href="https://igorcasmarques.github.io/micro-blog/go-downstairs"/>
-        <updated>2024-03-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Accuracy + plainness = clarity.]]></summary>
-        <content type="html"><![CDATA[<p>Accurate is good. Accurate and plain is much, much better.</p>
-<img src="https://media.licdn.com/dms/image/D4E22AQFTkRLAsaEu6Q/feedshare-shrink_800/0/1710369954418?e=1713398400&amp;v=beta&amp;t=S5dYz6OHyZgtbS5jBMumRw0wHiwxPYSYyH1yFUiHlMk" alt="A sign that instructs people the information of a meet-and-greet for librarians has 'go downstairs' scribbled on it." width="300" height="auto">
-<p>(I'm sure the people who used this sign for wayfinding appreciated the scribbled "Go downstairs".)</p>]]></content>
-        <author>
-            <name>Igor Coelho A. S. Marques</name>
-            <email>coelhoigor@gmail.com</email>
-            <uri>https://www.linkedin.com/in/icasm</uri>
-        </author>
-        <category label="technical writing" term="technical writing"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[International Women's Day 2024]]></title>
-        <id>https://igorcasmarques.github.io/micro-blog/iwd-2024</id>
-        <link href="https://igorcasmarques.github.io/micro-blog/iwd-2024"/>
-        <updated>2024-03-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Thank you, Gail.]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://www.linkedin.com/posts/icasm_nintendo-zelda-iwd2024-activity-7171926966823038976-B-CE?utm_source=share&amp;utm_medium=member_desktop" target="_blank" rel="noopener noreferrer">(See the video here)</a></p>
-<p>This International Women's Day, I'm thinking of <a href="https://www.linkedin.com/in/gail-tilden-a6a3295/" target="_blank" rel="noopener noreferrer">Gail Tilden</a>, who has had a huge impact on my life.</p>
-<p>Gail was the VP of Brand Management at <a href="https://www.linkedin.com/company/nintendo" target="_blank" rel="noopener noreferrer">Nintendo of America</a> between 1985 and 2007 and oversaw much of the company's localization effort. I think it's fair to say that many of the games that shaped who I am did so because they went through Gail's filter before reaching me. Thanks, Gail.</p>
-<p>Check the video linked above. It's me playing a tune from The Legend of Zelda: A Link to the Past, composed by Koji Kondo and arranged for piano by Shinobu Amayake. Gail is the one who came with this game's epic subtitle.</p>]]></content>
-        <author>
-            <name>Igor Coelho A. S. Marques</name>
-            <email>coelhoigor@gmail.com</email>
-            <uri>https://www.linkedin.com/in/icasm</uri>
-        </author>
-        <category label="nintendo" term="nintendo"/>
-        <category label="zelda" term="zelda"/>
-        <category label="iwd" term="iwd"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Language fluency]]></title>
-        <id>https://igorcasmarques.github.io/micro-blog/language-fluency</id>
-        <link href="https://igorcasmarques.github.io/micro-blog/language-fluency"/>
-        <updated>2024-03-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If at least the burrito was decent, I could've forgiven the lousy copy.]]></summary>
-        <content type="html"><![CDATA[<p>I'm a technical writer because I'm a language nerd. Always have been. As a language nerd, one of my goals is to become fluent in a new language every decade that I live.</p>
-<ul>
-<li>In my first decade, I learned Portuguese. It was very easy on account of me being from Brazil.</li>
-<li>In my second decade, I learned English. Or rather, I thought I did until I moved to the US, at which point I realized that I actually hadn't. Thankfully, I've gotten better since.</li>
-<li>In my third decade, I learned Spanish. It was good enough to woo my wife (see the archaeological artifact below) and it's the language we speak at home.</li>
-<li>In my fourth decade, I'm learning French. It's tricky. I've discovered that it's not enough to love the language, you also have to love the people who speak it. I love French, and I'm learning to love the French.</li>
-</ul>
-<img src="https://media.licdn.com/dms/image/D4E22AQFIB4_ZZ-KDaQ/feedshare-shrink_800/0/1709651943448?e=1713398400&amp;v=beta&amp;t=Cw2cUvInSmmgf4TP7YtGM8FFfN4TwKunQ0x3gkZBxt8" alt="Screenshot of an MSN Messenger conversation between two people, circa 2009." width="500" height="auto">]]></content>
-        <author>
-            <name>Igor Coelho A. S. Marques</name>
-            <email>coelhoigor@gmail.com</email>
-            <uri>https://www.linkedin.com/in/icasm</uri>
-        </author>
-        <category label="language nerd" term="language nerd"/>
-        <category label="foreign languages" term="foreign languages"/>
     </entry>
 </feed>

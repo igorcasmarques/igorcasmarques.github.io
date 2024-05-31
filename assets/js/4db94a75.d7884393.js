@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[1977],{506:e=>{e.exports=JSON.parse('{"label":"genealogy","permalink":"/micro-blog/tags/genealogy","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);
