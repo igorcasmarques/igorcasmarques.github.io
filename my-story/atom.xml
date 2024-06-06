@@ -1054,4 +1054,18 @@
             <uri>https://www.linkedin.com/in/icasm</uri>
         </author>
     </entry>
+    <entry>
+        <title type="html"><![CDATA[14. From Amherst to Curitiba]]></title>
+        <id>https://igorcasmarques.github.io/my-story/from-amherst-to-curitiba</id>
+        <link href="https://igorcasmarques.github.io/my-story/from-amherst-to-curitiba"/>
+        <updated>2024-04-26T00:13:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a memoir of my adult life. You can find my resume and portfolio in different areas of this site.]]></summary>
+        <content type="html"><![CDATA[<p><em>This is a memoir of my adult life. You can find my <a href="https://igorcasmarques.github.io/docs/resume/intro">resume</a> and <a href="https://igorcasmarques.github.io/docs/portfolio/intro">portfolio</a> in different areas of this site.</em></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="express-entry">"Express" entry<a href="https://igorcasmarques.github.io/my-story/from-amherst-to-curitiba#express-entry" class="hash-link" aria-label="Direct link to &quot;Express&quot; entry" title="Direct link to &quot;Express&quot; entry">​</a></h2>]]></content>
+        <author>
+            <name>Igor Coelho A. S. Marques</name>
+            <email>coelhoigor@gmail.com</email>
+            <uri>https://www.linkedin.com/in/icasm</uri>
+        </author>
+    </entry>
 </feed>
