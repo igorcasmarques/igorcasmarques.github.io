@@ -13,10 +13,10 @@ What I do as a technical writer today owes much to the 30+ college courses I've 
 
 ## 2024-Present: Technical Writer
 
-**Employer**: [Algonquin College](https://www.algonquincollege.com/)
+**Employer**: [Algonquin College](https://www.algonquincollege.com/)   
 **Location**: Ottawa, ON
 
-- Develop user-friendly written content for the [R3 Project](https://www.algonquincollege.com/r3/r3-project/) in a variety of media, such as web copy, FAQs, user guides, etc.
+- Plan and develop user-friendly content for the [R3 Project](https://www.algonquincollege.com/r3/r3-project/) in a variety of media, such as web articles, training videos, etc.
 - Use plain language to translate complex technical information into clear and concise content
 - Adhere to an in-house style guide to ensure that content is consistent with the quality and presentation stakeholders expect
 

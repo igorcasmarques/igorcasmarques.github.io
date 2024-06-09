@@ -92,7 +92,7 @@ I couldn't just sit on my hands. Even though USCIS makes it virtually impossible
 
 Sometimes I pressed 2 for Spanish in the USCIS phone line. Maybe there'd be less traffic. Maybe it'd be easier to tug at the heartstrings of my fellow Latin Americans.
 
-I learned which Church wards were close to the USCIS office in Missouri, and got in touch with their bishops. Maybe there were members in those wards who worked for USCIS and could pull strings for us.
+I learned which Church wards were close to the USCIS office in Missouri, and got in touch with their bishops. Maybe there were members in those wards who worked for USCIS and could intercede for us.
 
 I even pestered USCIS employees on their social media accounts after doing some online sleuthing. 
 
@@ -108,7 +108,7 @@ Then, a few weeks later, the EAD finally arrived.
 
 Just like that, unceremoniously. I took it to the HR rep, they photocopied it, and I was cleared to work again.
 
-### UB reprise (Year 1)
+### UB reprise
 
 The ordeal with my EAD had broken me, but the fall semester was in full swing at UB, so I shook off the trauma and moved on.
 
