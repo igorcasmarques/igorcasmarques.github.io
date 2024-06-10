@@ -10,11 +10,11 @@ date: 2024-04-26T00:13
 
 ## "Express" entry
 
-In the span of a single week in the spring of 2020, Vero and I went from hoping things would magically work out in the US to losing all hope to wholeheartedly deciding to go to Canada instead.
+In the span of a week in the spring of 2020, Vero and I went from hoping things would miraculously work out in the US to losing all hope to wholeheartedly deciding to go to Canada instead.
 
-As soon as we had made this decision, Vero started reading every blog post and government webpage she could find about the immigration process. When she didn't understand something, she'd pop the question in one of the Facebook groups that she'd joined and get an answer in minutes, thanks to beauty bias.[^1]
+As soon as we had made this decision, Vero started reading every government webpage and blog post she could find about the immigration process. When she didn't understand something, she'd pop the question in one of the Facebook groups that she'd joined and get an answer in minutes.[^1] Thank you, beauty bias.
 
-She'd then relay what she'd learned to me. 
+She would then relay what she'd learned to me. 
 
 ### Points
 
@@ -30,7 +30,7 @@ She also explained that people in the Express Entry pool were ranked using a poi
 
 "If we get an invitation to apply for permanent residence, we're basically in. We just need to send our documents, do some medical exams, and wait for them to make sure everything we sent them is legit. The hard part is making the cut."
 
-"Can you imagine what a relief that would be? Permanent residence... But how hard is it for us to get enough points?" 
+"Can you imagine what a relief that would be? Permanent residence. But how hard is it for us to get enough points?" 
 
 "It's... doable, but not easy." 
 
@@ -52,7 +52,7 @@ Vero had been tracking the cut-off scores of past rounds of invitations.
 
 "If you get good marks on the French test, our profile will be much better ranked."
 
-"I don't speak French. I picked up a few things when we went to [Paris](/my-story/12-elias.md#paris), but... I don't speak French."
+"I don't speak French. I picked up a few things when we went to [Paris](/my-story/12-elias.md#paris), but I really don't speak French."
 
 "I know. But you can learn it. You have two months."
 
@@ -60,78 +60,80 @@ I trusted Vero and booked my [*Test de connaissance du français*](https://appre
 
 I was done with work at UB, so I started using Duolingo and watching French shows and movies on Netflix for hours on end, every day. 
 
-Then, eight weeks later, between Independence Day and the *prise de la Bastille*, I drove 11 hours down to Raleigh, NC, whose [Alliance française](https://www.afraleigh.org/page/1642293-home) was the only place close-ish to us that was offering the TCF in the middle of the pandemic.
+Eight weeks later, between Independence Day and the *prise de la Bastille*, I drove 11 hours down to Raleigh, NC, whose [Alliance française](https://www.afraleigh.org/page/1642293-home) was the only place close-ish to us that was offering the TCF in the middle of the pandemic.
 
 ## Biding our time
 
-When the results of our language proficiency tests came back, we were relieved. Vero and I got the scores we needed in English, and even though I didn't do well in my oral interview in French, I got top marks in *compréhension écrite et orale*. 
+When the results of our language proficiency tests came back, we were relieved. Vero and I got the scores we needed in English, and even though I didn't do well in my oral interview in French, I got top marks in *compréhension écrite et orale*. This put us in the Express Entry safe zone.
 
-We were in the Express Entry safe zone. Now we just needed to wait to receive the invitation to apply for permanent residence.
+We'd read that the typical Express Entry process took six months from submitting one's profile to getting approved for permanent residence. We had four months left in the US, and a part of me hoped we'd get lucky and have our application processed faster than usual. 
 
-We'd read that the typical Express Entry process took six months from start to finish. We had to leave the US four months after submitting our Express Entry profile, so a part of me hoped that we'd get lucky and our application would be processed faster than usual. 
-
-I just wanted to hop across the border and be done with instability in our life.
+I just wanted to hop across the border and end the instability in our life.
 
 ## Curitiba, again
 
-After coming back from Raleigh, I spent the rest of the summer taking my sons on long walks around our neighbourhood. We especially liked going to [Dellwood Park](https://www.amherst.ny.us/content/parks_detail.php?park_num=park_0021) and getting cold treats at the 7-Eleven a block away from our home.
+After coming back from Raleigh, I spent the rest of the summer taking my sons on long walks around our neighbourhood. We especially liked getting cold treats at the 7-Eleven nearby and playing in [Dellwood Park](https://www.amherst.ny.us/content/parks_detail.php?park_num=park_0021).
 
-Soon, it became obvious that we wouldn't be able to go to Canada just yet. So, we decided to go back to Curitiba and wait out the processing of our application there, where we had a solid support system and our expenses would be minimal.
+Soon, it became obvious that we wouldn't be able to go straight from the US to Canada. We needed to go back to Curitiba, where we had a solid support system, and wait out the processing of our application there.
 
 ### Last month in the US
 
-A few days after we bought our flight tickets, Canada invited us to apply for permanent residence.
+A few days after we bought our flight tickets, Immigration, Refugees and Citizenship Canada (IRCC) invited us to apply for permanent residence.
 
-We spent our last month in the US getting rid of everything we owned that couldn't fit in four suitcases and gathering documents for our application. We didn't know how long it'd take for Canada to accept our application, but we hoped our sojourn in Curitiba would be a short one.
+We felt victorious, but there was no time to celebrate.
+
+We spent our last month in the US selling or giving away our possessions. We could only fit so much in our four suitcases, and we prioritized clothing and items with sentimental value; everything else had to stay behind. 
+
+We also ran around to gather the some outstanding documents that IRCC was asking. We didn't know how long it'd take for Canada to accept our application, but we hoped our sojourn in Curitiba would be a short one.
 
 ### The TWA Hotel
 
-As I researched flight tickets online, I realized that if we booked a flight from Buffalo-Curitiba, it would be:
+When I researched flight tickets online, I realized that if we booked a flight from Buffalo-Curitiba on the same ticket, it would be:
 
 - Very tiring 
-- More expensive than booking Buffalo-JFK and JFK-Curitiba as separate flights 
+- More expensive than booking Buffalo-JFK and JFK-Curitiba as separate tickets 
 
 So I thought:
 
-*Why not do Buffalo-JFK on one day and just... take our time there? We can use the money we'd save with the separate tickets and rest at a hotel and fly to Brazil the next day.*
-
-Honestly, I'm still proud of that idea. We were in no rush to return to Brazil, so we were glad to exchange expediency for comfort and some memory-making. It turned a stressful move into a fun trip.
+*Why not do Buffalo-JFK on one day and just... take our time there? We can use the money we'd save from not buying a single ticket to stay at a hotel and fly to Brazil the next day.*
 
 We stayed at the recently renovated [TWA Hotel](https://www.twahotel.com/), and it was magical. Like [*Marvelous Mrs. Maisel*](https://en.wikipedia.org/wiki/The_Marvelous_Mrs._Maisel) magical. The retro architecture and decor, the red carpets, the rooftop infinity pool, the views of the runways, the clickety-clack of the split-flap display in the sunken lounge.[^2] Everything was awesome.
 
+Honestly, I'm still proud of that idea. Our family was in no rush to return to Brazil, so we were glad to exchange expediency for comfort and some memory-making. It turned a stressful move into a fun trip.
+
 ### Mixed feelings
 
-Travelling in the pandemic was a pain, but we made it to Curitiba without any problems. There, we'd live in my sister's old apartment, which was a block away from my parents'.
+Travelling in the pandemic was a pain, but we made it to Curitiba without any problems.
 
-I'd forgotten how much I loved Curitiba, and my childhood neighbourhood in particular. It's beautiful, convenient, and vibrant. I felt silly for having believed for many years that going back to Brazil was a failure. It wasn't. Curitiba is an objectively better city to live in than most places in the US. 
+I'd forgotten how much I loved Curitiba and my old neighbourhood. It's beautiful, convenient, and vibrant. I felt silly for believing that going back to Brazil was a punishment for failing. It wasn't. Curitiba is an objectively better city to live in than most places in the US. 
 
 With one caveat: safety.
 
-People get jumped on the street or have their houses broken into more frequently than in developed countries. In fact, there was a break-in in our apartment complex the first week we were there, though our super caught them on camera and alerted private security, who came with the police to arrest them.
+It's not uncommon for people to be robbed or have their homes burglarized in Brazil. In fact, there was a break-in in our apartment complex the first week we were there, but super caught them on camera and called the police, who came to arrest them.
 
 And a second caveat: good education is expensive.
 
-We enrolled Samuel in a public school in [Parolin](https://pt.wikipedia.org/wiki/Parolin), a somewhat sketchy neighbourhood. Since classes were online due to the pandemic, we didn't worry. Had we stayed in Curitiba long enough for the pandemic restrictions to be lifted, we'd have transferred him to a private school like most middle-class families do.
+We enrolled Samuel in a public school in a somewhat sketchy neighbourhood. Since classes were online due to the pandemic, we weren't worry about his safety in school or the quality of education. But had we stayed in Curitiba long enough for the pandemic restrictions to be lifted, we would have had to transfer him to a private school.
 
-Living in the US or Canada was really just a way for us to address these caveats and enable our children to grow up safely and with access to good education. In most other regards, I like living in Brazil better, and Vero feels most at home in Chile.
+Living in the US or Canada was really just a way for us to enable our children to grow up safely and with access to good education. In most other regards, I like living in Brazil better, and Vero feels most at home in Chile.
 
 ### Job worries
 
-Our Canadian permanent residence application was stuck, and I accepted that we could be in Curitiba for a long time, maybe even years, so I spent the rest of 2020 looking for a job.
+Our Canadian permanent residence application was stuck, and I accepted that we could be in Curitiba for a long time, so I spent the rest of 2020 looking for a job.
 
 #### Job counselling
 
-The first thing I did was talk to an employment specialist in Curitiba's Workers' Agency. 
+The first thing I did was talk to an employment specialist at the city's Workers' Agency. 
 
-I'd seen on TV how well employment agencies worked in Scandinavia, and I thought the agent I talked to would see my experience and potential, pull some strings, and find me a position in the hidden job market.
+I'd seen on TV how well employment agencies worked in Scandinavia. I thought that an employment agent would see my experience and potential, pull some strings, and find me a position in the hidden job market.
 
-But Brazil is not Sweden. The agent I talked to didn't know what a doctorate was, and said that I had no real skills and that I should be a cashier in a grocery store. 
+For better or worse, Brazil is not Sweden. The agent I talked to didn't know what a doctorate was, was not impressed by the languages I spoke, said that I had no real skills, and insisted that I should be a cashier in a grocery store. 
 
-They hadn't been very helpful, so I revived my [job application spreadsheet](/my-story/12-elias.md#year-4-ub).
+Not very helpful. I had to revive my [job application spreadsheet](/my-story/12-elias.md#year-4-ub) and do the legwork myself.
 
 #### Translator interview
 
-The first interview I landed was for a trilingual translator of patents and technical diagrams. I did well in the interview and practical test, but the company ghosted me afterwards.
+I soon landed an interview for a trilingual translator of patents and technical diagrams. I did well in the interview and practical test, but the company ghosted me afterwards.
 
 #### Music professor interview 1
 
@@ -139,15 +141,15 @@ Then, my beloved [Belas](/my-story/1-from-curitiba-to-provo.md#belas), which by 
 
 Curiously, the chairperson of the hiring committee was a UB alumnus like me, and a former student of [David Felder](http://www.david-felder.com/)!
 
-Everything worked in my favour, but I still didn't get the job. Positions in Brazilian public institutions are vied for like contests, and I placed 2nd or 3rd—I don't quite remember because there was a suspiciously large gap between the 1st-place score and everyone else.
+Everything worked in my favour, but I still didn't get the job. Positions in Brazilian public institutions are vied for like contests, and I placed 2nd or 3rd—I don't quite remember because there was a suspiciously large gap between the score of the winning candidate and everyone else's.
 
 #### Music professor interview 2
 
-In early 2021, a friend from UB who lived and worked in Chile told me that the [Universidad Austral de Chile](https://www.uach.cl/) (UACh) was looking for a music professor. Again, my profile fit the bill.
+In early 2021, a friend from UB who lived and worked in Chile told me that I was a great match for an opening at the [Universidad Austral de Chile](https://www.uach.cl/) (UACh).
 
 I applied, got an interview, and aced it.
 
 Then I got a job offer.
 
-[^1]: Vero learned so much about immigrating to Canada in 2020 that I felt she was knowledgeable as as an immigration lawyer.
+[^1]: Vero learned so much about immigrating to Canada in 2020 that I felt she was as knowledgeable as an immigration lawyer.
 [^2]: I'm sad to see that many guests have posted scathing reviews on [TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g616325-d17741149-Reviews-TWA_Hotel-Queens_New_York.html#review_952355583) in recent years; our experience was super positive. 

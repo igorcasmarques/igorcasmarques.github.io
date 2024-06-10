@@ -126,7 +126,7 @@ I figured that since I was driving in and out of Canada in the span of a few hou
 
 My visa request was denied. Why? Because "transit" visas are for passengers in connecting flights, and the right visa for me should have been just the good old "tourist" visa. 
 
-For someone who had lived abroad for nine years, I sure knew very little about immigration documents. Thankfully, Chilean nationals did not need a visa to enter Canada, so Vero ended up picking up her mother at the airport.
+For someone who had lived abroad for nine years, I sure knew very little about immigration processes. Thankfully, Chilean nationals did not need a visa to enter Canada, so Vero ended up picking up her mother at the airport.
 
 ## Holidays in Orem
 

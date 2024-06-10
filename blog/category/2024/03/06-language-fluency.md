@@ -11,7 +11,7 @@ hide_table_of_contents: false
 I'm a technical writer because I'm a language nerd. Always have been. As a language nerd, one of my goals is to become fluent in a new language every decade that I live.
 
 - In my first decade, I learned Portuguese. It was very easy on account of me being from Brazil.
-- In my second decade, I learned English. Or rather, I thought I did until I moved to the US, at which point I realized that I actually hadn't. Thankfully, I've gotten better since.
+- In my second decade, I learned English. Or rather, I thought I did until I moved to the US, at which point I realized that I actually hadn't. I think I've gotten better since.
 - In my third decade, I learned Spanish. It was good enough to woo my wife (see the archaeological artifact below) and it's the language we speak at home.
 - In my fourth decade, I'm learning French. It's tricky. I've discovered that it's not enough to love the language, you also have to love the people who speak it. I love French, and I'm learning to love the French.
 
