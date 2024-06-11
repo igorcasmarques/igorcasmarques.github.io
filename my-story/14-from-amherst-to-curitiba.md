@@ -82,9 +82,9 @@ A few days after we bought our flight tickets, Immigration, Refugees and Citizen
 
 We felt victorious, but there was no time to celebrate.
 
-We spent our last month in the US selling or giving away our possessions. We could only fit so much in our four suitcases, and we prioritized clothing and items with sentimental value; everything else had to stay behind. 
+We spent our last month in the US selling or giving away our possessions. We could only fit so much in our four suitcases, and we prioritized clothing and items with sentimental value; everything else had to stay behind. We also ran around to gather some additional documents that IRCC was asking. 
 
-We also ran around to gather the some outstanding documents that IRCC was asking. We didn't know how long it'd take for Canada to accept our application, but we hoped our sojourn in Curitiba would be a short one.
+We didn't know how long it'd take for Canada to accept our application, but we hoped our sojourn in Curitiba would be a short one.
 
 ### The TWA Hotel
 
