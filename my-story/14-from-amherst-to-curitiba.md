@@ -84,7 +84,7 @@ We felt victorious, but there was no time to celebrate.
 
 We spent our last month in the US selling or giving away our possessions. We could only fit so much in our four suitcases, and we prioritized clothing and items with sentimental value; everything else had to stay behind. We also ran around to gather some additional documents that IRCC was asking. 
 
-We didn't know how long it'd take for Canada to accept our application, but we hoped our sojourn in Curitiba would be a short one.
+We didn't know how long it'd take for Canada to accept our application, but we hoped our sojourn in Curitiba would be short.
 
 ### The TWA Hotel
 
@@ -97,7 +97,7 @@ So I thought:
 
 *Why not do Buffalo-JFK on one day and just... take our time there? We can use the money we'd save from not buying a single ticket to stay at a hotel and fly to Brazil the next day.*
 
-We stayed at the recently renovated [TWA Hotel](https://www.twahotel.com/), and it was magical. Like [*Marvelous Mrs. Maisel*](https://en.wikipedia.org/wiki/The_Marvelous_Mrs._Maisel) magical. The retro architecture and decor, the red carpets, the rooftop infinity pool, the views of the runways, the clickety-clack of the split-flap display in the sunken lounge.[^2] Everything was awesome.
+We stayed at the recently renovated [TWA Hotel](https://www.twahotel.com/), and it was magical. Like, [*Marvelous Mrs. Maisel*](https://en.wikipedia.org/wiki/The_Marvelous_Mrs._Maisel) magical. The retro architecture and decor, the red carpets, the rooftop infinity pool, the views of the runways, the clickety-clack of the split-flap display in the sunken lounge.[^2] Everything was awesome.
 
 Honestly, I'm still proud of that idea. Our family was in no rush to return to Brazil, so we were glad to exchange expediency for comfort and some memory-making. It turned a stressful move into a fun trip.
 
@@ -109,11 +109,11 @@ I'd forgotten how much I loved Curitiba and my old neighbourhood. It's beautiful
 
 With one caveat: safety.
 
-It's not uncommon for people to be robbed or have their homes burglarized in Brazil. In fact, there was a break-in in our apartment complex the first week we were there, but super caught them on camera and called the police, who came to arrest them.
+It's not uncommon for people to be robbed or have their homes burglarized in Brazil. In fact, there was a break-in in our apartment complex the first week we were there, but our super caught them on camera and called the police, who came to arrest them.
 
 And a second caveat: good education is expensive.
 
-We enrolled Samuel in a public school in a somewhat sketchy neighbourhood. Since classes were online due to the pandemic, we weren't worry about his safety in school or the quality of education. But had we stayed in Curitiba long enough for the pandemic restrictions to be lifted, we would have had to transfer him to a private school.
+We enrolled Samuel in a public school in a somewhat sketchy neighbourhood. Since classes were online due to the pandemic, we weren't worried about his safety in school or the quality of the education he got. But had we stayed in Curitiba long enough for the pandemic restrictions to be lifted, we would have had to transfer him to a good private school.
 
 Living in the US or Canada was really just a way for us to enable our children to grow up safely and with access to good education. In most other regards, I like living in Brazil better, and Vero feels most at home in Chile.
 
@@ -127,13 +127,13 @@ The first thing I did was talk to an employment specialist at the city's Workers
 
 I'd seen on TV how well employment agencies worked in Scandinavia. I thought that an employment agent would see my experience and potential, pull some strings, and find me a position in the hidden job market.
 
-For better or worse, Brazil is not Sweden. The agent I talked to didn't know what a doctorate was, was not impressed by the languages I spoke, said that I had no real skills, and insisted that I should be a cashier in a grocery store. 
+For better or worse, Brazil is not Sweden. The agent I talked to didn't know what a doctorate was, was not impressed by the languages I spoke, said that I had no real skills, and insisted that I should get a dead-end minimum wage job.
 
 Not very helpful. I had to revive my [job application spreadsheet](/my-story/12-elias.md#year-4-ub) and do the legwork myself.
 
 #### Translator interview
 
-I soon landed an interview for a trilingual translator of patents and technical diagrams. I did well in the interview and practical test, but the company ghosted me afterwards.
+I soon landed an interview to be a trilingual translator of patents and technical diagrams. I did well in the interview and the practical test, but the company ghosted me afterwards.
 
 #### Music professor interview 1
 
@@ -141,7 +141,7 @@ Then, my beloved [Belas](/my-story/1-from-curitiba-to-provo.md#belas), which by 
 
 Curiously, the chairperson of the hiring committee was a UB alumnus like me, and a former student of [David Felder](http://www.david-felder.com/)!
 
-Everything worked in my favour, but I still didn't get the job. Positions in Brazilian public institutions are vied for like contests, and I placed 2nd or 3rd—I don't quite remember because there was a suspiciously large gap between the score of the winning candidate and everyone else's.
+Everything worked in my favour, but I still didn't get the job. Positions in Brazilian public institutions are vied for like contests, and I placed 3rd. The person in 1st place scored so much better than everyone else that I felt like the contest might've been a formality to hire a pre-selected candidate.
 
 #### Music professor interview 2
 
@@ -152,4 +152,4 @@ I applied, got an interview, and aced it.
 Then I got a job offer.
 
 [^1]: Vero learned so much about immigrating to Canada in 2020 that I felt she was as knowledgeable as an immigration lawyer.
-[^2]: I'm sad to see that many guests have posted scathing reviews on [TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g616325-d17741149-Reviews-TWA_Hotel-Queens_New_York.html#review_952355583) in recent years; our experience was super positive. 
+[^2]: I'm sad to see that many guests have posted scathing reviews on [TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g616325-d17741149-Reviews-TWA_Hotel-Queens_New_York.html#review_952355583) in recent years; our experience was super positive.
