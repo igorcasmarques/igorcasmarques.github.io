@@ -139,17 +139,15 @@ I soon landed an interview to be a trilingual translator of patents and technica
 
 Then, my beloved [Belas](/my-story/1-from-curitiba-to-provo.md#belas), which by then had been incorporated into a state university, posted an opening with a job description that fit my profile perfectly.
 
-Curiously, the chairperson of the hiring committee was a UB alumnus like me, and a former student of [David Felder](http://www.david-felder.com/)!
+Curiously, the chairperson of the hiring committee was a UB alumnus and a former student of [David Felder](http://www.david-felder.com/)—just like me!
 
 Everything worked in my favour, but I still didn't get the job. Positions in Brazilian public institutions are vied for like contests, and I placed 3rd. The person in 1st place scored so much better than everyone else that I felt like the contest might've been a formality to hire a pre-selected candidate.
 
 #### Music professor interview 2
 
-In early 2021, a friend from UB who lived and worked in Chile told me that I was a great match for an opening at the [Universidad Austral de Chile](https://www.uach.cl/) (UACh).
+In late 2020, a friend from UB who lived and worked in Chile told me that I was a great match for an opening at the [Universidad Austral de Chile](https://www.uach.cl/) (UACh). I applied, got an interview, and aced it.
 
-I applied, got an interview, and aced it.
-
-Then I got a job offer.
+Then I accepted their job offer.
 
 [^1]: Vero learned so much about immigrating to Canada in 2020 that I felt she was as knowledgeable as an immigration lawyer.
 [^2]: I'm sad to see that many guests have posted scathing reviews on [TripAdvisor](https://www.tripadvisor.com/Hotel_Review-g616325-d17741149-Reviews-TWA_Hotel-Queens_New_York.html#review_952355583) in recent years; our experience was super positive.

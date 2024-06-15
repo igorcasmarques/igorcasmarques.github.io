@@ -10,7 +10,7 @@ date: 2024-04-26T00:00
 
 ## College or university? Both!
 
-In late 2005, at the age of 17, I took the entrance exams for [music production at the Federal University of Paraná](https://sacod.ufpr.br/artes/musica-licenciatura-e-bacharelado/) (UFPR) and for [music composition and conducting at the state's College of Music and Fine Arts](https://embap.curitiba1.unespar.edu.br/menu-ensino/graduacao/bacharelado-em-composicao-e-regencia) (Belas). I really only cared about the program at Belas, whose conservatory I'd already been attending since I was 10, but my parents and my school teachers expected me to apply to UFPR because it was the most prestigious university in the city. 
+In late 2005, at the age of 17, I took the entrance exams for [music production](https://sacod.ufpr.br/artes/musica-licenciatura-e-bacharelado/) at the Federal University of Paraná (UFPR) and for [music composition and conducting](https://embap.curitiba1.unespar.edu.br/menu-ensino/graduacao/bacharelado-em-composicao-e-regencia) at the state's College of Music and Fine Arts (Belas). I really only cared about the program at Belas, whose conservatory I'd already been attending since I was 10, but my parents and my school teachers expected me to apply to UFPR because it was the most prestigious university in the city. 
 
 I passed the exams with flying colours and enrolled in both programs simultaneously.
 
