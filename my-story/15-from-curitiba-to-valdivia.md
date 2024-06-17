@@ -10,7 +10,7 @@ date: 2024-04-26T00:14
 
 ## UACh (Year 1)
 
-In early 2021, I was hired as a *profesor auxiliar* at [UACh](https://www.uach.cl/)'s [School of Music and Sound Arts](https://arquitectura-artes.uach.cl/escuela-de-artes-musicales-y-sonoras/). I was offered a one-year contract with the possibility of renewal pending a positive performance review and a unanimous vote by my fellow faculty members. On the third renewal, my contract would be made indeterminate.
+In early 2021, I was hired as *Profesor Auxiliar* at [UACh](https://www.uach.cl/)'s [School of Music and Sound Arts](https://arquitectura-artes.uach.cl/escuela-de-artes-musicales-y-sonoras/). I was offered a one-year contract with the possibility of renewal pending a positive performance review and a unanimous vote by my fellow faculty members. On the third renewal, my contract would be made indeterminate.
 
 Tenure track, essentially. This was the equivalent of a tenure-track job in one of Chile's [traditional universities](https://en.wikipedia.org/wiki/Chilean_Traditional_Universities). A stable and promising position in academia, a mirage that I'd been pursuing for so long, had suddenly become a reality.
 
@@ -20,7 +20,7 @@ What's more, this career opportunity would also help my wife feel happier. When 
 
 UACh was not holding any in-person classes then due to COVID-related restrictions, so we decided that our family should stay in Curitiba while I worked for UACh. It made economic sense. Our expenses in Brazil were minimal, and the exchange rate between Chilean pesos and reais favoured us. 
 
-However, I still needed to get a Chilean work permit, ID, and bank account, so I travelled solo to Concepción in February. I stayed with my in-laws for a few weeks while I waited for Migraciones and the Registro Civil to process my paperwork, and as soon as I got what I needed, I went back to Curitiba. 
+However, I still needed to get a work permit, ID, and bank account in Chile, so I travelled solo to Concepción in February to stayed with my in-laws while I waited for Migraciones and Registro Civil to process my paperwork. As soon as I got what I needed, I went back to Curitiba. 
 
 ### Curitiba
 
@@ -32,9 +32,9 @@ When I got the job at UACh, we sold Elias's crib and put him to sleep in a trund
 
 My work arrangement suited me. I worked hard, I taught my students with care, and I composed and recorded several new works. I even released an [extended play](https://igorcoelhoasmarques.bandcamp.com/album/glosolalia).
 
-When I "got off" work, I spent time with Vero and the boys and walked with them to my parents' or took strolls around the neighbourhood. I loved that we had a grocer, a baker, a barber, a butcher, and other people in the community who knew me and on whom I could rely for our daily needs. There was even an *itamae* three blocks from our place who made the best sushi I've ever had anywhere![^1] 
+When I got off work, I spent time with Vero and the boys visiting my parents or taking strolls around our neighbourhood. I enjoyed being a part of that community, where there was a grocer, a baker, a barber, a butcher, and other people who knew me and on whom I could rely for our everyday needs. There was even an *itamae* three blocks from our place who made the best sushi I've ever had anywhere![^1] 
 
-I think that if if I could've kept working in Chile indefinitely while living in Brazil, we might've dropped the idea of going to Canada altogether.
+I think that if I could've kept working in Chile indefinitely while living in Brazil, we might've dropped the idea of going to Canada altogether.
 
 ### Linares
 
@@ -42,11 +42,11 @@ Yet, working in a country and living in another is not really possible without d
 
 When I heard rumblings that in-person activities at UACh might resume in the spring (September-December), Vero and I pre-emptively booked our family's tickets to Chile. Her sister Karina lived in [Linares](https://en.wikipedia.org/wiki/Linares,_Chile), a medium-sized town in [Maule Region](https://en.wikipedia.org/wiki/Maule_Region), and offered to share her house with us while we waited for UACh to make an official announcement.
 
-If UACh reinstated in-person classes, we'd already be in Chile, and thus ready to move to Valdivia. If they didn't, the plan was to visit Vero's family in Linares and Concepción and then go back to Brazil. Either way, Vero was looking forward to spending the week-long [Chilean patriotic holidays](https://en.wikipedia.org/wiki/Fiestas_Patrias_(Chile)) with her family, something she'd been wanting to do since she [left Chile](/6-graduation-byu.md#veros-graduation) in 2012.
+If UACh reinstated in-person classes, we'd already be in Chile, and thus ready to move to Valdivia. If they didn't, we'd visit Vero's family in Linares and Concepción and then go back to Brazil. Either way, our family was looking forward to spending the week-long [*Fiestas Patrias* holidays](https://en.wikipedia.org/wiki/Fiestas_Patrias_(Chile)) with Vero's family, something she'd been wanting to do since she [left Chile](/6-graduation-byu.md#veros-graduation) in 2012.
 
 #### Working from (not my) home
 
-Karina, her husband, and their two children were the most wonderful and patient hosts. Being with them was always pleasant, but I enjoyed evenings in particular, when we chatted, ate take-out, and solved jigsaw puzzles. 
+Karina, her husband, and their two children were the most wonderful and patient hosts. Being with them was always pleasant, and I enjoyed our evenings together in particular, when we chatted, ate take-out, and solved jigsaw puzzles. 
 
 Karina's family ceded a room upstairs for me to use as an ad-hoc office. The room looked east and had a large window, so I could see the snowy Andes from there on a clear day. Every dusk, I also saw dozens of Chilean swallows swooping up and down in the air and feeding in the little park across the street. 
 
@@ -62,22 +62,22 @@ So what did we do to mark this special moment?
 
 We peed. 
 
-That's right. He wanted to go, I wanted to go, there was absolutely nobody around, so I told him, "Let's just do it here. Just aim toward Argentina, maybe the wind will take your pee all the way over there!" He laughed so hard he nearly peed himself, ironically.
+That's right. He wanted to go, I wanted to go, there was absolutely nobody around, so I told him, "Let's just do it here. Just aim toward Argentina, maybe the wind will take your pee all the way over there!" He laughed so hard he nearly peed himself before he could pee on the Andes.
 
-To this day I'll sometimes ask Samuel, "Remember when we *peed* on the Andes? That was wild!" He acts like he doesn't remember, though.
+To this day I'll sometimes ask Samuel, "Remember when we *peed* on the Andes? That was wild!" He acts like he doesn't remember it, though.
 
 ## Still remote
 
-Several weeks into our stay in Linares, UACh confirmed that classes would only go back to being in person in 2022, so there was no reason for our family to stay in Chile until the following year. We flew back to Curitiba in October and spent our last months there getting ready for the holidays and for our imminent move to Valdivia shortly thereafter.
+Several weeks into our stay in Linares, UACh confirmed that in-person classes would only return in 2022, so we flew back to Curitiba in October. We then spent our last months in Brazil getting ready for the holidays and for our imminent move to Valdivia shortly thereafter.
 
 ### Christmas
 
-That Christmas, I made a [*tió de Nadal*](https://en.wikipedia.org/wiki/Ti%C3%B3_de_Nadal) for Samuel and Elias, a silly Catalan tradition where an anthropomorphized log poops out presents for kids. When Samuel saw that the tió had pooped a [Nintendo Switch](https://www.nintendo.com/en-ca/) during our Christmas Eve party, he screamed in happiness and started freaking out, much like I'd done when I'd gotten my Nintendo 64 some 25 years earlier. Elias didn't quite understand what was going on at the time, but he was happy to share in his brother's excitement.
+That Christmas, I made a [*tió de Nadal*](https://en.wikipedia.org/wiki/Ti%C3%B3_de_Nadal) for Samuel and Elias, a silly Catalan tradition where an anthropomorphized log poops out presents for kids. When Samuel saw that the tió had pooped a [Nintendo Switch](https://www.nintendo.com/en-ca/) during our Christmas Eve party, he screamed in happiness and started freaking out, much like I'd done when I'd gotten my Nintendo 64 a quarter of a century earlier. Elias didn't quite understand what was going on, but he was happy to share in his brother's excitement.
 
-The three of us have loved playing the Switch together and individually ever since.
+Our family has loved playing the Switch ever since.
 
 ### Tchau, Brazil!
 
-In early 2022, we left Brazil for good. It was our second big, life-changing, international move in a little over a year. I was tired, but I liked working at UACh and Vero was excited, so that motivated me.
+In early 2022, we left Brazil for good. It was our second big, life-changing, international move in a little over a year. I was tired but motivated by my work at UACh and Vero's excitement.
 
 [^1]: Let it be known that I've never been to Japan.
