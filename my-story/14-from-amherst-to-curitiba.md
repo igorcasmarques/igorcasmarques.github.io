@@ -12,15 +12,15 @@ date: 2024-04-26T00:13
 
 In the span of a week in the spring of 2020, Vero and I went from hoping things would miraculously work out in the US to losing all hope to wholeheartedly deciding to go to Canada instead.
 
-As soon as we had made this decision, Vero started reading every government webpage and blog post she could find about the immigration process. When she didn't understand something, she'd pop the question in one of the Facebook groups that she'd joined and get an answer in minutes.[^1] Thank you, beauty bias.
-
-She would then relay what she'd learned to me. 
+When we decided to go to Canada, Vero started reading every government webpage and blog post she could find about the immigration process. If she didn't understand something, she popped the question in one of the Facebook groups that she'd joined and get an answer in minutes.[^1] She would then relay what she'd learned to me. 
 
 ### Points
 
-Vero told me that our safest best was entering the [Federal Skilled Worker](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html) program in the [Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/apply-permanent-residence.html) system. This process would require every last penny we had (and a little extra that I'd have to "borrow" indefinitely from my mother), but it made immigrating possible.
+Vero told me that our safest best was entering the [Federal Skilled Worker](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html) program in the [Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/apply-permanent-residence.html) system. This process would require every last penny we had plus a little extra that I'd have to "borrow" indefinitely from my mother. 
 
-She also explained that people in the Express Entry pool were ranked using a point system, and that points were given according to criteria like age, family size, education, etc. Then, every so often, Express Entry would invite the top-ranked candidates to apply for permanent residence.
+She also explained that people in the Express Entry pool were ranked using a point system, and that points were given according to criteria like age, family size, education, etc. 
+
+Then, every so often, Express Entry would invite the top-ranked candidates to apply for permanent residence.
 
 ### All or nothing
 
@@ -82,7 +82,7 @@ A few days after we bought our flight tickets, Immigration, Refugees and Citizen
 
 We felt victorious, but there was no time to celebrate.
 
-We spent our last month in the US selling or giving away our possessions. We could only fit so much in our four suitcases, and we prioritized clothing and items with sentimental value; everything else had to stay behind. We also ran around to gather some additional documents that IRCC was asking. 
+We spent our last month in the US selling or giving away our possessions. We could only fit so much in our four suitcases, and we prioritized clothing and items with sentimental value; everything else had to stay behind. We also ran around to gather some additional documents that IRCC was requesting. 
 
 We didn't know how long it'd take for Canada to accept our application, but we hoped our sojourn in Curitiba would be short.
 
@@ -97,7 +97,7 @@ So I thought:
 
 *Why not do Buffalo-JFK on one day and just... take our time there? We can use the money we'd save from not buying a single ticket to stay at a hotel and fly to Brazil the next day.*
 
-We stayed at the recently renovated [TWA Hotel](https://www.twahotel.com/), and it was magical. Like, [*Marvelous Mrs. Maisel*](https://en.wikipedia.org/wiki/The_Marvelous_Mrs._Maisel) magical. The retro architecture and decor, the red carpets, the rooftop infinity pool, the views of the runways, the clickety-clack of the split-flap display in the sunken lounge.[^2] Everything was awesome.
+We stayed at the recently renovated [TWA Hotel](https://www.twahotel.com/), and it was magical. Like [*Marvelous Mrs. Maisel*](https://en.wikipedia.org/wiki/The_Marvelous_Mrs._Maisel) magical. The retro architecture and decor, the red carpets, the rooftop infinity pool, the views of the runways, the clickety-clack of the split-flap display in the sunken lounge.[^2] Everything was awesome.
 
 Honestly, I'm still proud of that idea. Our family was in no rush to return to Brazil, so we were glad to exchange expediency for comfort and some memory-making. It turned a stressful move into a fun trip.
 
@@ -105,7 +105,7 @@ Honestly, I'm still proud of that idea. Our family was in no rush to return to B
 
 Travelling in the pandemic was a pain, but we made it to Curitiba without any problems.
 
-I'd forgotten how much I loved Curitiba and my old neighbourhood. It's beautiful, convenient, and vibrant. I felt silly for believing that going back to Brazil was a punishment for failing. It wasn't. Curitiba is an objectively better city to live in than most places in the US. 
+I'd forgotten how much I loved my hometown. It's beautiful, convenient, and vibrant. I felt silly for believing that going back to Brazil was a punishment for failing. It wasn't. Curitiba is an objectively better city to live in than most places in the US. 
 
 With one caveat: safety.
 
@@ -113,13 +113,13 @@ It's not uncommon for people to be robbed or have their homes burglarized in Bra
 
 And a second caveat: good education is expensive.
 
-We enrolled Samuel in a public school in a somewhat sketchy neighbourhood. Since classes were online due to the pandemic, we weren't worried about his safety in school or the quality of the education he got. But had we stayed in Curitiba long enough for the pandemic restrictions to be lifted, we would have had to transfer him to a good private school.
+We enrolled Samuel in a public school in a somewhat sketchy neighbourhood. Since classes were online due to the pandemic, we weren't worried about his safety in school or the quality of the education he got. But had we stayed in Curitiba long enough for the pandemic restrictions to be lifted, we would've had to transfer him to a private school.
 
 Living in the US or Canada was really just a way for us to enable our children to grow up safely and with access to good education. In most other regards, I like living in Brazil better, and Vero feels most at home in Chile.
 
 ### Job worries
 
-Our Canadian permanent residence application was stuck, and I accepted that we could be in Curitiba for a long time, so I spent the rest of 2020 looking for a job.
+Our Canadian permanent residence application was stuck, and I came to terms with being in Curitiba for the foreseeable future, so I spent the rest of 2020 looking for a job.
 
 #### Job counselling
 
@@ -141,7 +141,7 @@ Then, my beloved [Belas](/my-story/1-from-curitiba-to-provo.md#belas), which by 
 
 Curiously, the chairperson of the hiring committee was a UB alumnus and a former student of [David Felder](http://www.david-felder.com/)—just like me!
 
-Everything worked in my favour, but I still didn't get the job. Positions in Brazilian public institutions are vied for like contests, and I placed 3rd. The person in 1st place scored so much better than everyone else that I felt like the contest might've been a formality to hire a pre-selected candidate.
+Everything worked in my favour, but I still didn't get the job. Job openings in public institutions in Brazil are vied for like contests, and I placed 3rd. The person in 1st place scored so much better than everyone else that I felt like the contest might've been a formality to hire a pre-selected candidate.
 
 #### Music professor interview 2
 

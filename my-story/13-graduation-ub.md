@@ -20,11 +20,11 @@ ELISION is an insane new music ensemble from Australia that I'd long worshipped.
 
 "I'll send you their email. It's an octet or nonet with things like drums, lap steel guitar, uillean pipes... if you write for them, your piece won't have much of a performance life. It'll be one-and-done." 
 
-It's safer for composers to write for common instrumental groupings (and their subsets) because this increases the likelihood of the piece being picked up by various ensembles. 
+It's safer for composers to write for common instrumental groupings (and their subsets) because this increases the likelihood of the piece being picked up by multiple ensembles. 
 
 But writing music was never about playing it safe for me. New music is already a weird field; if my dissertation piece was going to be played only once, I might as well make it so weird it'd be impossible to replicate.
 
-I wrote a recited monodrama based on the poetry of [Ferreira Gullar](https://en.wikipedia.org/wiki/Ferreira_Gullar) for actor, stage props, an 8-piece chamber ensemble, and a stereo fixed-media track. I called it [*Noturno*](https://www.proquest.com/docview/2303837514?sourcetype=Dissertations%20&%20Theses), and premiered it alongside ELISION in April 2019. 
+I wrote a recited monodrama based on the poetry of [Ferreira Gullar](https://en.wikipedia.org/wiki/Ferreira_Gullar) for actor, stage props, an 8-piece chamber ensemble, and a fixed-media track. I called it [*Noturno*](https://www.proquest.com/docview/2303837514?sourcetype=Dissertations%20&%20Theses), and premiered it alongside ELISION in April 2019. 
 
 This collaboration with ELISION remains the highest honour of my career.[^1]
 
@@ -32,7 +32,9 @@ This collaboration with ELISION remains the highest honour of my career.[^1]
 
 Shortly thereafter, I successfully defended my dissertation and was awarded my PhD. UB's commencement ceremony took place on Vero's 31st birthday, and my parents and an uncle and aunt from Utah flew in to be with us that day. 
 
-After the ceremony, Vero took a picture of me in my PhD regalia holding our sons, one on each arm, in front of a beautiful cherry blossom on campus. Just like I wanted.
+After the ceremony, Vero took a picture of me in my PhD regalia holding our sons, one on each arm, in front of a beautiful cherry blossom on campus. 
+
+Just like I wanted.
 
 I was done. My 13-year-long post-secondary journey that had started in 2006 was finally over. 
 
@@ -42,7 +44,7 @@ But my satisfaction evaporated quickly; I didn't have a job lined up, and none o
 
 Two weeks after my graduation, my [I-20](/my-story/9-from-orem-to-buffalo.md#about-visas) expired and our family entered the grace period of my immigration status. I had to land a job in three months or leave the US.[^2]
 
-Then, well into the summer of 2019, a miracle. UB needed to replace a music theory professor who was retiring, and they offered me the gig. I don't know why they waited that long to find a replacement, but their procrastination played to my advantage. I had already taught music theory there for years, I got along with the other theory instructor in the department, and they needed someone ASAP.
+Then, well into the summer of 2019, a miracle. UB needed to replace a music theory professor who was retiring, and they offered me the gig. I don't know why they waited that long to find a replacement, but their procrastination played to my advantage. I'd already taught music theory there for years, I got along with the other theory instructor in the department, and they needed someone ASAP.
 
 UB offered me a one-year contract to start in the fall and assigned me the role of full-time Clinical Assistant Professor in the Music Department. 
 
@@ -54,7 +56,7 @@ I tried not to worry too much about 2020. I'd continue to do my best and things 
 
 Unlike what I earned as a teaching assistant, my new job would pay me a living wage, so Vero and I decided to move out of our apartment and rent a house with a yard. After years of barely scraping by, we felt we were moving up and our family deserved a better home.
 
-In hindsight, moving was not a good idea. Our rent doubled, the house was infested with mice, and I didn't know that what we did to or in our yard would matter to anyone but ourselves. In fact, when our tenancy was over, our landlady chose to keep our deposit and ghost us mainly because I let thistles grow on a thin strip of soil between our driveway and the neighbour's fence.[^3] 
+In hindsight, moving was not a good idea. Our rent doubled, the house was infested with mice, and I didn't know that what we did to or in our yard would matter to anyone but ourselves. In fact, when our tenancy was over, our landlady chose to keep our deposit mainly because I let thistles grow on a thin strip of soil between our driveway and the neighbour's fence.[^3] 
 
 ## Now what??
 
@@ -64,7 +66,7 @@ But the worst consequence of moving was missing the delivery of my EAD, which ha
 
 At the time, I didn't think this was a big deal.
 
-*USCIS says I'm legally entitled to work. All the paperwork has been cleared. I'm just missing the actual card, which should be arriving at my correct address soon because I set up a forwarding address with the United States Postal Service.*
+*USCIS says I'm legally entitled to work. All the paperwork has been cleared. I'm just missing the actual card, which should be arriving at my correct address soon because I set up a forwarding address with USPS.*
 
 I shared my mailing snag with the Human Resources person in the Music Department, and assured them that there was enough time for my EAD to bounce between USCIS's return address in Missouri and my new address in Amherst before classes started. 
 
@@ -84,7 +86,7 @@ The department was willing to wait for my EAD because they knew this debacle cou
 
 Days started passing, and there was no update on the USCIS website about them re-sending my EAD. Why was it taking so long?!
 
-I began to believe that there was a chance that I'd never get my EAD, or that I'd get it so late I'd lose my job. Then it'd be game over for my career and our family's future in the US.
+I began to believe that there was a chance that I'd never get my EAD, or that I'd get it so late I'd lose my job. Then it'd be game-over for my career and our family's future in the US.
 
 Our family was also running out of money very quickly.
 
@@ -116,7 +118,7 @@ Teaching at UB was fun and fulfilling. I'd become an engaging educator after tea
 
 But I really came into my own in my second term there, when I was assigned to modernize [MUS 116](/my-story/9-from-orem-to-buffalo.md#ub-year-1) to try and reverse its dropping enrolment rate. I even published an [academic essay](https://ojs.library.osu.edu/index.php/engagingstudents/article/view/7694/6331) about this experience.
 
-I wanted to build my career at UB. I had dreams of becoming a real researcher with a focus on video game music and accessibility in music theory pedagogy. I wanted to keep writing music and collaborating with the amazing musicians and ensembles that passed through Buffalo. 
+I wanted to build my career at UB. I had dreams of becoming a real researcher with a focus on video game music and accessibility in music theory pedagogy. I wanted to keep composing music and collaborating with the amazing musicians and ensembles that passed through Buffalo. 
 
 More than anything, I wanted our family to put down roots in Amherst. Vero was happier than she'd ever been in Utah, and we both looked forward to raising our boys there.
 
