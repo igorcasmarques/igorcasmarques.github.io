@@ -66,18 +66,33 @@ That's right. He wanted to go, I wanted to go, there was absolutely nobody aroun
 
 To this day I'll sometimes ask Samuel, "Remember when we *peed* on the Andes? That was wild!" He acts like he doesn't remember it, though.
 
-## Still remote
+### Christmas
 
 Several weeks into our stay in Linares, UACh confirmed that in-person classes would only return in 2022, so we flew back to Curitiba in October. We then spent our last months in Brazil getting ready for the holidays and for our imminent move to Valdivia shortly thereafter.
-
-### Christmas
 
 That Christmas, I made a [*tió de Nadal*](https://en.wikipedia.org/wiki/Ti%C3%B3_de_Nadal) for Samuel and Elias, a silly Catalan tradition where an anthropomorphized log poops out presents for kids. When Samuel saw that the tió had pooped a [Nintendo Switch](https://www.nintendo.com/en-ca/) during our Christmas Eve party, he screamed in happiness and started freaking out, much like I'd done when I'd gotten my Nintendo 64 a quarter of a century earlier. Elias didn't quite understand what was going on, but he was happy to share in his brother's excitement.
 
 Our family has loved playing the Switch ever since.
+
+## 10th anniversary
+
+In late 2021, between Christmas and New Year's, Vero and I celebrated our 10th anniversary—our *family birthday*, as Vero's called it since Samuel was born. I wanted an unforgettable celebration for this special milestone, so I asked my mother to watch the boys for a couple of days while Vero and I went to Ponta Grossa, about 120 km west of Curitiba.
+
+### Buraco do Padre
+
+We spent our first night away at a motel, something we'd never done. To be clear, we'd stayed in plenty of *motels* in the US, but [Brazilian motels](https://en.wikipedia.org/wiki/Motel#Latin_America) are different: they're love hotels where rooms are rented by the hour, decorated with risqué art, and equipped with adult-themed amenities. Not really our vibe, but we were two adults who loved each other, so I thought, *Why not?* Our motel also had a drive-through check-in window that was tinted completely black and each room had its own closed garage to ensure absolute privacy. 
+
+The motel was fun but we were out of our element there, so I don't think we'll ever do it again.
+
+The real reason we went to Ponta Grossa was to visit two geological sites: [Vila Velha State Park](https://parquevilavelha.com.br/) with its towering rock formations and [Campos Gerais National Park](https://en.wikipedia.org/wiki/Campos_Gerais_National_Park). 
+
+Campos Gerais featured slot canyons and an "underground amphitheatre" called [*Buraco do Padre*](https://buracodopadre.com.br/atracao/furna-buraco-do-padre/) ("The Priest's Hole")[^2], a cave with a 40 m-tall skylight and its own waterfall. This waterfall created a shallow pool where fresh-water crustaceans skittered between our feet and the crevices on the cave walls were the nesting grounds of thousands of swifts who flew in and out over our heads and made a deafening din.
+
+It was glorious.
 
 ### Tchau, Brazil!
 
 In early 2022, we left Brazil for good. It was our second big, life-changing, international move in a little over a year. I was tired but motivated by my work at UACh and Vero's excitement.
 
 [^1]: Let it be known that I've never been to Japan.
+[^2]: It doesn't as bad in Portuguese as it does in English.
