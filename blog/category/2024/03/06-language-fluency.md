@@ -1,6 +1,6 @@
 ---
 title: Language fluency
-description: If at least the burrito was decent, I could've forgiven the lousy copy.
+description: One language per decade sounds doable.
 slug: language-fluency
 authors: icasmarques
 tags: [language nerd, foreign languages]

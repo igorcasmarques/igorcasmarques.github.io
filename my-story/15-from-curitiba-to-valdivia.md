@@ -80,17 +80,13 @@ In late 2021, between Christmas and New Year's, Vero and I celebrated our 10th a
 
 ### Buraco do Padre
 
-We spent our first night away at a motel, something we'd never done. To be clear, we'd stayed in plenty of *motels* in the US, but [Brazilian motels](https://en.wikipedia.org/wiki/Motel#Latin_America) are different: they're love hotels where rooms are rented by the hour, decorated with risqué art, and equipped with adult-themed amenities. Not really our vibe, but we were two adults who loved each other, so I thought, *Why not?* Our motel also had a drive-through check-in window that was tinted completely black and each room had its own closed garage to ensure absolute privacy. 
+We visited two geological sites near Ponta Grossa: [Vila Velha State Park](https://parquevilavelha.com.br/) with its towering rock formations and [Campos Gerais National Park](https://en.wikipedia.org/wiki/Campos_Gerais_National_Park), which had slot canyons and a cave with a 40 m-tall skylight and its own waterfall called [*Buraco do Padre*](https://buracodopadre.com.br/atracao/furna-buraco-do-padre/) ("The Priest's Hole").[^2] 
 
-The motel was fun but we were out of our element there, so I don't think we'll ever do it again.
-
-The real reason we went to Ponta Grossa was to visit two geological sites: [Vila Velha State Park](https://parquevilavelha.com.br/) with its towering rock formations and [Campos Gerais National Park](https://en.wikipedia.org/wiki/Campos_Gerais_National_Park). 
-
-Campos Gerais featured slot canyons and an "underground amphitheatre" called [*Buraco do Padre*](https://buracodopadre.com.br/atracao/furna-buraco-do-padre/) ("The Priest's Hole")[^2], a cave with a 40 m-tall skylight and its own waterfall. This waterfall created a shallow pool where fresh-water crustaceans skittered between our feet and the crevices on the cave walls were the nesting grounds of thousands of swifts who flew in and out over our heads and made a deafening din.
+People call Buraco do Padre an "underground amphitheatre" because the shallow pool created by the waterfall is surrounded by large rocks where people can sit and observe the hundreds of biscutate swifts flying to and from their nests in the crevices of the cave walls. I was awestruck with the din they made. Then, when we waded in the shallow pool, fresh-water crustaceans skittered around our feet.
 
 It was glorious.
 
-### Tchau, Brazil!
+### Tchau, Brasil!
 
 In early 2022, we left Brazil for good. It was our second big, life-changing, international move in a little over a year. I was tired but motivated by my work at UACh and Vero's excitement.
 
