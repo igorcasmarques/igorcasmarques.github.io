@@ -82,7 +82,7 @@ In late 2021, between Christmas and New Year's, Vero and I celebrated our 10th a
 
 We visited two geological sites near Ponta Grossa: [Vila Velha State Park](https://parquevilavelha.com.br/) with its towering rock formations and [Campos Gerais National Park](https://en.wikipedia.org/wiki/Campos_Gerais_National_Park), which had slot canyons and a cave with a 40 m-tall skylight and its own waterfall called [*Buraco do Padre*](https://buracodopadre.com.br/atracao/furna-buraco-do-padre/) ("The Priest's Hole").[^2] 
 
-People call Buraco do Padre an "underground amphitheatre" because the shallow pool created by the waterfall is surrounded by large rocks where people can sit and observe the hundreds of biscutate swifts flying to and from their nests in the crevices of the cave walls. I was awestruck with the din they made. Then, when we waded in the shallow pool, fresh-water crustaceans skittered around our feet.
+People call Buraco do Padre an "underground amphitheatre" because the shallow pool created by the waterfall is surrounded by large rocks where people can sit and observe the hundreds of [biscutate swifts](https://en.wikipedia.org/wiki/Biscutate_swift) flying to and from their nests in the crevices of the cave walls. I was awestruck by the din they made. Then, when we waded in the shallow pool, fresh-water crustaceans skittered around our feet.
 
 It was glorious.
 

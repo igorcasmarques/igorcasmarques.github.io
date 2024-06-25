@@ -20,11 +20,11 @@ During the day, I attended UFPR. I felt impressed by my professors' credentials,
 
 ### Belas
 
-When my day at UFPR ended, I bussed downtown to Belas, where college courses were held in the evening. I remember some things about those classes vividly.
+When my day at UFPR ended, I bussed downtown to Belas, where college courses were held in the evening.
 
 #### Video game music
 
-One instructor asked us about our long-term goals. "I want to write music for video games," I replied. Everyone chuckled, thinking I was joking. 
+My harmony instructor at Belas asked us students about our long-term goals. "I want to write music for video games," I said. Everyone chuckled, thinking I was joking. 
 
 "Oh, you're serious...," the instructor realized. 
 
