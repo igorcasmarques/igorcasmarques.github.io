@@ -1,14 +1,15 @@
 ---
-title: 16. From Valdivia to Ottawa
-slug: from-valdivia-to-ottawa
+title: 17. Algonquin College
+slug: algonquin-college
 authors: icasmarques
 hide_table_of_contents: false
-date: 2024-04-26T00:15
+date: 2024-04-26T00:16
+draft: true
 ---
 
 *This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) and [portfolio](/docs/portfolio/intro) in different areas of this site.* 
 
-## ¡Hola, Valdivia!
+## Respite
 
 When we arrived in Chile, Vero and the boys stayed with Karina's family in Linares while I went down to Valdivia with Felipe, Vero's brother, to furnish the apartment we had rented sight unseen. 
 
@@ -105,42 +106,43 @@ We left Chile between Christmas and New Year's of 2022.
 
 Leaving Chile wasn't easy, though. 
 
-Chile's federal police, [*Policía de Investigaciones*](https://pdichile.cl/) (PDI), refused to let us leave the country because of the stupidest technicality: Elias had entered Chile as a Chilean national, so he had to leave Chile as a Chilean national. Because we were going to Canada, that meant that he needed a Chilean passport with a visa to Canada.
+Chile's federal police, *Policía de Investigaciones* (PDI), refused to let us leave the country because of the stupidest technicality: 
 
-But we had neither of these documents because we didn't need either of these documents. Elias was a US citizen and a permanent resident of Canada, and had his PR stamped on his American passport. This was all we needed to move to Canada. 
+- Elias was an American citizen and a permanent resident of Canada.
+- Elias was also a Chilean citizen.
+- Elias had entered Chile with his Chilean passport, not his American passport.
+- Therefore, Elias needed to leave Chile with the same Chilean passport that he entered the country with.
+- Elias's Chilean passport had expired by then.
+- Elias didn't have a visa to enter Canada in his Chilean passport.
 
-But the PDI officer didn't care, and sent us away. Like in our [previous immigration woes](/my-story/13-graduation-ub.md#wait), we begged and grovelled and abased ourselves to no avail.
+It didn't matter that his Canadian PR was stamped on his American passport, which was valid. The PDI agent demanded that Elias get a new Chilean passport and a visa to Canada.
 
-Getting Elias's Chilean passport could take months and would likely force us to renew other documents that were set to expire soon. If this ordeal spiralled out of control, we'd miss our deadline to enter Canada and our PR would be revoked. All our sacrifices would've been for nothing. 
+This process would take months and force us to renew other documents that were set to expire soon. If this spiralled out of control and we spent too long in Chile, our PR would be revoked, and it would've all been for nothing. 
 
-We needed to find a way around this immigration obstacle ASAP.
+Like in our [previous immigration woes](/my-story/13-graduation-ub.md#wait), we begged and grovelled and abased ourselves to that PDI agent to no avail.
 
-### New plan
+### Glimmer of hope
 
-We realized that if we re-booked our flight so that it laid over in a South American country before making it to Canada, Elias could leave Chile with his Chilean ID. No passport needed. Then, we'd use his American passport with the PR stamp between the intermediary country and Canada.
+Then, a possible solution: if we re-booked our flight so that it stopped at a country that didn't require passports from Chilean nationals, we could pass the PDI agent with our ID cards and use our passports with the PR stamps on the next leg of our journey.
 
-Our workaround was viable, but we had to act fast because the window for re-booking our flight was closing. I sat down in an isolated corner of the airport, my phone struggling with low battery, the airline's buggy app, and one bar of mobile data. Wi-Fi was even worse. 
+The window for re-booking our flight was closing, so I sat down in an isolated corner of the airport, my phone struggling with low battery, the airline's buggy app, and one bar of mobile data. Wi-Fi was even worse. 
 
-With tears streaming down my face, I was able to reschedule our flight so that it stopped in Colombia before going to Toronto. I was barely able to do it, but I did it. Vero and I then gathered our suitcases and made our way to the airline's baggage counter to drop them off.
+With tears streaming down my face, I was able to reschedule our flight so that it stopped in Colombia before going to Toronto.  
 
 ### Second snag
 
-When we got there, the airline's ticketing agent barred us from checking in, arguing that we needed visas to enter Canada. 
+Before we could put our plan to the test, the airline's ticketing agent barred us from checking in. They argued that we needed visas to enter Canada. 
 
-*Not this again.* 
+*Not again.* 
 
-We insisted that, "No, we don't actually need visas because we are permanent residents of Canada," and showed them our corroborating documents. But it was fruitless. Like the PDI officer before, the airline agent wouldn't budge. We implored them to seek guidance from their supervisor or their counterparts in Colombia and Canada, and sat down on the floor near the check-in counter waiting for a resolution.
+We insisted that no, we didn't actually need visas because we were permanent residents of Canada. We showed them our documents corroborating our point, but they wouldn't budge, so we implored them to seek guidance from their supervisor or their counterparts in Colombia and Canada, and sat near the check-in counter waiting for a resolution.
 
 Elias and Samuel were distraught and exhausted and didn't understand what was going on.
 
-A couple of hours later, late into the night and a few minutes before our flight's boarding closed, the ticketing agent received news about our case and agreed to check us in. Then, at the PDI checkpoint, we handed our tickets to Colombia and our Chilean ID cards to the border officer, and they let us through immediately.
+Late into the night and a few minutes before our flight's boarding closed, the ticketing agent received the confirmation they wanted about our case and checked us in. The PDI agent accepted our ID cards when we showed them our tickets to Colombia, and we bolted for the gate.
 
-Our plan had worked.
+We made it just in time, and I vowed never to travel internationally again until we became Canadian citizens and had Canadian passports.
 
-We bolted for the gate and boarded our flight during the last call. I stowed our carry-on bags in the airplane's overhead bins, sat down, let out a big sigh, and vowed never to travel internationally again until I had a Canadian passport.
-
-Two days later, we were in our new home in Barrhaven, a suburb in southwest Ottawa. 
-
-Finally.
+Two days later, we arrived in our new home in Barrhaven, a suburb in southwest Ottawa. Finally.
 
 [^1]: At the time of writing, Samuel is crazy about [*Kirby*](https://en.wikipedia.org/wiki/Kirby_(series)) and spends virtually all his free time either playing *Kirby* games or reading (WiKirby)[https://wikirby.com/wiki/Kirby_Wiki].
