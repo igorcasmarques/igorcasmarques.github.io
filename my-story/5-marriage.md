@@ -1,6 +1,6 @@
 ---
-title: 5. Wedding
-slug: wedding
+title: 5. Marriage
+slug: marriage
 authors: icasmarques
 hide_table_of_contents: false
 date: 2024-04-26T00:04
@@ -37,11 +37,13 @@ Vero and I had always had a serious, marriage-oriented relationship. In 2010, we
 
 In Brazil, engagement was an agreement, not a surprise ultimatum one sprang on the other, and both the man and the woman wore plain gold bands when they got engaged—somewhat dear, but still a fraction of the price of the engagement rings people go into debt for in the US. The discussion that culminated in the decision to get married could happen in a specially romantic or significant place for the couple, but usually there were no theatrics involved. Engaged couples then invited their family and friends to a party to announce and celebrate their engagement, and remained engaged for up to a few years until the conditions were right to get married.[^3]
 
+## Concepción
+
 When I visited Vero in Chile in 2010, we got our wedding bands—courtesy of my maternal grandmother—and announced our engagement to our families and friends. 
 
-We thought it'd be a good idea to get married in December 2011. Vero would be done with university coursework and would need an just additional half year to undertake a mandatory practical internship. Incidentally, as an international student in the US, I could defer my studies for a half year, making me able to move to Chile and support her during her internship. 
+We thought it'd be a good idea to get married in December 2011. Vero would be done with university coursework and would need an just additional half year to complete a residency. Incidentally, as an international student in the US, I could defer my studies for a half year, making me able to move to Chile and support her during her residency.
 
-## Concepción
+### Wedding
 
 Vero and I got married in the church of the [University ward](https://maps.churchofjesuschrist.org/wards/130354) in Concepción. The ceremony itself took place in the chapel and was officiated by a justice of the peace (JP). Vero had stressed to me how important it was to be punctual because Chilean JPs were notoriously impatient with delays, but she acted against her own advice and arrived half an hour late to our wedding. I was freaking out, but luckily our JP didn't seem to mind Vero's tardiness. 
 
@@ -49,7 +51,7 @@ After we were married, the JP left and Vero and I went to the nearby campus of t
 
 Our wedding reception was modest but plentiful and fun. Dozens of relatives and friends attended—including my parents, siblings, and an aunt that worked tirelessly that day to decorate the hall we held our reception in. We ate a delicious meal prepared by the catering business Vero worked for on weekends and danced until late that night.
 
-After the reception, we travelled 500 km north to Santiago, where we were [sealed in the temple](https://www.churchofjesuschrist.org/temples/what-happens-in-a-temple-sealing?lang=eng) the following day. This ordinance extended our civil marriage beyond death, and deepened our commitment to each other. Then we flew to Uruguay and spent our honeymoon in Punta del Este.
+After the reception, Vero and I travelled 500 km north to Santiago, where we were [sealed in the temple](https://www.churchofjesuschrist.org/temples/what-happens-in-a-temple-sealing?lang=eng) the following day. This ordinance extended our civil marriage beyond death, and deepened our commitment to each other. Then we flew to Uruguay and spent our honeymoon in Punta del Este.
 
 ### First apartment
 
@@ -63,7 +65,7 @@ I still brag about the presence of mind I showed that day, and Vero still laughs
 
 ### Censo 2012
 
-Before long, Vero settled in her routine doing her internship while I looked for a job. Money continued to be a pressing issue because we didn't have savings and Vero's internship didn't pay. I'd also been taught, for better or worse, that a man's worth depends on his work ethic and his ability to financially support his family. Since I was not studying, I had to work.
+Before long, Vero settled in her routine at her residency while I looked for a job. Money continued to be a pressing issue because we didn't have savings and Vero's residency didn't pay. I'd also been taught, for better or worse, that a man's worth depends on his work ethic and his ability to financially support his family. Since I was not studying, I had to work.
 
 My first job in Concepción was at a radio station, selling ad space. I hated it and quit after my first paycheque.
 

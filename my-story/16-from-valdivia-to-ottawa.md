@@ -69,7 +69,8 @@ But the North beckoned to us. It held out a promise of stability, safety, and go
 
 I gave my department chair at UACh a six-month notice of my departure, and continued to work, write, compose, and research like I'd been doing all along. My imminent move didn't dampen my creative urges or interfere with my teaching. In my final semester at UACh:
 
-- I composed two major works: 
+- I composed three major works: 
+    - *Venga mi amado* for baroque orchestra, recorded by [Orquesta Barroca Nuevo Mundo](https://orquestanuevomundo.net/orquesta/) and [released by Sello Modular](https://sellomodular.bandcamp.com/album/ra-ces-imaginadas) thanks to a generous grant from the government of Chile.
     - *Sea lo que fuere, no lo es* for large choir, premiered in Valdivia's main theatre, [Teatro Cervantes](https://teatroregionalcervantes.cl/).
     - *Conmutación* for a large ensemble with traditional instruments and found objects, premiered in [Festival Relincha](https://www.relinchafestival.com/), the foremost annual gathering of experimental musicians in southern Chile.
 - I presented my research findings at a major conference in Valparaíso by the [International Association for the Study of Popular Music](https://iaspmal.com/index.php/2023/08/01/fronteras-rutas-horizontes). One of my students at UACh also presented a paper he'd written under my guidance in this conference.

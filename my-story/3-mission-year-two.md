@@ -12,7 +12,7 @@ date: 2024-04-26T00:02
 
 A year into my mission, I was transferred to Long Branch on the Jersey shore. 
 
-That area showed me the extent of wealth inequality in the US. We'd meet undocumented men who worked as day labourers and lived in cramped rooms with no beds or furniture of any kind. We'd meet children with rotten teeth and tattered clothing practically raising themselves on the street because it was better than being home with their parents.
+That area showed me the extent of wealth inequality in the US. We'd meet undocumented men who worked as day labourers and lived in cramped rooms with no beds or furniture of any kind in Asbury Park. We'd meet children with rotten teeth and tattered clothing practically raising themselves on the street because it was better than being home with their parents.
 
 Then we'd drive down Ocean Ave and gawk at the mansions in Deal.
 
