@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[4339],{4288:l=>{l.exports=JSON.parse('{"label":"zelda","permalink":"/micro-blog/tags/zelda","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);

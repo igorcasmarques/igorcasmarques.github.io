@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[7940],{2868:l=>{l.exports=JSON.parse('{"label":"rideau hall","permalink":"/micro-blog/tags/rideau-hall","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);

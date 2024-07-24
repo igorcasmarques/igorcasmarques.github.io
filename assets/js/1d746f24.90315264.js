@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[3548],{4542:o=>{o.exports=JSON.parse('{"permalink":"/micro-blog/tags/octranspo","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Micro-blog with casual entries about the use of technical writing in Ottawa, Canada.","blogTitle":"Micro-blog"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[3434],{1759:l=>{l.exports=JSON.parse('{"label":"formality","permalink":"/micro-blog/tags/formality","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);

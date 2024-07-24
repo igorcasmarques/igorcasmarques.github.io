@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[7475],{8215:o=>{o.exports=JSON.parse('{"label":"morning routine","permalink":"/micro-blog/tags/morning-routine","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);

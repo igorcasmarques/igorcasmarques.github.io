@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[790],{674:e=>{e.exports=JSON.parse('{"label":"graeme barrett","permalink":"/micro-blog/tags/graeme-barrett","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);

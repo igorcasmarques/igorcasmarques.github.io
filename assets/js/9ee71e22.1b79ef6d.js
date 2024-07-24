@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[863],{5127:o=>{o.exports=JSON.parse('{"label":"divorced dads","permalink":"/micro-blog/tags/divorced-dads","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[4180],{1885:e=>{e.exports=JSON.parse('{"label":"urban legend","permalink":"/micro-blog/tags/urban-legend","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);

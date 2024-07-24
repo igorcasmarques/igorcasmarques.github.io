@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[3047],{1475:e=>{e.exports=JSON.parse('{"label":"meme","permalink":"/micro-blog/tags/meme","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);

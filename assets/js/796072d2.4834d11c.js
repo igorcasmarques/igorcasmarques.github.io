@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[6328],{3524:a=>{a.exports=JSON.parse('{"label":"grammar","permalink":"/micro-blog/tags/grammar","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);

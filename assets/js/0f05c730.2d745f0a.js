@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[6624],{1788:l=>{l.exports=JSON.parse('{"label":"algonquin college","permalink":"/micro-blog/tags/algonquin-college","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);

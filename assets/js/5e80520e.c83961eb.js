@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[1503],{960:l=>{l.exports=JSON.parse('{"label":"visual typo","permalink":"/micro-blog/tags/visual-typo","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);

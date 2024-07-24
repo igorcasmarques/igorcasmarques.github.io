@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[983],{9880:a=>{a.exports=JSON.parse('{"label":"canadian heritage","permalink":"/micro-blog/tags/canadian-heritage","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);

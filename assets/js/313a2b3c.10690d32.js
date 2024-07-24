@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[4323],{8388:a=>{a.exports=JSON.parse('{"label":"foreign languages","permalink":"/micro-blog/tags/foreign-languages","allTagsPath":"/micro-blog/tags","count":1,"unlisted":false}')}}]);
