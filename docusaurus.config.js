@@ -42,14 +42,6 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
         },
-        blog: {
-          blogTitle: 'Micro-blog',
-          blogDescription: 'Micro-blog with casual entries about the use of technical writing in Ottawa, Canada.',
-          blogSidebarTitle: 'All posts',
-          blogSidebarCount: 'ALL',
-          showReadingTime: false,
-          routeBasePath: 'micro-blog',
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -79,7 +71,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadata: [
-        {name: 'keywords', content: 'technical writer, ottawa, micro-blog'},
+        {name: 'keywords', content: 'technical writer, ottawa, blog'},
       ],
       docs: {
         sidebar: {
@@ -108,11 +100,6 @@ const config = {
           {
             to: 'docs/portfolio/intro',
             label: 'Portfolio',
-            position: 'left'
-          },
-          {
-            to: 'micro-blog',
-            label: 'Micro-blog',
             position: 'left'
           },
           {

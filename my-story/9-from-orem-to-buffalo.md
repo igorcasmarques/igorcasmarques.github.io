@@ -74,7 +74,7 @@ I grew to love MUS 116, and taught it seven more times until I left UB in 2020.
 
 ## Immigration issues
 
-Shortly after my classes started at UB, I noticed that my US visa was about to expire. 
+A week after my classes started at UB, I noticed that my US visa was about to expire. 
 
 I was terrified of overstaying my visa because I thought it would jeopardize my studies. I couldn't find any information about renewing my visa online, so I figured I had to talk to Customs and Border Protection (CBP) directly. Lucky for me, Buffalo is a major city on an international border, so there were four CBP offices I could go to and ask for help in person. 
 

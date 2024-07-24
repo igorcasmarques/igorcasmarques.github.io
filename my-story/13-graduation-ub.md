@@ -30,7 +30,7 @@ This collaboration with ELISION remains the highest honour of my career.[^1]
 
 ## Now what?
 
-Shortly thereafter, I successfully defended my dissertation and was awarded my PhD. UB's commencement ceremony took place on Vero's 31st birthday, and my parents and an uncle and aunt from Utah flew in to be with us that day. 
+Not long thereafter, I successfully defended my dissertation and was awarded my PhD. UB's commencement ceremony took place on Vero's 31st birthday, and my parents and an uncle and aunt from Utah flew in to be with us that day. 
 
 After the ceremony, Vero took a picture of me in my PhD regalia holding our sons, one on each arm, in front of a beautiful cherry blossom on campus. 
 

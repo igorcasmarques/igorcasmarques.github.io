@@ -106,7 +106,7 @@ def run_git(folder_path, commit_message, branch_name):
         # Commit to Git
         try:
             subprocess.run(["git", "commit", "-m", commit_message], cwd=folder_path, check=True)
-            print(f"Git succesfully committed the website {branch_name} files.")
+            print(f"Git successfully committed the website {branch_name} files.")
         except: 
             print(f"No changes to commit.")
     

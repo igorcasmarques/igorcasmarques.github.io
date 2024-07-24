@@ -127,7 +127,7 @@ We found out that a lady from our branch was in hospital, awaiting an important 
 
 "Is it OK if we pay you a visit to give you a blessing?," we asked her over the phone. She agreed, and we visited her that same day. Her boyfriend barely tolerated our presence in the hospital room, but he warmed up to us as we continue to visit their family after she was discharged. 
 
-The last I heard was that, shortly after I left New Brunswick, they got married, he got baptized, and they were a happy family.
+The last I heard was that, soon after I left New Brunswick, they got married, he got baptized, and they were a happy family.
 
 #### V-days
 
