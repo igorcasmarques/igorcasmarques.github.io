@@ -11,7 +11,7 @@ pagination_label: 'Table of Contents'
 
 I'm a technical writer from Ottawa, Canada. I also love coding and making sound art and music.
 
-Choose a section below to learn more about me.
+Download my [one-page resume](@site/static/resume/igor-marques-resume.pdf) or choose a section below to learn more about me.
 
 1. [Education](./education)
 1. [Skills and Tools](./skills-and-tools)

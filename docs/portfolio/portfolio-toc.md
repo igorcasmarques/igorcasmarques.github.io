@@ -9,7 +9,7 @@ pagination_label: 'Table of Contents'
 
 # Portfolio
 
-The tables below organize some of my technical content in five areas: [technical writing](#technical-writing), [instructional design](#instructional-design), [editing](#editing), and [visual communication](#visual-communication).
+The tables below organize some of my technical content in four areas: [technical writing](#technical-writing), [instructional design](#instructional-design), [editing](#editing), and [visual communication](#visual-communication).
 
 ## Technical Writing
 
