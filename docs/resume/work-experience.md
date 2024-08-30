@@ -4,25 +4,27 @@ title: Work Experience
 description: My past employers
 slug: work-experience
 sidebar_label: 'Work Experience'
-sidebar_position: 3
+sidebar_position: 0
 ---
 
 # Work Experience
 
-What I do as a technical writer today owes much to the 30+ college courses I've taught since 2011. Here are some highlights about my career in the past decade.
+I have an impeccable record in over 10 years of information development and university teaching, and I'm committed to equalizing access to information and tools.
 
-## 2024-Present: Technical Writer
+## Technical Writer & Multimedia Officer
 
-**Employer**: [Algonquin College](https://www.algonquincollege.com/)   
+**Duration**: May 2024-Present   
+**Employer**: [R3 Project](https://www.algonquincollege.com/r3/r3-project/) ([Algonquin College](https://www.algonquincollege.com/))    
 **Location**: Ottawa, ON
 
-- Plan and develop user-friendly content for the [R3 Project](https://www.algonquincollege.com/r3/r3-project/) in a variety of media, such as web articles, training videos, etc.
-- Use plain language to translate complex technical information into clear and concise content
+- Plan and develop user-friendly technical content such as [web articles](https://www.algonquincollege.com/r3/news-events/) that have helped increase web traffic by 20% in 3 months
+- Edit and professionally narrate over 600 slides of Adobe Captivate recordings to be used as training materials
 - Adhere to an in-house style guide to ensure that content is consistent with the quality and presentation stakeholders expect
 
 
-## 2023: College Instructor
+## College Instructor
 
+**Duration**: Jan-Apr 2023   
 **Employer**: [Red Deer Polytechnic](https://rdpolytech.ca/)  
 **Location**: Red Deer, AB
 
@@ -30,8 +32,9 @@ What I do as a technical writer today owes much to the 30+ college courses I've 
 - Led weekly activities centred on historical analysis and critical writing
 - Engaged students in songwriting exercises that resulted in valuable artefacts
 
-## 2021-2023: Assistant Professor
+## Assistant Professor
 
+**Duration**: Mar 2021-Jan 2023   
 **Employer**: [Universidad Austral de Chile](https://arquitectura-artes.uach.cl/escuela-de-artes-musicales-y-sonoras/)  
 **Location**: Valdivia, Chile
 
@@ -42,18 +45,20 @@ What I do as a technical writer today owes much to the 30+ college courses I've 
 - Advised the thesis projects of 60% of the Music School’s first graduating class
 - Composed 10 new musical works and released a solo EP and a collaborative LP
 
-## 2015-2020: Graduate Assistant, Clinical Assistant Professor
+## Clinical Assistant Professor, Graduate Assistant
 
+**Duration**: Aug 2015-Jun 2020   
 **Employer**: [University at Buffalo](https://arts-sciences.buffalo.edu/music.html)  
 **Location**: Buffalo, NY
 - Published an [essay](https://ojs.library.osu.edu/index.php/engagingstudents/article/view/7694/6331) on the experience of teaching 17 courses in 13 terms
 - Reformulated an unpopular music theory course and got 96% student approval
-- Created a [music theory YouTube channel](https://www.youtube.com/@musictheory1017/videos), which nows has 100,000 views and nearly 1.7k subscribers 
+- Created a [music theory YouTube channel](https://www.youtube.com/@musictheory1017/videos), which now has over 100,000 views and nearly 1.7k subscribers 
 - Secured funding and helped organize the June in Buffalo 2019 festival
 - Collaborated with several visiting ensembles like ELISION, Arditti Quartet, etc.
 
-## 2013-2015: Graduate Assistant
+## Graduate Assistant
 
+**Duration**: Aug 2013-May 2015   
 **Employer**: [University of Utah](https://arts-sciences.buffalo.edu/music.html)  
 **Location**: Salt Lake City, UT
 

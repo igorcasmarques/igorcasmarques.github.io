@@ -13,8 +13,6 @@ I'm a technical writer from Ottawa, Canada. I also love coding and making sound 
 
 Download my [one-page resume](@site/static/resume/igor-marques-resume.pdf) or choose a section below to learn more about me.
 
-1. [Education](./education)
-1. [Skills and Tools](./skills-and-tools)
-1. [Personal Traits](./personal-traits)
 1. [Work Experience](./work-experience)
-1. [Volunteering](./volunteering)
+1. [Skills and Tools](./skills-and-tools)
+1. [Education](./education)

@@ -4,15 +4,13 @@ title: Education
 description: My degrees and certificate
 slug: education
 sidebar_label: 'Education'
-sidebar_position: 0
+sidebar_position: 3
 ---
 
 # Education
 
-These are my post-secondary courses:  
-
-| Course | Institution | Years |
-|:-------|:------------|:------|
+| Program | Institution | Years |
+|:--------|:------------|:------|
 | [Technical Writer Graduate Certificate](https://www.algonquincollege.com/sat/program/technical-writer/)[^1] | Algonquin College (Ottawa, ON) | 2023-2024|
 | [Music Composition (PhD)](https://www.buffalo.edu/grad/programs/music-composition-phd.html)[^2] | University at Buffalo (Buffalo, NY) | 2015-2019 |
 | [Music Composition (Master's Degree)](https://music.utah.edu/documents/academic-programs/2022_2023_degree_requirements/mm-composition-2022-2023.pdf)[^3] | University of Utah (Salt Lake City, UT) | 2013-2015 |
