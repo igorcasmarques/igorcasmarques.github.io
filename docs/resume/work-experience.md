@@ -9,17 +9,21 @@ sidebar_position: 0
 
 # Work Experience
 
-I have an impeccable record in over 10 years of information development and university teaching, and I'm committed to equalizing access to information and tools.
+I have over 12 years of experience in information development and communicating complex ideas in simple, clear language.
 
-## Technical Writer & Multimedia Officer
+## Communications Officer, Technical Writer & Multimedia Officer
 
 **Duration**: May 2024-Present   
-**Employer**: [R3 Project](https://www.algonquincollege.com/r3/r3-project/) ([Algonquin College](https://www.algonquincollege.com/))    
+**Employer**: [Algonquin College](https://www.algonquincollege.com/) ([Advancement & Strategy](https://www.algonquincollege.com/advancement/about-us/), [R3 Project](https://www.algonquincollege.com/r3/r3-project/))    
 **Location**: Ottawa, ON
 
-- Plan and develop user-friendly technical content such as [web articles](https://www.algonquincollege.com/r3/news-events/) that have helped increase web traffic by 20% in 3 months
-- Edit and professionally narrate over 600 slides of Adobe Captivate recordings to be used as training materials
-- Adhere to an in-house style guide to ensure that content is consistent with the quality and presentation stakeholders expect
+- Write and edit time-sensitive communications for the [Vice President, Advancement and Strategy](https://www.algonquincollege.com/advancement/vps-office/), and the Director of Philanthropy
+- Use MS Office, Adobe Suite, and WordPress to create on-brand templates for proposals, reports, forms, and other informative and persuasive content
+- Produce written content for a team that reached 123% goal in donations
+- Resuscitate social media efforts with content that has garnered 6x more engagement
+- Develop interactive and story-centred technical content, including [web articles](https://www.algonquincollege.com/r3/news-events/) and email announcements, that attracted 37% more web visitors in 6 months
+- Created, edited, and professionally narrated over 800 slides of Adobe Captivate slides for eLearning and corporate training materials
+
 
 
 ## College Instructor

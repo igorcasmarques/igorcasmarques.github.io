@@ -98,11 +98,6 @@ const config = {
             position: 'left'
           },
           {
-            to: 'docs/portfolio/intro',
-            label: 'Portfolio',
-            position: 'left'
-          },
-          {
             to: 'my-story/from-curitiba-to-provo',
             label: 'My story',
             position: 'left'

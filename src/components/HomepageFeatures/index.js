@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Technical Writer',
+    title: 'Writer and Communicator',
     Svg: require('@site/static/img/technical-writer.svg').default,
     description: (
       <>

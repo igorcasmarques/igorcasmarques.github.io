@@ -40,7 +40,7 @@ export default function Home() {
   return (
     <Layout
       title="Home"
-      description="The personal website of Igor Coelho A. S. Marques, a technical writer, programmer, and musician from Ottawa, Canada.">
+      description="The personal website of Igor Coelho A. S. Marques. Communicator, writer, programmer, and musician from Ottawa, Canada.">
       <HomepageHeader />
     </Layout>
   );

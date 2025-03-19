@@ -6,7 +6,7 @@ hide_table_of_contents: false
 date: 2024-04-26T00:01
 ---
 
-*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) and [portfolio](/docs/portfolio/intro) in different areas of this site.* 
+*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) in a different area of this site.* 
 
 ## What's a mission?
 
@@ -119,13 +119,13 @@ It was a pain to clean and the kitchen reeked for a long time.
 
 #### Hospital visit
 
-Most people resented us when we knocked on their doors unannounced or stopped them on the street. We only did it because we felt it was important; nobody likes inconveniencing others and being rejected dozens of times a day. It's not like were getting paid or anything.
+Most people resented us when we knocked on their doors unannounced or stopped them on the street. We only did it because we felt it was important; nobody likes inconveniencing others and being rejected dozens of times a day. It's not like we were getting paid or anything.
 
 Consequently, we were constantly looking for better ways to find people willing to have us over. One day, we decided to start calling members of our branch who hadn't been to church in a long time. Maybe they were ready to start attending church again and had family members or friends who'd be interested in hearing our messages.
 
 We found out that a lady from our branch was in hospital, awaiting an important surgery. 
 
-"Is it OK if we pay you a visit to give you a blessing?," we asked her over the phone. She agreed, and we visited her that same day. Her boyfriend barely tolerated our presence in the hospital room, but he warmed up to us as we continue to visit their family after she was discharged. 
+"Is it OK if we pay you a visit to give you a blessing?," we asked her over the phone. She agreed, and we visited her that same day. Her boyfriend barely tolerated our presence in the hospital room, but he warmed up to us as we continued to visit their family after she was discharged. 
 
 The last I heard was that, soon after I left New Brunswick, they got married, he got baptized, and they were a happy family.
 

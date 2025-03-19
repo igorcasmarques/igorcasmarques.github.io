@@ -33,7 +33,7 @@ branch_names = {
 
 def build_website(folder_path):
     """Build the Docusaurus website from the source files."""
-
+    
     try:
         subprocess.run(["npm", "run", "build"], cwd=folder_path, check=True, shell=True)
         print("Docusaurus built the website successfully.")
