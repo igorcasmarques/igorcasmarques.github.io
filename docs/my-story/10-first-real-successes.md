@@ -6,8 +6,6 @@ hide_table_of_contents: false
 date: 2024-04-26T00:09
 ---
 
-*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) in a different area of this site.* 
-
 ## Being a young composer
 
 Our family returned to Amherst in January 2016. There was a severe snowstorm when we arrived at the airport but our cab driver seemed unfazed by the whiteout and the low fuel warning light on his dashboard.

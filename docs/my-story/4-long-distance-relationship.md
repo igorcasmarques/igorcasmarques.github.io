@@ -6,8 +6,6 @@ hide_table_of_contents: false
 date: 2024-04-26T00:03
 ---
 
-*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) in a different area of this site.* 
-
 ## In-person V-days
 
 After I was honourably released from my mission in May 2009, I met with [Elder Richard Scott](https://www.churchofjesuschrist.org/church/leader/richard-g-scott?lang=eng), a member of the [Quorum of Twelve Apostles](https://www.churchofjesuschrist.org/learn/quorum-of-the-twelve-apostles?lang=eng). Among other things, he told me that my next priority should be finding an "eternal companion." 

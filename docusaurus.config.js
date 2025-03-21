@@ -40,8 +40,10 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: './sidebars.js',
         },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -49,29 +51,12 @@ const config = {
     ],
   ],
 
-  plugins: [
-    [
-      '@docusaurus/plugin-content-blog',
-      {
-        id: 'my-story',
-        routeBasePath: 'my-story',
-        path: './my-story',
-        blogTitle: 'My story',
-        blogDescription: 'This is a (somewhat) brief account of my adult life.',
-        blogSidebarTitle: 'Chapters',
-        blogSidebarCount: 'ALL',
-        postsPerPage: 1,
-        authorsMapPath: '../blog/authors.yml',
-        sortPosts: 'ascending',
-      },
-    ],
-  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadata: [
-        {name: 'keywords', content: 'technical writer, ottawa, blog'},
+        {name: 'keywords', content: 'technical writer, ottawa'},
       ],
       docs: {
         sidebar: {
@@ -93,10 +78,11 @@ const config = {
         },
         items: [
           {
-            to: 'docs/resume/intro',
+            to: 'resume/work-experience',
             label: 'Resume',
             position: 'left'
           },
+
           {
             to: 'my-story/from-curitiba-to-provo',
             label: 'My story',
@@ -110,11 +96,6 @@ const config = {
           {
             to: 'https://www.linkedin.com/in/icasm/',
             label: 'LinkedIn',
-            position: 'right'
-          },
-          {
-            to: 'https://github.com/igorcasmarques',
-            label: 'GitHub',
             position: 'right'
           },
         ],

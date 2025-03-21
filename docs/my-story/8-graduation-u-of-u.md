@@ -6,8 +6,6 @@ hide_table_of_contents: false
 date: 2024-04-26T00:07
 ---
 
-*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) in a different area of this site.* 
-
 ## Time for a PhD
 
 Only three of the 10 doctoral programs I applied to advanced me to the next round in the application process: the [University of California, Los Angeles](https://schoolofmusic.ucla.edu/academics/music/composition-ma-phd/) (UCLA); the [Graduate Center of the City University of New York](https://www.gc.cuny.edu/music/curriculum-and-degree-information/composition-concentration) (CUNY); and the [University at Buffalo](https://www.buffalo.edu/grad/programs/music-composition-phd.html) (UB).

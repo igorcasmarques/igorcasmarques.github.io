@@ -4,24 +4,37 @@ title: Work Experience
 description: My past employers
 slug: work-experience
 sidebar_label: 'Work Experience'
+pagination_prev: null
 sidebar_position: 0
 ---
 
 # Work Experience
 
+I'm a writer from Ottawa, Canada 🇨🇦
+
 I have over 12 years of experience in information development and communicating complex ideas in simple, clear language.
 
-## Communications Officer, Technical Writer & Multimedia Officer
+Download my [one-page resume](@site/static/resume/igor-marques-resume.pdf) or keep reading to learn more about me.
 
-**Duration**: May 2024-Present   
-**Employer**: [Algonquin College](https://www.algonquincollege.com/) ([Advancement & Strategy](https://www.algonquincollege.com/advancement/about-us/), [R3 Project](https://www.algonquincollege.com/r3/r3-project/))    
+## Communications Officer
+
+**Duration**: Dec 2024-Present   
+**Employer**: [Algonquin College](https://www.algonquincollege.com/) ([Advancement & Strategy](https://www.algonquincollege.com/advancement/about-us/))    
 **Location**: Ottawa, ON
 
-- Write and edit time-sensitive communications for the [Vice President, Advancement and Strategy](https://www.algonquincollege.com/advancement/vps-office/), and the Director of Philanthropy
-- Use MS Office, Adobe Suite, and WordPress to create on-brand templates for proposals, reports, forms, and other informative and persuasive content
-- Produce written content for a team that reached 123% goal in donations
+- Write and edit time-sensitive communications for the [Vice President, Advancement and Strategy](https://www.algonquincollege.com/advancement/vps-office/), and the Director of Philanthropy 
+  - Comms include press releases, newsletters, social media posts, email campaigns, etc.
+- Use MS Office, Adobe Suite, and WordPress to create on-brand templates for proposals, reports, and forms
+- Maintain the team's WordPress site, which has contributed to 123% goal in donations in 2024-2025
 - Resuscitate social media efforts with content that has garnered 6x more engagement
-- Develop interactive and story-centred technical content, including [web articles](https://www.algonquincollege.com/r3/news-events/) and email announcements, that attracted 37% more web visitors in 6 months
+
+## Technical Writer
+
+**Duration**: May 2024-Dec 2024   
+**Employer**: [Algonquin College](https://www.algonquincollege.com/) ([R3 Project](https://www.algonquincollege.com/r3/r3-project/))    
+**Location**: Ottawa, ON
+
+- Develop interactive, gamified, and story-centred technical content, including [web articles](https://www.algonquincollege.com/r3/news-events/) and email announcements, that attracted 30,000 visits and 37% more visitors to the team's website in 2024
 - Created, edited, and professionally narrated over 800 slides of Adobe Captivate slides for eLearning and corporate training materials
 
 
@@ -49,9 +62,9 @@ I have over 12 years of experience in information development and communicating 
 - Advised the thesis projects of 60% of the Music School’s first graduating class
 - Composed 10 new musical works and released a solo EP and a collaborative LP
 
-## Clinical Assistant Professor, Graduate Assistant
+## Clinical Assistant Professor
 
-**Duration**: Aug 2015-Jun 2020   
+**Duration**: Aug 2015-Jun 2019 (Graduate Assistant), Aug 2019-Jun 2020 (Clinical Assistant Professor)  
 **Employer**: [University at Buffalo](https://arts-sciences.buffalo.edu/music.html)  
 **Location**: Buffalo, NY
 - Published an [essay](https://ojs.library.osu.edu/index.php/engagingstudents/article/view/7694/6331) on the experience of teaching 17 courses in 13 terms

@@ -6,8 +6,6 @@ hide_table_of_contents: false
 date: 2024-04-26T00:01
 ---
 
-*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) in a different area of this site.* 
-
 ## What's a mission?
 
 During that first year at BYU, I got a call to serve as a full-time missionary for [The Church of Jesus Christ of Latter-Day Saints](https://www.churchofjesuschrist.org/) in New Jersey. I was to leave in May 2007.

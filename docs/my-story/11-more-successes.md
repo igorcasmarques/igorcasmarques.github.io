@@ -6,8 +6,6 @@ hide_table_of_contents: false
 date: 2024-04-26T00:10
 ---
 
-*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) in a different area of this site.* 
-
 ## *Escenas*
 
 The [Music Library](https://library.buffalo.edu/music/) was my happy place at [UB](https://www.buffalo.edu/). Whenever I needed to study, compose, prepare classes, listen to music, I just went to the Library. Sometimes I worked in a cubicle next to the street-facing windows, sometimes I worked on one of their wide solid wood tables. Either way, I was more productive in the Library than at home or in the windowless closet that was my assigned office space. 

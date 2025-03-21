@@ -6,8 +6,6 @@ hide_table_of_contents: false
 date: 2024-04-26T00:13
 ---
 
-*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) in a different area of this site.* 
-
 ## "Express" entry
 
 In the span of a week in the spring of 2020, Vero and I went from hoping things would miraculously work out in the US to losing all hope to wholeheartedly deciding to go to Canada instead.

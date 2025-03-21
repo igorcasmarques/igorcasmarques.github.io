@@ -6,8 +6,6 @@ hide_table_of_contents: false
 date: 2024-04-26T00:08
 ---
 
-*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) in a different area of this site.* 
-
 ## The Orem-Amherst move
 
 I arrived in Utah in late July 2015, while Vero and Samuel stayed behind in Chiguayante. My brother and a cousin of ours helped me put my family's stuff in a small container for a moving company to haul across the country for us, and I began the 3,100-km journey to Amherst on our beloved hatchback, a 2011 Nissan Versa.

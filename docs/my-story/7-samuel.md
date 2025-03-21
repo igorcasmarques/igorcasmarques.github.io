@@ -6,8 +6,6 @@ hide_table_of_contents: false
 date: 2024-04-26T00:06
 ---
 
-*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) in a different area of this site.* 
-
 ## Samuel's birth
 
 When we made it to hospital, a security guard rushed Vero in a wheelchair to her delivery room while I parked the car. I made my way up to Vero's room soon thereafter and saw hospital staffers hooking her up to medical equipment and asking all sorts of questions. They told us that Vero was well dilated and too far along the labour process to have an epidural, and that she was going to deliver the baby without anesthetics.

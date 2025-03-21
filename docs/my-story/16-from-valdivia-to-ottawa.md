@@ -6,8 +6,6 @@ hide_table_of_contents: false
 date: 2024-04-26T00:15
 ---
 
-*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) in a different area of this site.* 
-
 ## ¡Hola, Valdivia!
 
 When we arrived in Chile, Vero and the boys stayed with Karina's family in Linares while I went down to Valdivia with Felipe, Vero's brother, to furnish the apartment we had rented sight unseen. 
@@ -16,7 +14,7 @@ I was only away for a few days, but Elias didn't take my absence well and side-e
 
 ## About Samuel
 
-About a month after our family had moved to Valdivia, Samuel turned eight years old. The baby who'd [struggled to be born](/7-samuel.md#hard-delivery) was now a healthy, active, imaginative, and sensitive boy, and I was immensely proud of him.
+About a month after our family had moved to Valdivia, Samuel turned eight years old. The baby who'd [struggled to be born](./7-samuel.md#hard-delivery) was now a healthy, active, imaginative, and sensitive boy, and I was immensely proud of him.
 
 ### Personality
 

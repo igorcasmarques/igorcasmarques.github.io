@@ -6,8 +6,6 @@ hide_table_of_contents: false
 date: 2024-04-26T00:16
 ---
 
-*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) in a different area of this site.* 
-
 ## RDP
 
 Life resumed quickly in Canada. 

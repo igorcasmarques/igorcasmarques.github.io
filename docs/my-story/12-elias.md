@@ -6,8 +6,6 @@ hide_table_of_contents: false
 date: 2024-04-26T00:11
 ---
 
-*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) in a different area of this site.* 
-
 ## Milestone
 
 Vero and I were born a month apart in 1988, so we'd both be turning 30 in 2018. For this special birthday, I wanted to give my wife two presents:

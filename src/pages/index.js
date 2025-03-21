@@ -7,8 +7,6 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
-import CurrentlyReading from '../components/currently-reading';
-
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -25,7 +23,7 @@ function HomepageHeader() {
           <div className={styles.buttons}>
             <Link
               className="button button--secondary button--lg"
-              to="/docs/resume/intro">
+              to="/resume/work-experience">
               Learn more &#8594;
             </Link>
           </div>

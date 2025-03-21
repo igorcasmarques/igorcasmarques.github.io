@@ -6,8 +6,6 @@ hide_table_of_contents: false
 date: 2024-04-26T00:04
 ---
 
-*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) in a different area of this site.* 
-
 ## Fear of failure
 
 I turned 23 in 2011 but didn't feel like an adult. In my mind, I was still the wide-eyed teenager from Curitiba. I didn't have a clear artistic voice, my portfolio was unremarkable, and my creative output was mutating from "impressive for my age" to "not sure how this will help me get a job" and "maybe I should've become a diplomat like my dad wanted."

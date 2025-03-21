@@ -6,8 +6,6 @@ hide_table_of_contents: false
 date: 2024-04-26T00:14
 ---
 
-*This is a memoir of my adult life. You can find my [resume](/docs/resume/intro) in a different area of this site.* 
-
 ## UACh (Year 1)
 
 In early 2021, I was hired as *Profesor Auxiliar* at [UACh](https://www.uach.cl/)'s [School of Music and Sound Arts](https://arquitectura-artes.uach.cl/escuela-de-artes-musicales-y-sonoras/). I was offered a one-year contract with the possibility of renewal pending a positive performance review and a unanimous vote by my fellow faculty members. On the third renewal, my contract would be made indeterminate.
@@ -42,7 +40,7 @@ Yet, working in a country and living in another is not really possible without d
 
 When I heard rumblings that in-person activities at UACh might resume in the spring (September-December), Vero and I pre-emptively booked our family's tickets to Chile. Her sister Karina lived in [Linares](https://en.wikipedia.org/wiki/Linares,_Chile), a medium-sized town in [Maule Region](https://en.wikipedia.org/wiki/Maule_Region), and offered to share her house with us while we waited for UACh to make an official announcement.
 
-If UACh reinstated in-person classes, we'd already be in Chile, and thus ready to move to Valdivia. If they didn't, we'd visit Vero's family in Linares and Concepción and then go back to Brazil. Either way, our family was looking forward to spending the week-long [*Fiestas Patrias* holidays](https://en.wikipedia.org/wiki/Fiestas_Patrias_(Chile)) with Vero's family, something she'd been wanting to do since she [left Chile](/6-graduation-byu.md#veros-graduation) in 2012.
+If UACh reinstated in-person classes, we'd already be in Chile, and thus ready to move to Valdivia. If they didn't, we'd visit Vero's family in Linares and Concepción and then go back to Brazil. Either way, our family was looking forward to spending the week-long [*Fiestas Patrias* holidays](https://en.wikipedia.org/wiki/Fiestas_Patrias_(Chile)) with Vero's family, something she'd been wanting to do since she [left Chile](./6-graduation-byu.md#veros-graduation) in 2012.
 
 #### Working from (not my) home
 
