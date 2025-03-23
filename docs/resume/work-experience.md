@@ -30,7 +30,7 @@ Download my [one-page resume](@site/static/resume/igor-marques-resume.pdf) or ke
 
 ## Technical Writer
 
-**Duration**: May 2024-Dec 2024   
+**Duration**: May 2024-Dec 2024 (Contract)   
 **Employer**: [Algonquin College](https://www.algonquincollege.com/) ([R3 Project](https://www.algonquincollege.com/r3/r3-project/))    
 **Location**: Ottawa, ON
 
@@ -41,7 +41,7 @@ Download my [one-page resume](@site/static/resume/igor-marques-resume.pdf) or ke
 
 ## College Instructor
 
-**Duration**: Jan-Apr 2023   
+**Duration**: Jan 2023-Apr 2023 (Contract)   
 **Employer**: [Red Deer Polytechnic](https://rdpolytech.ca/)  
 **Location**: Red Deer, AB
 
