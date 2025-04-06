@@ -1,9 +1,6 @@
 ---
 title: 4. Long-distance relationship
 slug: long-distance-relationship
-authors: icasmarques
-hide_table_of_contents: false
-date: 2024-04-26T00:03
 ---
 
 ## In-person V-days

@@ -1,9 +1,6 @@
 ---
 title: 15. From Curitiba to Valdivia
 slug: from-curitiba-to-valdivia
-authors: icasmarques
-hide_table_of_contents: false
-date: 2024-04-26T00:14
 ---
 
 ## UACh (Year 1)

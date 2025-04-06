@@ -1,9 +1,6 @@
 ---
 title: 9. From Orem to Amherst
 slug: from-orem-to-amherst
-authors: icasmarques
-hide_table_of_contents: false
-date: 2024-04-26T00:08
 ---
 
 ## The Orem-Amherst move

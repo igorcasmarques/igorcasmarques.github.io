@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Writer and Communicator',
+    title: 'Storyteller',
     Svg: require('@site/static/img/technical-writer.svg').default,
     description: (
       <>
-        My style is simple and clear 
+        My style is simple and friendly 
       </>
     ),
   },
   {
-    title: 'Programmer',
+    title: 'Technical Writer',
     Svg: require('@site/static/img/programmer.svg').default,
     description: (
       <>
-        Pragmatic and always learning
+        Pragmatic and tech-savvy
       </>
     ),
   },
   {
-    title: 'Sound Artist',
+    title: 'Creative',
     Svg: require('@site/static/img/sound-artist.svg').default,
     description: (
       <>
-        I love noise and counterpoint
+        Well-tuned artistic sensibilities
       </>
     ),
   },

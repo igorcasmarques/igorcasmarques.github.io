@@ -1,9 +1,6 @@
 ---
 title: 2. Mission (Year 1)
 slug: mission-year-one
-authors: icasmarques
-hide_table_of_contents: false
-date: 2024-04-26T00:01
 ---
 
 ## What's a mission?

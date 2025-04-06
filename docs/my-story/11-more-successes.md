@@ -1,9 +1,6 @@
 ---
 title: 11. More successes
 slug: more-successes
-authors: icasmarques
-hide_table_of_contents: false
-date: 2024-04-26T00:10
 ---
 
 ## *Escenas*

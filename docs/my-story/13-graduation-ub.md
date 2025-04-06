@@ -1,9 +1,6 @@
 ---
 title: 13. Graduation (UB)
 slug: graduation-ub
-authors: icasmarques
-hide_table_of_contents: false
-date: 2024-04-26T00:12
 ---
 
 ## Finally

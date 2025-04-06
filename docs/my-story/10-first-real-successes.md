@@ -1,9 +1,6 @@
 ---
 title: 10. First real successes
 slug: first-real-successes
-authors: icasmarques
-hide_table_of_contents: false
-date: 2024-04-26T00:09
 ---
 
 ## Being a young composer

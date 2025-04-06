@@ -1,9 +1,6 @@
 ---
 title: 1. From Curitiba to Provo
 slug: from-curitiba-to-provo
-authors: icasmarques
-hide_table_of_contents: false
-date: 2024-04-26T00:00
 ---
 
 *This is a memoir of my adult life. You can find my [resume](/resume/work-experience) in a different area of this site.* 

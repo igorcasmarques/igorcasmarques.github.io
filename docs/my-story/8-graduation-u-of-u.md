@@ -1,9 +1,6 @@
 ---
 title: 8. Graduation (U of U)
 slug: graduation-u-of-u
-authors: icasmarques
-hide_table_of_contents: false
-date: 2024-04-26T00:07
 ---
 
 ## Time for a PhD

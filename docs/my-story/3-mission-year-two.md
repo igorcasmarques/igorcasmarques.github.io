@@ -1,9 +1,6 @@
 ---
 title: 3. Mission (Year 2)
 slug: mission-year-two
-authors: icasmarques
-hide_table_of_contents: false
-date: 2024-04-26T00:02
 ---
 
 ## Long Branch
