@@ -64,23 +64,23 @@ Yet, somehow, I was admitted to start in the fall of that same year. My father m
 
 ### Naïveté
 
-In August 2006, I quit my studies in Curitiba and went to Provo with my mother. With the help of my cousins, I rented a shared room a few blocks away from campus and my mother helped me furnish whatever little space I had. A few days later, she went back home and my solo adult life began in earnest.
+In August 2006, I quit my studies in Curitiba and went to Provo. With the help of my cousins, I rented a shared room a few blocks away from campus and my mother, who had travelled with me, helped me furnish whatever little space I had. A few days later, she went back home and my solo adult life began in earnest.
 
 That first year at BYU was very confusing. I didn't understand a whole lot about what was happening. For example, I didn't know that I had to:
 
 - Enrol in courses by myself, taking care to avoid double-booking or conflicts with my work schedule.
-- Submit a separate application to the program that I wanted to join, music theory and composition. That threw me for a loop.
+- Apply and be admitted to the program I wanted to join, music theory and composition. I thought I was in the program already.
 - Plan how my courses would fulfill university-wide and program-specific requirements. I didn't have to worry about that in Brazil because our universities assigned all students the same course schedule.
 
 I also didn't know any of the higher-ed lingo, e.g., undergraduate vs. graduate, and I didn't understand how these words related to my reality. What was the difference between teaching assistants (TAs), adjunct faculty, and full-time professors? I played it safe and just addressed everyone by the title of "Dr."
 
-All I knew for certain was that my family expected me to get good marks, qualify for merit-based bursaries, find a part-time job, and leave on a mission for [The Church of Jesus Christ of Latter-Day Saints](https://www.churchofjesuschrist.org/) the following year. That was the path my older cousins had blazed for me.
+All I knew for certain was that my family expected me to get good marks, qualify for scholarships, find a part-time job, and leave on a mission for [The Church of Jesus Christ of Latter-Day Saints](https://www.churchofjesuschrist.org/) the following year. That was the path my older cousins had blazed for me.
 
 ### My first jobs
 
 In November, I landed my first real job ever. I worked in the cafeteria of the [Provo Missionary Training Center](https://provo.mtc.byu.edu/). My duties were straightforward: clean the kitchen and serving areas and restock chafing dishes that were running low. Despite the simplicity, I was never trained how I thought I should've been, and I often felt lost in the job. It certainly didn't help that I earned minimum wage and not a cent more.
 
-A few months later, a cousin of mine who worked for [BYU Broadcasting](https://www.byutv.org/) got me an interview for a job as an English-Portuguese translator. Their boss offered me 25¢ above minimum wage, and I accepted without hesitation. My cousin became my supervisor and mentor for my four-month stint at that job and we often hung out together after work.
+A few months later, a cousin of mine who worked for [BYU Broadcasting](https://www.byutv.org/) got me an interview for a job as an English-Portuguese translator. Their boss offered me ¢25 above minimum wage, and I accepted without hesitation. My cousin became my supervisor and mentor for my four-month stint at that job, and we often hung out together after work.
 
 ### Money stress
 
@@ -92,10 +92,8 @@ On Sundays, I went to my aunt's after church to enjoy my only decent, home-cooke
 
 With their permission, of course.
 
-In spite of this frugal regimen, there were a few times when I ran out of money a day or two before payday. When this happened, I powered through the hunger and didn't eat until I had money again. I didn't want to keep begging for food from my cousins. (I would've used credit cards if I knew what they were.[^1])
+Despite this frugal regimen, there were a few times when I ran out of money a day or two before payday. When this happened, I powered through the hunger and didn't eat until I had money again. I didn't want to keep begging for food from my cousins.
 
 When the cousin who worked with me found out I hadn't eaten in a while during one of these forced fasting sessions, they went to the pizza joint they side-gigged at and brought me a whole Hawaiian pizza, free of charge. Hawaiian has been my favourite kind of pizza ever since.
 
-I haven't talked to this cousin in over a decade. There seems to have been a dispute that caused some family members to sever ties with one another, but I wasn't in Utah when that happened. I don't know what was said, I don't know who was right or wrong, but I'll always remember this estranged cousin for his kindness toward me when I was a young man.
-
-[^1]: I did have a Best Buy credit card at the time, but I didn't know how it worked. My cousin helped me get it so I could "build my credit." I didn't know what that meant, and I only used the credit card once. I paid off the balance on the same day of the purchase and never used it again. To this day, I don't know if I could've used the card for non-Best Buy purchases.
+I haven't talked to this cousin in over a decade. There seems to have been a dispute that caused some family members to sever ties with one another, but I wasn't in Utah when that happened. I don't know what was said, I don't know who was right or wrong, but I'll always remember this estranged cousin for his kindness toward me when I was a young man.   

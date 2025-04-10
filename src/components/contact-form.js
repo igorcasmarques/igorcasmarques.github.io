@@ -20,7 +20,7 @@ function ContactForm() {
   };
 
   if (state.succeeded) {
-    return <p>Thanks for submitting a request!</p>;
+    return <p>We've received your form and will get in touch with you shortly!</p>;
   }
 
   return (
