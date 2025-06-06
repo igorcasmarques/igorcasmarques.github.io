@@ -1,6 +1,7 @@
 ---
 title: 15. From Curitiba to Valdivia
 slug: from-curitiba-to-valdivia
+draft: true
 ---
 
 ## UACh (Year 1)

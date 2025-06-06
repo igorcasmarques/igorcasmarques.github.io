@@ -1,6 +1,7 @@
 ---
 title: 12. Elias
 slug: elias
+draft: true
 ---
 
 ## Milestone

@@ -1,6 +1,7 @@
 ---
 title: 6. Graduation (BYU)
 slug: graduation-byu
+draft: true
 ---
 
 ## Back in Orem

@@ -1,6 +1,7 @@
 ---
 title: 8. Graduation (U of U)
 slug: graduation-u-of-u
+draft: true
 ---
 
 ## Time for a PhD

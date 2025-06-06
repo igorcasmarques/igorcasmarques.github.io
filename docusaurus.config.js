@@ -88,12 +88,14 @@ const config = {
             to: 'mudpuppy',
             label: 'Mudpuppy',
           },
+          /* Commenting out My Story for now (June 6, 2025)
           {
             type: 'doc',
             position: 'left',
             docId: 'my-story/from-curitiba-to-provo',
             label: 'My story',            
-          },
+          }, 
+          */
           {
             type: 'html',
             position: 'right',

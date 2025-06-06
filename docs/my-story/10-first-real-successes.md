@@ -1,6 +1,7 @@
 ---
 title: 10. First real successes
 slug: first-real-successes
+draft: true
 ---
 
 ## Being a young composer

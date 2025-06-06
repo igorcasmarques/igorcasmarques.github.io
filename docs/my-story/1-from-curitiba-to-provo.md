@@ -1,6 +1,7 @@
 ---
 title: 1. From Curitiba to Provo
 slug: from-curitiba-to-provo
+draft: true
 ---
 
 *This is a memoir of my adult life. You can find my [resume](/resume/work-experience) in a different area of this site.* 

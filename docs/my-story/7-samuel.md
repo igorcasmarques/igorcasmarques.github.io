@@ -1,6 +1,7 @@
 ---
 title: 7. Samuel
 slug: samuel
+draft: true
 ---
 
 ## Samuel's birth

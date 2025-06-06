@@ -6,7 +6,9 @@ draft: true
 
 ## 23rd semester in school
 
-After my mother went back home in late 2023, I had to find a way to handle the remaining coursework course schedule coincided with my sons' school hours, managing my time would be a non-issue. But my schedule and my sons' did not align.
+When my mother went back home in late 2023, I had to find a way to juggle taking care of the boys and finishing my technical writing studies. If my winter course schedule didn't coincide with my sons' school hours, managing my time would be a non-issue. But if it did, I'd have to be strategic.
+
+It didn't.
 
 I knew this would mean a dip in performance.
 

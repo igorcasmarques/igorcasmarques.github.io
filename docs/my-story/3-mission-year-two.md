@@ -1,6 +1,7 @@
 ---
 title: 3. Mission (Year 2)
 slug: mission-year-two
+draft: true
 ---
 
 ## Long Branch

@@ -1,6 +1,7 @@
 ---
 title: 14. From Amherst to Curitiba
 slug: from-amherst-to-curitiba
+draft: true
 ---
 
 ## "Express" entry

@@ -1,6 +1,7 @@
 ---
 title: 17. Back to school
 slug: back-to-school
+draft: true
 ---
 
 ## RDP

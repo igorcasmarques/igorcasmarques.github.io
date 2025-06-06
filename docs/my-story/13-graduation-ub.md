@@ -1,6 +1,7 @@
 ---
 title: 13. Graduation (UB)
 slug: graduation-ub
+draft: true
 ---
 
 ## Finally

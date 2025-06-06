@@ -1,6 +1,7 @@
 ---
 title: 2. Mission (Year 1)
 slug: mission-year-one
+draft: true
 ---
 
 ## What's a mission?

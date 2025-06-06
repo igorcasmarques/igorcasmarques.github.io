@@ -1,6 +1,7 @@
 ---
 title: 9. From Orem to Amherst
 slug: from-orem-to-amherst
+draft: true
 ---
 
 ## The Orem-Amherst move
