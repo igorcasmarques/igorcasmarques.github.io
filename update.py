@@ -112,7 +112,7 @@ def run_git(folder_path, commit_message, branch_name):
     
         # Push to origin
         try:
-            subprocess.run(["git", "push", "origin", branch_name], cwd=folder_path, check=True)
+            subprocess.run(["git", "push", "--force", "origin", branch_name], cwd=folder_path, check=True)
             print(f"Git pushed the {branch_name} branch.")
         except:
             print("Everything up-to-date. No need to push.")
