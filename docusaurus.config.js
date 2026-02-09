@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Igor Coelho A. S. Marques',
-  tagline: 'Clear, compelling writing that just clicks',
+  title: 'Igor Marques',
+  tagline: 'Clear writing that clicks instantly',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -83,18 +83,12 @@ const config = {
             docId: 'resume/work-experience',
             label: 'Resume',
           },
+          /* Commenting out the Mudpuppy form for now (February 9, 2026)
           {
             position: 'left',
             to: 'mudpuppy',
             label: 'Mudpuppy',
           },
-          /* Commenting out My Story for now (June 6, 2025)
-          {
-            type: 'doc',
-            position: 'left',
-            docId: 'my-story/from-curitiba-to-provo',
-            label: 'My story',            
-          }, 
           */
           {
             type: 'html',

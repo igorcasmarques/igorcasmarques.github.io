@@ -1,7 +1,7 @@
 ---
 id: work-experience
 title: Work Experience
-description: My past employers
+description: My work experience
 slug: work-experience
 sidebar_label: 'Work Experience'
 pagination_prev: null
@@ -12,7 +12,7 @@ sidebar_position: 0
 
 I'm a writer from Ottawa, Canada 🇨🇦
 
-I have over 12 years of experience in information development and communicating complex ideas in simple, clear language.
+I have over 14 years of experience in information development and communicating complex ideas in simple, clear language.
 
 Download my [one-page resume](@site/static/resume/igor-marques-resume.pdf) or keep reading to learn more about me.
 
@@ -22,11 +22,12 @@ Download my [one-page resume](@site/static/resume/igor-marques-resume.pdf) or ke
 **Employer**: [Algonquin College](https://www.algonquincollege.com/) ([Advancement & Strategy](https://www.algonquincollege.com/advancement/about-us/))    
 **Location**: Ottawa, ON
 
-- Write and edit time-sensitive communications for the [Vice President, Advancement and Strategy](https://www.algonquincollege.com/advancement/vps-office/), and the Director of Philanthropy 
-  - Comms include press releases, newsletters, social media posts, email campaigns, etc.
-- Use MS Office, Adobe Suite, and WordPress to create on-brand templates for proposals, reports, and forms
-- Maintain the team's WordPress site, which has contributed to 123% goal in donations in 2024-2025
-- Resuscitate social media efforts with content that has garnered 6x more engagement
+- Plan and develop web- and print-based communications materials for the [Vice President, Advancement and Strategy](https://www.algonquincollege.com/advancement/vps-office/) and their team
+  - Materials include [press releases](https://www.algonquincollege.com/news/2025/12/18/ford-of-canada-fuels-electric-vehicle-training-at-algonquin-college/), [websites](https://www.algonquincollege.com/advancement/featured-funds/), [reports](https://www.algonquincollege.com/advancement/files/2025/06/2024-2025-Donor-Report-Algonquin-College.pdf), proposals, forms, newsletters, social media posts, email campaigns, speeches, graphic assets, etc.
+- Use MS Office, Adobe Suite, and WordPress to create and distribute original content
+- Design brand-compliant templates for proposals, reports, forms, and letters
+- Manage an intense workload with dozens of simultaneous deliverables and competing deadlines
+- Assist in planning, coordinating, and recording major events, such as the [annual donor reception](https://algonquincollege.my.site.com/myacemployee/s/news-detail?c__id=a3hOG000002KaPZYA0)
 
 ## Technical Writer
 
@@ -34,7 +35,7 @@ Download my [one-page resume](@site/static/resume/igor-marques-resume.pdf) or ke
 **Employer**: [Algonquin College](https://www.algonquincollege.com/) ([R3 Project](https://www.algonquincollege.com/r3/r3-project/))    
 **Location**: Ottawa, ON
 
-- Develop interactive, gamified, and story-centred technical content, including [web articles](https://www.algonquincollege.com/r3/news-events/) and email announcements, that attracted 30,000 visits and 37% more visitors to the team's website in 2024
+- Develop [interactive, gamified, and story-centred technical content](https://www.algonquincollege.com/r3/play-a-thesis-sm-game-and-see-how-quickly-you-can-update-a-person-record/), including [web articles](https://www.algonquincollege.com/r3/news-events/) and email announcements, that attracted 30,000 visits and 37% more visitors to the team's website in 2024
 - Created, edited, and professionally narrated over 800 slides of Adobe Captivate slides for eLearning and corporate training materials
 
 
