@@ -43,7 +43,10 @@ const config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
         },
-        blog: false,
+        blog: {
+          showReadingTime: true,
+          blogTitle: 'Capital Noise',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -82,6 +85,11 @@ const config = {
             position: 'left',
             docId: 'resume/work-experience',
             label: 'Resume',
+          },
+          {
+            to: 'blog',
+            label: 'Capital Noise',
+            position: 'left',
           },
           /* Commenting out the Mudpuppy form for now (February 9, 2026)
           {
