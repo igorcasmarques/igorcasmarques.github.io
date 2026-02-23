@@ -3,7 +3,7 @@ title: Primeval Well
 description: This is my first post on Docusaurus.
 slug: primeval-well
 tags: [primeval well, avant garde bar, black metal, bluegrass]
-image: https://res.cloudinary.com/dopnll2lm/image/upload/v1771819212/capital-noise/copy_of_20260221_224014_yhjmqw_ce734e.jpg
+image: https://res.cloudinary.com/dopnll2lm/image/upload/v1771817386/igor-profile-2026_z9eyev.png
 hide_table_of_contents: false
 ---
 
