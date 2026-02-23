@@ -2,12 +2,6 @@
 title: Primeval Well
 description: This is my first post on Docusaurus.
 slug: primeval-well
-authors:
-  - name: Igor Coelho A. S. Marques
-    title: Writing about music in Ottawa
-    image_url: https://res.cloudinary.com/dopnll2lm/image/upload/v1771817386/igor-profile-2026_z9eyev.png
-    socials:
-      linkedin: icasm
 tags: [primeval well, avant garde bar, black metal, bluegrass]
 image: https://i.imgur.com/mErPwqL.png
 hide_table_of_contents: false
@@ -19,8 +13,6 @@ hide_table_of_contents: false
   <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1771816992/20260221_202713_gwhayt.jpg" style={{width: '70%'}} />
   <figcaption style={{fontSize: '0.8em'}}>My bathroom selfie at the Avant-Garde.</figcaption>
 </figure>
-
-<!-- truncate -->
 
 The show opened with [Gróa Willing](https://www.lastingtale.ca/), a local act that plays a sort of minimal, acoustic-only black metal. It was nice. Trance-like. They did four songs, which were all a little samey, but I liked it for what it was.
 
