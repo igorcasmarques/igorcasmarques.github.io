@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://igorcasmarques.github.io/blog</id>
+    <title>Igor Marques Blog</title>
+    <updated>2026-02-22T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://igorcasmarques.github.io/blog"/>
+    <subtitle>Igor Marques Blog</subtitle>
+    <icon>https://igorcasmarques.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Primeval Well]]></title>
+        <id>https://igorcasmarques.github.io/blog/primeval-well</id>
+        <link href="https://igorcasmarques.github.io/blog/primeval-well"/>
+        <updated>2026-02-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is my first post on Docusaurus.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://primevalwell.bandcamp.com/" target="_blank" rel="noopener noreferrer" class="">Primeval Well</a> headlined an intimate show at the <a href="https://avantgardebar.myshopify.com/" target="_blank" rel="noopener noreferrer" class="">Avant-Garde Bar</a> this past Saturday, February 21, 2026.</p>
+<figure style="text-align:center"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1771816992/20260221_202713_gwhayt.jpg" style="width:70%"><figcaption style="font-size:0.8em">My bathroom selfie at the Avant-Garde.</figcaption></figure>
+<p>The show opened with <a href="https://www.lastingtale.ca/" target="_blank" rel="noopener noreferrer" class="">Gróa Willing</a>, a local act that plays a sort of minimal, acoustic-only black metal. It was nice. Trance-like. They did four songs, which were all a little samey, but I liked it for what it was.</p>
+<p>Next up were <a href="https://www.facebook.com/Nirthal" target="_blank" rel="noopener noreferrer" class="">Nirthal</a>, also local and billed as "King Diamond worship." I didn't care much for their stuff, but others in the audience enjoyed it.</p>
+<p>Primeval Well played last. They were <strong>great</strong>. They played selections from their second LP, <a href="https://primevalwell.bandcamp.com/album/talkin-in-tongues-with-mountain-spirits" target="_blank" rel="noopener noreferrer" class=""><em>Talkin' in Tongues with Mountain Spirits</em></a> (2021). My favourite tracks were "She Flies Undead" and "Where All Things are Forgotten."</p>
+<figure style="text-align:center"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1771819212/capital-noise/copy_of_20260221_224014_yhjmqw_ce734e.jpg" style="width:70%"><figcaption style="font-size:0.8em">Primeval Well</figcaption></figure>
+<p>Primeval Well's shtick is mixing black metal and bluegrass, which sounds like a really strange pairing, but they make it work. They engage with Appalachian folk spirituality so earnestly, it elevates their brand of atmospheric black metal. Full marks from me.</p>
+<p>A special mention about <a href="https://daily.bandcamp.com/features/ryan-clackner-feature" target="_blank" rel="noopener noreferrer" class="">Ryan Clackner</a>, the band's guitarist, vocalist, and main creative force. You get a pretty good idea how inventive and well developed his playing is from the albums, but seeing it live is something else. And a great singer to boot. What a beast.</p>]]></content>
+        <author>
+            <name>Igor Coelho A. S. Marques</name>
+        </author>
+        <category label="primeval well" term="primeval well"/>
+        <category label="avant garde bar" term="avant garde bar"/>
+        <category label="black metal" term="black metal"/>
+        <category label="bluegrass" term="bluegrass"/>
+    </entry>
+</feed>

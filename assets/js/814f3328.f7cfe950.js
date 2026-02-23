@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkportfolio=globalThis.webpackChunkportfolio||[]).push([[472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Primeval Well","permalink":"/blog/primeval-well","unlisted":false,"date":"2026-02-22T00:00:00.000Z"}]}')}}]);
