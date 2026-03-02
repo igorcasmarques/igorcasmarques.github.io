@@ -2,17 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://igorcasmarques.github.io/blog</id>
     <title>Igor Marques Blog</title>
-    <updated>2026-02-22T00:00:00.000Z</updated>
+    <updated>2026-03-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://igorcasmarques.github.io/blog"/>
     <subtitle>Igor Marques Blog</subtitle>
     <icon>https://igorcasmarques.github.io/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[Rock, paper, scissors]]></title>
+        <id>https://igorcasmarques.github.io/blog/rock-paper-scissors</id>
+        <link href="https://igorcasmarques.github.io/blog/rock-paper-scissors"/>
+        <updated>2026-03-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kindness always wins.]]></summary>
+        <content type="html"><![CDATA[<p>Lately, I've been under pressure at work. Some of this pressure is caused by people who themselves are under pressure and take out their frustration on me.</p>
+<p>I believe this sort of trickle-down unkindness is a universal thing. Everyone who works experiences this at some point. I'm sorry if this sounds jaded.</p>
+<p>But personally, I refuse to perpetuate the cycle. I do my darnedest to keep my cool. Don't get defensive. Don't blame others. Focus on solutions and use words that uplift rather than tear down.</p>
+<p>I always ask myself, "If someone leaked the transcript of this interaction, would my conduct be irreproachable? Would my loved ones feel proud of how I reacted?"</p>
+<figure style="text-align:center"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1772463747/20260302_095326_ocva94.jpg" style="width:70%"><figcaption style="font-size:0.8em">I like how the light hits my curtains.</figcaption></figure>
+<p>I'm pushing forty. Technically middle-aged. I'm not naïve. I know anger is a powerful motivator. Anger can bring about change, even necessary change, like nothing else can. Maybe this is what the people who are angry with me think, that by being angry with me, they can spur me to become more competent.</p>
+<p>But I don't feel that way. I think anger is best directed at <em>systems</em>, not <em>people</em>. I've never solved—<em>really</em> solved—issues with people through anger. Quite the contrary. Some of my deepest regrets come from times when I failed to control my temper.</p>
+<p>Here's what I believe. Remember when we were kids and we'd play rock, paper, scissors, but add a random fourth element that always beat everything? I think mine was the t-rex. That's what kindness is to me. Yes, anger is useful, it can get stuff done, but it can't beat kindness.</p>
+<p>Kindness always wins.</p>]]></content>
+        <category label="work" term="work"/>
+        <category label="kindness" term="kindness"/>
+        <category label="musings" term="musings"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Primeval Well]]></title>
         <id>https://igorcasmarques.github.io/blog/primeval-well</id>
         <link href="https://igorcasmarques.github.io/blog/primeval-well"/>
         <updated>2026-02-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is my first post on Docusaurus.]]></summary>
+        <summary type="html"><![CDATA[Black metal and bluegrass go great together.]]></summary>
         <content type="html"><![CDATA[<p><a href="https://primevalwell.bandcamp.com/" target="_blank" rel="noopener noreferrer" class="">Primeval Well</a> headlined an intimate show at the <a href="https://avantgardebar.myshopify.com/" target="_blank" rel="noopener noreferrer" class="">Avant-Garde Bar</a> this past Saturday, February 21, 2026.</p>
 <figure style="text-align:center"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1771816992/20260221_202713_gwhayt.jpg" style="width:70%"><figcaption style="font-size:0.8em">My bathroom selfie at the Avant-Garde.</figcaption></figure>
 <p>The show opened with <a href="https://www.lastingtale.ca/" target="_blank" rel="noopener noreferrer" class="">Gróa Willing</a>, a local act that plays a sort of minimal, acoustic-only black metal. It was nice. Trance-like. They did four songs, which were all a little samey, but I liked it for what it was.</p>
