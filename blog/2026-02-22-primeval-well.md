@@ -2,7 +2,7 @@
 title: Primeval Well
 description: Black metal and bluegrass go great together.
 slug: primeval-well
-tags: [primeval well, avant garde bar, black metal, bluegrass]
+tags: [primeval well, avant-garde bar, black metal, bluegrass, ottawa]
 image: https://res.cloudinary.com/dopnll2lm/image/upload/v1771817386/igor-profile-2026_z9eyev.png
 hide_table_of_contents: false
 ---
