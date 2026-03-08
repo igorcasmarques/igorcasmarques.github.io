@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://igorcasmarques.github.io/blog</id>
     <title>Igor Marques Blog</title>
-    <updated>2026-03-02T00:00:00.000Z</updated>
+    <updated>2026-03-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://igorcasmarques.github.io/blog"/>
     <subtitle>Igor Marques Blog</subtitle>
     <icon>https://igorcasmarques.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Stanley's Farm]]></title>
+        <id>https://igorcasmarques.github.io/blog/stanleys-farm</id>
+        <link href="https://igorcasmarques.github.io/blog/stanleys-farm"/>
+        <updated>2026-03-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A visit to a sugar bush in late winter.]]></summary>
+        <content type="html"><![CDATA[<p>This weekend, I visited <a href="https://stanleysfarm.com/" target="_blank" rel="noopener noreferrer" class="">Stanley's Olde Maple Lane Farm</a> with my family. The farm's located in Edwards, a rural community south of Ottawa, which I'd never been to before. It was 8°C and rainy, but we had a good time.</p>
+<p>Stanley's main attraction is their sugar bush, which visitors can go through on a tractor ride. The ride was lovely and took a good 15 minutes. It went around much of the farm, not just through the sugar bush, and took us by the fields where the animals were. We saw horses, cows, donkeys, and sheep.</p>
+<figure style="text-align:center"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1773007912/20260307_131748_cot1rx.jpg" style="width:70%"><figcaption style="font-size:0.8em">Detail from a mural at the farm. Love the art style.</figcaption></figure>
+<p>We also saw animals at the barn. There was a two-day-old calf suckling nonstop. The calf's tail was up, which we were told was a sign of happiness. And there was a very pregnant ewe lying down in her stall. We could see the lamb(s) kicking inside her. She looked exhausted, but was still a few weeks away from lambing.</p>
+<p>There were also walking paths through the sugar bush, but we didn't take them. We were a little pressed for time and did not dress appropriately for trudging through the mud and melting snow. We were also a little let down that we couldn't collect sap from the tapped trees like they let guests do at <a href="https://thelogfarm.com/" target="_blank" rel="noopener noreferrer" class="">The Log Farm</a>.</p>
+<figure style="text-align:center"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1773007912/20260307_130123_nmfwec.jpg" style="width:70%"><figcaption style="font-size:0.8em">Sap vapour rising in the sugar shack.</figcaption></figure>
+<p>But the highlight of the visit was the historical sugar shack. It's a structure from the early 20th century that they keep running to entertain guests. The gentleman tending the fire told us it was the first boil of the year. The sweet vapour of evaporating sap permeated the air in and around the shack. It was very special, like being inside a cloud of maple syrup.</p>]]></content>
+        <category label="sugar bush" term="sugar bush"/>
+        <category label="ottawa" term="ottawa"/>
+        <category label="outing" term="outing"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rock, paper, scissors]]></title>
         <id>https://igorcasmarques.github.io/blog/rock-paper-scissors</id>
@@ -41,8 +58,9 @@
 <p>Primeval Well's shtick is mixing black metal and bluegrass, which sounds like a really strange pairing, but they make it work. They engage with Appalachian folk spirituality so earnestly, it elevates their brand of atmospheric black metal. Full marks from me.</p>
 <p>A special mention about <a href="https://daily.bandcamp.com/features/ryan-clackner-feature" target="_blank" rel="noopener noreferrer" class="">Ryan Clackner</a>, the band's guitarist, vocalist, and main creative force. You get a pretty good idea how inventive and well developed his playing is from the albums, but seeing it live is something else. And a great singer to boot. What a beast.</p>]]></content>
         <category label="primeval well" term="primeval well"/>
-        <category label="avant garde bar" term="avant garde bar"/>
+        <category label="avant-garde bar" term="avant-garde bar"/>
         <category label="black metal" term="black metal"/>
         <category label="bluegrass" term="bluegrass"/>
+        <category label="ottawa" term="ottawa"/>
     </entry>
 </feed>
