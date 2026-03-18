@@ -9,6 +9,8 @@ hide_table_of_contents: false
 
 [Primeval Well](https://primevalwell.bandcamp.com/) headlined an intimate show at the [Avant-Garde Bar](https://avantgardebar.myshopify.com/) this past Saturday, February 21, 2026.
 
+<!-- truncate -->
+
 <figure style={{textAlign: 'center'}}>
   <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1771816992/20260221_202713_gwhayt.jpg" style={{width: '70%'}} />
   <figcaption style={{fontSize: '0.8em'}}>My bathroom selfie at the Avant-Garde.</figcaption>

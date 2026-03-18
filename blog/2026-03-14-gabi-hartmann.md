@@ -9,6 +9,8 @@ hide_table_of_contents: false
 
 There was nothing inauspicious on Friday the 13th as [Gabi Hartmann](https://www.gabihartmannmusic.com/) took the [National Arts Centre](https://nac-cna.ca/en/)'s [Fourth Stage](https://nac-cna.ca/en/venue/fourth-stage) to present her eclectic, ear-candied brand of jazz. With her, a trio at the top of their game: [Florian Robin](https://www.instagram.com/florian_robin_kunz/) (piano), [Jérôme Arrighi](https://www.orchestrevictorhugo.fr/artistes/jerome-arrighi/) (bass), and [Arthur Alard](https://www.manusound.net/pages/bio.php?lang=de&mus=_bio/alard_a/) (drums).
 
+<!-- truncate -->
+
 <figure style={{textAlign: 'center'}}>
   <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1773531288/20260313_201253_icadkq.jpg" style={{width: '70%'}} />
   <figcaption style={{fontSize: '0.8em'}}>Hartmann and the trio.</figcaption>

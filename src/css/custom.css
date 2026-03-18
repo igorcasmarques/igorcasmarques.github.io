@@ -5,161 +5,36 @@
  */
 
 /* You can override the default Infima variables here. */
+
 :root {
-  --ifm-color-primary: #ad2f2f;
-  --ifm-color-primary-dark: #982b2b;
-  --ifm-color-primary-darker: #7b2121;
-  --ifm-color-primary-darkest: #721616;
-  --ifm-color-primary-light: #bc3535;
-  --ifm-color-primary-lighter: #cf3c3c;
-  --ifm-color-primary-lightest: #d25656;
+  --ifm-color-primary: #2e8555;
+  --ifm-color-primary-dark: #29784c;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33925d;
+  --ifm-color-primary-lighter: #359962;
+  --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #8ba4d6;
-  --ifm-color-primary-dark: #344399;
-  --ifm-color-primary-darker: #2d3b8c;
-  --ifm-color-primary-darkest: #24317b;
-  --ifm-color-primary-light: #4558c8;
-  --ifm-color-primary-lighter: #5466d1;
-  --ifm-color-primary-lightest: #6274dc;
+  --ifm-color-primary: #F5A800;
+  --ifm-color-primary-dark: #DC9700;
+  --ifm-color-primary-darker: #D09000;
+  --ifm-color-primary-darkest: #A37100;
+  --ifm-color-primary-light: #F7B824;
+  --ifm-color-primary-lighter: #F9C340;
+  --ifm-color-primary-lightest: #FBD36E;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-/* Hide dark mode toggle */
-.dark-mode-toggle {
-  display: none !important;
+.hero--primary {
+  background-color: #1b1b1d;
+  color: #e3e3e3;
 }
 
-/* Change link color on hover */
-a:hover {
-  color: #d75d5d !important;
+.hero--primary .hero__subtitle {
+  color: #e3e3e3;
 }
-
-/* Import font for Mudpuppy logo */
-@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&display=swap');
-
-.merriweather {
-  font-family: 'Merriweather Sans', sans-serif;
-  font-size: 48px;
-}
-
-/* Mudpuppy description */
-.mudpuppy-description {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-left: 15%;  
-  margin-right: 15%;  
-  font-size: 20px;
-}
-
-/* Mudpuppy contact form */
-.mudpuppy-form {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-left: 15%;  
-  margin-right: 15%; 
-  font-size: 14px;
-}
-
-.contact-form {
-  max-width: 600px;
-  margin: 0 auto;
-}
-
-.form-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  margin-bottom: 1rem;
-}
-
-.form-actions {
-  text-align: center;
-  gap: 1rem;
-  margin-bottom: 1rem;
-}
-
-
-.form-group {
-  flex: 1;
-  min-width: 200px;
-  display: flex;
-  flex-direction: column;
-}
-
-.full-width {
-  flex: 1 1 100%;
-}
-
-.half-width {
-  flex: 0 0.5 48%;
-}
-
-.length-input {
-  display: flex;
-  gap: 0.5rem;
-}
-
-.length-input input {
-  flex: 2;
-}
-
-.length-input select {
-  flex: 1;
-}
-
-.tooltip {
-  position: relative;
-  display: inline-block;
-  cursor: pointer;
-  background: #eee;
-  border-radius: 50%;
-  width: 1.2em;
-  height: 1.2em;
-  text-align: center;
-  line-height: 1.2em;
-  font-weight: bold;
-  font-size: 0.8em;
-  color: #333;
-}
-
-.tooltip-text {
-  visibility: hidden;
-  width: 250px;
-  background-color: #333;
-  color: #fff;
-  text-align: left;
-  border-radius: 4px;
-  padding: 0.5em;
-  position: absolute;
-  z-index: 1;
-  bottom: 125%;
-  left: 50%;
-  transform: translateX(-50%);
-  opacity: 0;
-  transition: opacity 0.2s;
-  font-size: 0.8em;
-}
-
-.tooltip:hover .tooltip-text {
-  visibility: visible;
-  opacity: 1;
-}
-
-.tooltip-text::after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: #333 transparent transparent transparent;
-}
-
