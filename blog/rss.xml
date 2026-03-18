@@ -4,10 +4,32 @@
         <title>Igor Marques Blog</title>
         <link>https://igorcasmarques.github.io/blog</link>
         <description>Igor Marques Blog</description>
-        <lastBuildDate>Sat, 14 Mar 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Balatro]]></title>
+            <link>https://igorcasmarques.github.io/blog/balatro</link>
+            <guid>https://igorcasmarques.github.io/blog/balatro</guid>
+            <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Just one more run.]]></description>
+            <content:encoded><![CDATA[<p>I love solitaire games like klondike and spider. So, when I saw that <a href="https://www.playbalatro.com/" target="_blank" rel="noopener noreferrer" class=""><em>Balatro</em></a>—a solitaire-like, poker-adjacent game—was sweeping the Internet, I decided to give it a try.</p>
+<figure style="text-align:center"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1773869080/Screenshot_2026-03-18_172319_r801ul.png" style="width:70%"><figcaption style="font-size:0.8em">This is spider. It tickles my brain.</figcaption></figure>
+<p><em>Balatro</em> is a playing card game, but I view it essentially as a strategy game. You manage scarce resources to overcome obstacles of increasing difficulty. It's easy to learn but very challenging—and very fun—to master.</p>
+<p>The game is organized by rounds. You beat a round by making poker hands that generate a minimum amount of points. When you beat the round, you earn some money and advance to the next round, where the points requirement goes up. Every third round, you get a sort of "boss round" with an added handicap but a larger payout.</p>
+<p>Between rounds, you go to the shop. That's where you spend money to build your deck. The shop deals a random assortment of Jokers and consummables each time you go there.</p>
+<figure style="text-align:center"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1773868520/balatro-shop_sndsui.png" style="width:70%"><figcaption style="font-size:0.8em"><i>Balatro</i>'s shop.</figcaption></figure>
+<p>Jokers are the lifeblood of <em>Balatro</em>. Each Joker has a unique ability like multiplying points or making money. The consummables—Tarot cards, Planet cards, Spectral cards, and vouchers—improve your performance by doing things like enhancing your cards or powering up poker hands.</p>
+<p>You can skip rounds, provided it's not a boss round. When you skip a round, you don't earn money and you don't visit the shop to improve your deck, but you get a tag with a special ability that can help you in other ways.</p>
+<p>The trick is knowing how to combine the effects of all these things—Jokers, consummables, and tags—to maximize your points so you can survive a run of 24 rounds. If you make it to the end of the run, you unlock a run of higher difficulty. And on and on it goes.</p>
+<p>But if you lose a round, then you lose all your progress and start over from the beginning of the run. In gaming, this genre of unforgiving gauntlet is called <em>roguelike</em>.</p>
+<figure style="text-align:center"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1773872249/Screenshot_2026-03-18_181545_wynioh.png" style="width:70%"><figcaption style="font-size:0.8em">I lost. Again.</figcaption></figure>
+<p>I initially thought the roguelike aspect would be demotivating, but it isn't. When I lose, I'm always eager to go back and try again. This is because the random Jokers you get early in a run tend to dictate your strategy for the rest of the run, so each run is unique and presents an opportunity to try a new strategy.</p>
+<p><em>Balatro</em> is super fun. I recommend it.</p>]]></content:encoded>
+            <category>balatro</category>
+            <category>video games</category>
+        </item>
         <item>
             <title><![CDATA[Gabi Hartmann]]></title>
             <link>https://igorcasmarques.github.io/blog/gabi-hartmann</link>
@@ -51,8 +73,7 @@
             <guid>https://igorcasmarques.github.io/blog/rock-paper-scissors</guid>
             <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Kindness always wins.]]></description>
-            <content:encoded><![CDATA[<p>Lately, I've been under pressure at work. Some of this pressure is caused by people who themselves are under pressure and take out their frustration on me.</p>
-<p>I believe this sort of trickle-down unkindness is a universal thing. Everyone who works experiences this at some point. I'm sorry if this sounds jaded.</p>
+            <content:encoded><![CDATA[<p>Lately, I've been under pressure at work. Some of this pressure is caused by people who themselves are under pressure and take out their frustration on me. I believe this sort of trickle-down unkindness is a universal thing. Everyone who works experiences this at some point. I'm sorry if this sounds jaded.</p>
 <p>But personally, I refuse to perpetuate the cycle. I do my darnedest to keep my cool. Don't get defensive. Don't blame others. Focus on solutions and use words that uplift rather than tear down.</p>
 <p>I always ask myself, "If someone leaked the transcript of this interaction, would my conduct be irreproachable? Would my loved ones feel proud of how I reacted?"</p>
 <figure style="text-align:center"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1772463747/20260302_095326_ocva94.jpg" style="width:70%"><figcaption style="font-size:0.8em">I like how the light hits my curtains.</figcaption></figure>
