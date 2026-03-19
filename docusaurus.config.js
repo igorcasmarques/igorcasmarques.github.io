@@ -88,7 +88,7 @@ const config = {
           },
           {
             to: 'blog',
-            label: 'Capital Noise',
+            label: 'Blog',
             position: 'left',
           },
           /* Commenting out the Mudpuppy form for now (February 9, 2026)
