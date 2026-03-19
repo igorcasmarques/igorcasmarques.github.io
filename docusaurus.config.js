@@ -75,7 +75,7 @@ const config = {
         title: 'Home',
         logo: {
           alt: 'Site logo',
-          src: 'img/logo.png',
+          src: 'img/logo-2.png',
           width: 32,
           height: 32,
         },
