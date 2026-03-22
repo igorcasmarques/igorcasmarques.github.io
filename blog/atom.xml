@@ -2,20 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://igorcasmarques.github.io/blog</id>
     <title>Igor Marques Blog</title>
-    <updated>2026-03-18T00:00:00.000Z</updated>
+    <updated>2026-03-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://igorcasmarques.github.io/blog"/>
     <subtitle>Igor Marques Blog</subtitle>
     <icon>https://igorcasmarques.github.io/img/favicon-2.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Quartier chinois]]></title>
+        <id>https://igorcasmarques.github.io/blog/quartier-chinois</id>
+        <link href="https://igorcasmarques.github.io/blog/quartier-chinois"/>
+        <updated>2026-03-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Montréal's Chinatown.]]></summary>
+        <content type="html"><![CDATA[<p>I go to Montréal semi-regularly, like 2–3 times a year. These trips tend to be very short.</p>
+<p>Just a quick there and back if I'm going to the Montréal Trudeau airport, or a day trip with the family where we leave in the morning and come home in time for dinner.</p>
+<p>This week was the first time I actually spent a night in Montréal. Two nights, in fact. The hotel was located in the <em>quartier chinois</em> (i.e. Chinatown), smack-dab in the city centre. Great location.</p>
+<p>I don't have much to say about Montréal. I see a lot of hype for the city online, but I haven't fallen in love with it yet. I like that I get to practice my French, though.</p>
+<p>Here are some pictures I took:</p>
+<figure style="text-align:center"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1774149999/rue-de-la-gauchetiere_v9bdbb.jpg" style="width:70%"><figcaption style="font-size:0.8em">Rue de la Gauchetière, as it cuts through Chinatown, where it takes the form of a pedestrian zone. Lots of shops and restaurants.</figcaption></figure>
+<figure style="text-align:center"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1774149999/snowy-spring_buoker.jpg" style="width:70%"><figcaption style="font-size:0.8em">View from the hotel room. I like how the snow, graffiti, and rooftop units create an urban landscape.</figcaption></figure>
+<figure style="text-align:center"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1774149999/onur-mural-lightbulb_gw2pcm.jpg" style="width:70%"><figcaption style="font-size:0.8em">Mural by <a href="https://www.onurpainting.com/" target="_blank">Onur</a>, an artist based in Switzerland. His style is a sort of stylized photorealism. The light bulb apparently <a href="https://streetartnews.net/2017/06/mural-festival-2017-onur-in-montreal.html" target="_blank">glows in black light</a>, but there's no black light installation there anymore.</figcaption></figure>]]></content>
+        <category label="montreal" term="montreal"/>
+        <category label="travel" term="travel"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Balatro]]></title>
         <id>https://igorcasmarques.github.io/blog/balatro</id>
         <link href="https://igorcasmarques.github.io/blog/balatro"/>
         <updated>2026-03-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Just one more run.]]></summary>
-        <content type="html"><![CDATA[<p>I love solitaire games like klondike and spider. So, when I saw that <a href="https://www.playbalatro.com/" target="_blank" rel="noopener noreferrer" class=""><em>Balatro</em></a>—a solitaire-like, poker-adjacent game—was sweeping the Internet, I decided to give it a try.</p>
-<figure style="text-align:center"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1773869080/Screenshot_2026-03-18_172319_r801ul.png" style="width:70%"><figcaption style="font-size:0.8em">This is spider. It tickles my brain.</figcaption></figure>
-<p><em>Balatro</em> is a playing card game, but I view it essentially as a strategy game. You manage scarce resources to overcome obstacles of increasing difficulty. It's easy to learn but very challenging—and very fun—to master.</p>
+        <content type="html"><![CDATA[<p>I love <a href="https://www.microsoftcasualgames.com/solitaire" target="_blank" rel="noopener noreferrer" class="">solitaire games</a> like Klondike and Spider. When I saw that <a href="https://www.playbalatro.com/" target="_blank" rel="noopener noreferrer" class=""><em>Balatro</em></a>, a poker-adjacent solitaire, was sweeping the Internet, I had to give it a try.</p>
+<figure style="text-align:center"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1773869080/Screenshot_2026-03-18_172319_r801ul.png" style="width:70%"><figcaption style="font-size:0.8em">This is Spider. It tickles my brain.</figcaption></figure>
+<p>As a solitaire, <em>Balatro</em> is a playing card game, but I view it essentially as a strategy game. You manage scarce resources to overcome obstacles of increasing difficulty. It's easy to learn but very challenging—and very fun—to master.</p>
 <p>The game is organized by rounds. You beat a round by making poker hands that generate a minimum amount of points. When you beat the round, you earn some money and advance to the next round, where the points requirement goes up. Every third round, you get a sort of "boss round" with an added handicap but a larger payout.</p>
 <p>Between rounds, you go to the shop. That's where you spend money to build your deck. The shop deals a random assortment of Jokers and consummables each time you go there.</p>
 <figure style="text-align:center"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1773868520/balatro-shop_sndsui.png" style="width:70%"><figcaption style="font-size:0.8em"><i>Balatro</i>'s shop.</figcaption></figure>
@@ -35,7 +52,8 @@
         <link href="https://igorcasmarques.github.io/blog/gabi-hartmann"/>
         <updated>2026-03-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Eclectic, polyglot jazz.]]></summary>
-        <content type="html"><![CDATA[<p>There was nothing inauspicious on Friday the 13th as <a href="https://www.gabihartmannmusic.com/" target="_blank" rel="noopener noreferrer" class="">Gabi Hartmann</a> took the <a href="https://nac-cna.ca/en/" target="_blank" rel="noopener noreferrer" class="">National Arts Centre</a>'s <a href="https://nac-cna.ca/en/venue/fourth-stage" target="_blank" rel="noopener noreferrer" class="">Fourth Stage</a> to present her eclectic, ear-candied brand of jazz. With her, a trio at the top of their game: <a href="https://www.instagram.com/florian_robin_kunz/" target="_blank" rel="noopener noreferrer" class="">Florian Robin</a> (piano), <a href="https://www.orchestrevictorhugo.fr/artistes/jerome-arrighi/" target="_blank" rel="noopener noreferrer" class="">Jérôme Arrighi</a> (bass), and <a href="https://www.manusound.net/pages/bio.php?lang=de&amp;mus=_bio/alard_a/" target="_blank" rel="noopener noreferrer" class="">Arthur Alard</a> (drums).</p>
+        <content type="html"><![CDATA[<p>On Friday the 13th, <a href="https://www.gabihartmannmusic.com/" target="_blank" rel="noopener noreferrer" class="">Gabi Hartmann</a> took the <a href="https://nac-cna.ca/en/" target="_blank" rel="noopener noreferrer" class="">National Arts Centre</a>'s <a href="https://nac-cna.ca/en/venue/fourth-stage" target="_blank" rel="noopener noreferrer" class="">Fourth Stage</a> to present her eclectic, ear-candied brand of jazz.</p>
+<p>With her, a trio at the top of their game: <a href="https://www.instagram.com/florian_robin_kunz/" target="_blank" rel="noopener noreferrer" class="">Florian Robin</a> (piano), <a href="https://www.orchestrevictorhugo.fr/artistes/jerome-arrighi/" target="_blank" rel="noopener noreferrer" class="">Jérôme Arrighi</a> (bass), and <a href="https://www.manusound.net/pages/bio.php?lang=de&amp;mus=_bio/alard_a/" target="_blank" rel="noopener noreferrer" class="">Arthur Alard</a> (drums).</p>
 <figure style="text-align:center"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1773531288/20260313_201253_icadkq.jpg" style="width:70%"><figcaption style="font-size:0.8em">Hartmann and the trio.</figcaption></figure>
 <p>For me, Hartmann's music is like a <strong>mango sorbet</strong>. It's like the tropical and the continental coming together to make something that's sweet, smooth, and everyone can enjoy.</p>
 <p>Much of her work is inspired by rhythms from Brazil, the Caribbean, and West Africa. A lot of gospel, too. The arrangements are sophisticated, but always accessible. Always voice- and melody-first. And her singing is so silky, even when it occasionally ventures into acrobatics.</p>
@@ -72,7 +90,8 @@
         <link href="https://igorcasmarques.github.io/blog/rock-paper-scissors"/>
         <updated>2026-03-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Kindness always wins.]]></summary>
-        <content type="html"><![CDATA[<p>Lately, I've been under pressure at work. Some of this pressure is caused by people who themselves are under pressure and take out their frustration on me. I believe this sort of trickle-down unkindness is a universal thing. Everyone who works experiences this at some point. I'm sorry if this sounds jaded.</p>
+        <content type="html"><![CDATA[<p>Lately, I've been under pressure at work. Some of this pressure is caused by people who themselves are under pressure and take out their frustration on me.</p>
+<p>I believe this sort of trickle-down unkindness is a universal thing. Everyone who works experiences this at some point. I'm sorry if this sounds jaded.</p>
 <p>But personally, I refuse to perpetuate the cycle. I do my darnedest to keep my cool. Don't get defensive. Don't blame others. Focus on solutions and use words that uplift rather than tear down.</p>
 <p>I always ask myself, "If someone leaked the transcript of this interaction, would my conduct be irreproachable? Would my loved ones feel proud of how I reacted?"</p>
 <figure style="text-align:center"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1772463747/20260302_095326_ocva94.jpg" style="width:70%"><figcaption style="font-size:0.8em">I like how the light hits my curtains.</figcaption></figure>
