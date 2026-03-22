@@ -7,9 +7,11 @@ image: https://res.cloudinary.com/dopnll2lm/image/upload/v1772463747/20260302_09
 hide_table_of_contents: false
 ---
 
-Lately, I've been under pressure at work. Some of this pressure is caused by people who themselves are under pressure and take out their frustration on me. I believe this sort of trickle-down unkindness is a universal thing. Everyone who works experiences this at some point. I'm sorry if this sounds jaded.
+Lately, I've been under pressure at work. Some of this pressure is caused by people who themselves are under pressure and take out their frustration on me.
 
 <!-- truncate -->
+
+I believe this sort of trickle-down unkindness is a universal thing. Everyone who works experiences this at some point. I'm sorry if this sounds jaded.
 
 But personally, I refuse to perpetuate the cycle. I do my darnedest to keep my cool. Don't get defensive. Don't blame others. Focus on solutions and use words that uplift rather than tear down.
 

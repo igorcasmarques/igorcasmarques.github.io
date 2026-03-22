@@ -45,7 +45,9 @@ const config = {
         },
         blog: {
           showReadingTime: true,
-          blogTitle: 'Capital Noise',
+          blogTitle: 'Blog',
+          blogSidebarTitle: 'All posts',
+          blogSidebarCount: 'ALL',
         },
         theme: {
           customCss: './src/css/custom.css',
