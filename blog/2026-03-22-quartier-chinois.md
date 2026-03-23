@@ -2,7 +2,7 @@
 title: Quartier chinois
 description: Montréal's Chinatown.
 slug: quartier-chinois
-tags: [montreal, travel]
+tags: [montreal, travel, chinatown]
 image: https://res.cloudinary.com/dopnll2lm/image/upload/v1774149999/rue-de-la-gauchetiere_v9bdbb.jpg
 hide_table_of_contents: false
 ---
@@ -13,7 +13,7 @@ I go to Montréal semi-regularly, like 2–3 times a year. These trips tend to b
 
 Just a quick there and back if I'm going to the Montréal Trudeau airport, or a day trip with the family where we leave in the morning and come home in time for dinner.
 
-This week was the first time I actually spent a night in Montréal. Two nights, in fact. The hotel was located in the *quartier chinois* (i.e. Chinatown), smack-dab in the city centre. Great location.
+This week was the first time I actually spent a night in Montréal. Two nights, in fact. The hotel was located in the *Quartier chinois* (i.e. Chinatown), smack-dab in the city centre. Great location.
 
 I don't have much to say about Montréal. I see a lot of hype for the city online, but I haven't fallen in love with it yet. I like that I get to practice my French, though.
 
