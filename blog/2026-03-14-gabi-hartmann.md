@@ -13,9 +13,9 @@ On Friday the 13th, [Gabi Hartmann](https://www.gabihartmannmusic.com/) took the
 
 With her, a trio at the top of their game: [Florian Robin](https://www.instagram.com/florian_robin_kunz/) (piano), [Jérôme Arrighi](https://www.orchestrevictorhugo.fr/artistes/jerome-arrighi/) (bass), and [Arthur Alard](https://www.manusound.net/pages/bio.php?lang=de&mus=_bio/alard_a/) (drums).
 
-<figure style={{textAlign: 'center'}}>
-  <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1773531288/20260313_201253_icadkq.jpg" style={{width: '70%'}} />
-  <figcaption style={{fontSize: '0.8em'}}>Hartmann and the trio.</figcaption>
+<figure className="blog-figure">
+  <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1773531288/20260313_201253_icadkq.jpg" />
+  <figcaption>Hartmann and the trio.</figcaption>
 </figure>
 
 For me, Hartmann's music is like a **mango sorbet**. It's like the tropical and the continental coming together to make something that's sweet, smooth, and everyone can enjoy.
@@ -26,9 +26,9 @@ The whole show was great, but I had two favourite moments. One was Robin's piano
 
 I recommend Hartmann's music without reservations, both the recordings and seeing it live with the jazz trio, which are quite different experiences.
 
-<figure style={{textAlign: 'center'}}>
-  <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1773456618/20260313_213106_cjg268.jpg" style={{width: '70%'}} />
-  <figcaption style={{fontSize: '0.8em'}}>Hartmann sat on the edge of the stage with the trio to sing her fourth and final encore.</figcaption>
+<figure className="blog-figure">
+  <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1773456618/20260313_213106_cjg268.jpg" />
+  <figcaption>Hartmann sat on the edge of the stage with the trio to sing her fourth and final encore.</figcaption>
 </figure>
 
 Lastly, a word about the venue. The Fourth Stage is a small venue at the NAC. It has all the trappings of a jazz club: atmospheric lighting, unassigned table seating, bar and drinks. The large street-facing windows also add to the ambiance as the bustle of the city bleeds into the venue.

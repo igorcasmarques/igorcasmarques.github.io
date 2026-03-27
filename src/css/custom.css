@@ -38,3 +38,21 @@
 .hero--primary .hero__subtitle {
   color: #e3e3e3;
 }
+
+.blog-figure {
+  text-align: center;
+}
+
+.blog-figure img {
+  width: 70%;
+}
+
+.blog-figure figcaption {
+  font-size: 0.8em;
+}
+
+@media (max-width: 768px) {
+  .blog-figure img {
+    width: 95%;
+  }
+}

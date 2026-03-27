@@ -17,9 +17,9 @@ But personally, I refuse to perpetuate the cycle. I do my darnedest to keep my c
 
 I always ask myself, "If someone leaked the transcript of this interaction, would my conduct be irreproachable? Would my loved ones feel proud of how I reacted?"
 
-<figure style={{textAlign: 'center'}}>
-  <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1772463747/20260302_095326_ocva94.jpg" style={{width: '70%'}} />
-  <figcaption style={{fontSize: '0.8em'}}>I like how the light hits my curtains.</figcaption>
+<figure className="blog-figure">
+  <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1772463747/20260302_095326_ocva94.jpg" />
+  <figcaption>I like how the light hits my curtains.</figcaption>
 </figure>
 
 I'm pushing forty. Technically middle-aged. I'm not naïve. I know anger is a powerful motivator. Anger can bring about change, even necessary change, like nothing else can. Maybe this is what the people who are angry with me think, that by being angry with me, they can spur me to become more competent.

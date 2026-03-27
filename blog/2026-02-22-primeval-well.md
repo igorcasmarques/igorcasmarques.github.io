@@ -11,9 +11,9 @@ hide_table_of_contents: false
 
 <!-- truncate -->
 
-<figure style={{textAlign: 'center'}}>
-  <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1771816992/20260221_202713_gwhayt.jpg" style={{width: '70%'}} />
-  <figcaption style={{fontSize: '0.8em'}}>My bathroom selfie at the Avant-Garde.</figcaption>
+<figure className="blog-figure">
+  <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1771816992/20260221_202713_gwhayt.jpg" />
+  <figcaption>My bathroom selfie at the Avant-Garde.</figcaption>
 </figure>
 
 The show opened with [Gróa Willing](https://www.lastingtale.ca/), a local act that plays a sort of minimal, acoustic-only black metal. It was nice. Trance-like. They did four songs, which were all a little samey, but I liked it for what it was.
@@ -22,9 +22,9 @@ Next up were [Nirthal](https://www.facebook.com/Nirthal), also local and billed 
 
 Primeval Well played last. They were **great**. They played selections from their second LP, [*Talkin' in Tongues with Mountain Spirits*](https://primevalwell.bandcamp.com/album/talkin-in-tongues-with-mountain-spirits) (2021). My favourite tracks were "She Flies Undead" and "Where All Things are Forgotten."
 
-<figure style={{textAlign: 'center'}}>
-  <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1771819212/capital-noise/copy_of_20260221_224014_yhjmqw_ce734e.jpg" style={{width: '70%'}} />
-  <figcaption style={{fontSize: '0.8em'}}>Primeval Well</figcaption>
+<figure className="blog-figure">
+  <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1771819212/capital-noise/copy_of_20260221_224014_yhjmqw_ce734e.jpg" />
+  <figcaption>Primeval Well</figcaption>
 </figure>
 
 Primeval Well's shtick is mixing black metal and bluegrass, which sounds like a really strange pairing, but they make it work. They engage with Appalachian folk spirituality so earnestly, it elevates their brand of atmospheric black metal. Full marks from me.

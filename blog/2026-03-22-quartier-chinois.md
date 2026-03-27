@@ -19,17 +19,17 @@ I don't have much to say about Montréal. I see a lot of hype for the city onlin
 
 Here are some pictures I took:
 
-<figure style={{textAlign: 'center'}}>
-  <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1774149999/rue-de-la-gauchetiere_v9bdbb.jpg" style={{width: '70%'}} />
-  <figcaption style={{fontSize: '0.8em'}}>Rue de la Gauchetière, as it cuts through Chinatown, where it takes the form of a pedestrian zone. Lots of shops and restaurants.</figcaption>
+<figure className="blog-figure">
+  <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1774149999/rue-de-la-gauchetiere_v9bdbb.jpg" />
+  <figcaption>Rue de la Gauchetière, as it cuts through Chinatown, where it takes the form of a pedestrian zone. Lots of shops and restaurants.</figcaption>
 </figure>
 
-<figure style={{textAlign: 'center'}}>
-  <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1774149999/snowy-spring_buoker.jpg" style={{width: '70%'}} />
-  <figcaption style={{fontSize: '0.8em'}}>View from the hotel room. I like how the snow, graffiti, and rooftop units create an urban landscape.</figcaption>
+<figure className="blog-figure">
+  <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1774149999/snowy-spring_buoker.jpg" />
+  <figcaption>View from the hotel room. I like how the snow, graffiti, and rooftop units create an urban landscape.</figcaption>
 </figure>
 
-<figure style={{textAlign: 'center'}}>
-  <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1774149999/onur-mural-lightbulb_gw2pcm.jpg" style={{width: '70%'}} />
-  <figcaption style={{fontSize: '0.8em'}}>Mural by <a href="https://www.onurpainting.com/" target="_blank">Onur</a>, an artist based in Switzerland. His style is a sort of stylized photorealism. The light bulb apparently <a href="https://streetartnews.net/2017/06/mural-festival-2017-onur-in-montreal.html" target="_blank">glows in black light</a>, but there's no black light installation there anymore.</figcaption>
+<figure className="blog-figure">
+  <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1774149999/onur-mural-lightbulb_gw2pcm.jpg" />
+  <figcaption>Mural by <a href="https://www.onurpainting.com/" target="_blank">Onur</a>, an artist based in Switzerland. His style is a sort of stylized photorealism. The light bulb apparently <a href="https://streetartnews.net/2017/06/mural-festival-2017-onur-in-montreal.html" target="_blank">glows in black light</a>, but there's no black light installation there anymore.</figcaption>
 </figure>
