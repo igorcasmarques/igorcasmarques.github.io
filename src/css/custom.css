@@ -51,8 +51,8 @@
   font-size: 0.8em;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .blog-figure img {
-    width: 95%;
+    width: 96%;
   }
 }
