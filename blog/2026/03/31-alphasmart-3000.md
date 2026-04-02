@@ -29,7 +29,7 @@ The screen isn't backlit. This means that typing in low light environments, like
   <figcaption>My drafting corner at home.</figcaption>
 </figure>
 
-When I'm done drafting, it's time to transfer the text to the computer. At first, I was really worried about this part. The AlphaSmart is basically ancient tech by now. I thought I'd have hardware compatibility issues. Or that the device would export a file in a weird and unsupported extension.
+When I'm done drafting, it's time to transfer the text to the computer. At first, I was really worried about this part. The AlphaSmart is basically ancient tech at this point. I thought I'd have hardware compatibility issues. Or that the device would export a file in a weird and unsupported extension.
 
 But the AlphaSmart is surprisingly future-proof. It uses a USB-B cable to connect to the computer, which is the same cable printers still use. When you plug the AlphaSmart in, the computer recognizes it as a plain keyboard. Then, you select the file that has your draft, hit the **send** key, and the AlphaSmart retypes the text on whatever program you have open.
 
