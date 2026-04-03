@@ -16,9 +16,9 @@ I love [solitaire games](https://www.microsoftcasualgames.com/solitaire) like Kl
   <figcaption>This is Spider. It tickles my brain.</figcaption>
 </figure>
 
-*Balatro* is a solitaire, a playing card game, but to me it is essentially a strategy game. You manage scarce resources to overcome obstacles of increasing difficulty. It's easy to learn *Balatro* but very challenging—and very fun—to master. 
+To me, *Balatro* is essentially a strategy game. Yes, it's a solitaire, a playing card game, a deck-building game, but the game's main thing is managing scarce resources to overcome obstacles of increasing difficulty. And that's strategy.
 
-The game is organized by rounds. You beat a round by making poker hands that generate a minimum amount of points. When you beat the round, you earn some money and advance to the next round, where the points requirement goes up. Every third round, you get a sort of "boss round" with an added handicap but a larger payout.
+It's easy to learn *Balatro* but very challenging—and very fun—to master. The game is organized by rounds. You beat a round by making poker hands that generate a minimum amount of points. When you beat the round, you earn some money and advance to the next round, where the points requirement goes up. Every third round, you get a sort of "boss round" with an added handicap but a larger payout.
 
 Between rounds, you go to the shop. That's where you spend money to build your deck. The shop deals a random assortment of Jokers and consummables each time you go there.
 
