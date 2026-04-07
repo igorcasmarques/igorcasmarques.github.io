@@ -7,7 +7,7 @@ image: https://res.cloudinary.com/dopnll2lm/image/upload/v1775503206/the-way-of-
 hide_table_of_contents: false
 ---
 
-One of my friends is a voracious reader. When he learned I did my [undergrad at Brigham Young University](/resume/education) (BYU), he asked me if I'd read anything by [Brandon Sanderson](https://www.dragonsteelbooks.com/), who teaches at BYU. I hadn't. He said I should. So I did. I picked up a copy of *The Way of Kings* (2010) on Boxing Day last year and finished it today.
+One of my friends is a voracious reader. When he learned I did my [undergrad at Brigham Young University](/resume/education) (BYU), he asked me if I'd read anything by [Brandon Sanderson](https://www.dragonsteelbooks.com/), who teaches at BYU. I hadn't. He said I should, and so I did. I picked up a copy of *The Way of Kings* (2010) on Boxing Day last year and finished it today.
 
 <!-- truncate -->
 
@@ -22,9 +22,9 @@ Yes, it's taken me over three months to finish the book. What can I say, I'm a s
 
 "Trust the process," I said to myself. Enjoy the ride. Sanderson isn't in a rush to tell the story, so why should I be in a rush to read it? "Journey before destination" is the book's self-stated theme. How apt.
 
-Once I settled into the book's rhythm, it was a great read. Four main story lines happen in parallel. There's a slave trying to overcome despair. A ruler whose idealism is costing him dearly. A young scholar hiding dark ulterior motives. And a superhuman assassin without free will.
+Once I settled into the book's rhythm, it was a great read. Four main story lines happen in parallel. There's a slave trying to overcome despair. A ruler whose idealism is costing him dearly. A young scholar hiding ulterior motives. And a superhuman assassin without free will.
 
-The fifth protagonist is the world itself. Sanderson is a master at worldbuilding. And the cool thing about the enormous word count is that by the end, you feel like you really know the world. I've spent so much time seeing the Shattered Plains with my mind's eye that I genuinely feel like I've been there.
+The fifth protagonist is the world itself. Sanderson is a master at worldbuilding. And the cool thing about the enormous word count is that by the end of the book, you feel like you really know the world. I've spent so much time seeing the Shattered Plains with my mind's eye that I genuinely feel like I've been there.
 
 Things come to a head in the last 20% of the book. The parallel stories collide, we reach a well-earned climax, we find answers to longstanding questions, and there are multiple plot twists.
 
