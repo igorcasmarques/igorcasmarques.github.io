@@ -2,11 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://igorcasmarques.github.io/blog</id>
     <title>Igor Marques Blog</title>
-    <updated>2026-03-31T00:00:00.000Z</updated>
+    <updated>2026-04-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://igorcasmarques.github.io/blog"/>
     <subtitle>Igor Marques Blog</subtitle>
     <icon>https://igorcasmarques.github.io/img/favicon-2.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Way of Kings]]></title>
+        <id>https://igorcasmarques.github.io/blog/the-way-of-kings</id>
+        <link href="https://igorcasmarques.github.io/blog/the-way-of-kings"/>
+        <updated>2026-04-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Very cool modern fantasy.]]></summary>
+        <content type="html"><![CDATA[<p>One of my friends is a voracious reader. When he learned I did my <a class="" href="https://igorcasmarques.github.io/resume/education">undergrad at Brigham Young University</a> (BYU), he asked me if I'd read anything by <a href="https://www.dragonsteelbooks.com/" target="_blank" rel="noopener noreferrer" class="">Brandon Sanderson</a>, who teaches at BYU. I hadn't. He said I should. So I did. I picked up a copy of <em>The Way of Kings</em> (2010) on Boxing Day last year and finished it today.</p>
+<figure class="blog-figure"><img alt="Picture of a well-worn copy of The Way of Kings." src="https://res.cloudinary.com/dopnll2lm/image/upload/v1775503206/the-way-of-kings_irgpiq.jpg"><figcaption>My well loved copy of <i>The Way of Kings</i>.</figcaption></figure>
+<p>Yes, it's taken me over three months to finish the book. What can I say, I'm a slow reader. But in my defence, the book is almost 1,300 pages long.</p>
+<p><em>The Way of Kings</em> wasn't easy at first. Not because the writing is dense or complicated. Not at all, actually. The writing is wonderfully to the point. Just how I like it. But for the first few hundred pages, you're jumping from story to story, character to character, timeline to timeline without feeling that these things connect in any meaningful way. It's a little dizzying.</p>
+<p>"Trust the process," I said to myself. Enjoy the ride. Sanderson isn't in a rush to tell the story, so why should I be in a rush to read it? "Journey before destination" is the book's self-stated theme. How apt.</p>
+<p>Once I settled into the book's rhythm, it was a great read. Four main story lines happen in parallel. There's a slave trying to overcome despair. A ruler whose idealism is costing him dearly. A young scholar hiding dark ulterior motives. And a superhuman assassin without free will.</p>
+<p>The fifth protagonist is the world itself. Sanderson is a master at worldbuilding. And the cool thing about the enormous word count is that by the end, you feel like you really know the world. I've spent so much time seeing the Shattered Plains with my mind's eye that I genuinely feel like I've been there.</p>
+<p>Things come to a head in the last 20% of the book. The parallel stories collide, we reach a well-earned climax, we find answers to longstanding questions, and there are multiple plot twists.</p>
+<p>Is the end exciting enough to justify the thousand pages before it? The answer: "Journey before destination."</p>]]></content>
+        <category label="reading" term="reading"/>
+        <category label="books" term="books"/>
+        <category label="brandon sanderson" term="brandon sanderson"/>
+        <category label="stormlight archive" term="stormlight archive"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alphasmart 3000]]></title>
         <id>https://igorcasmarques.github.io/blog/alphasmart-3000</id>
@@ -15,7 +35,7 @@
         <summary type="html"><![CDATA[My favourite writing tool.]]></summary>
         <content type="html"><![CDATA[<p>I have three portable, distraction-free devices. Two are laptop thermal typewriters, which I love. But my favourite is the <a href="https://en.wikipedia.org/wiki/AlphaSmart" target="_blank" rel="noopener noreferrer" class="">AlphaSmart 3000</a>, a dinky little word processor from the turn of the millennium.</p>
 <figure class="blog-figure"><img alt="AlphaSmart 3000 laying flat." src="https://res.cloudinary.com/dopnll2lm/image/upload/v1774973217/alphasmart-3000_yntbxp.jpg"><figcaption>AlphaSmart 3000</figcaption></figure>
-<p>The AlphaSmart 3000 is essentially a small keyboard with an LCD screen on top. It runs on three AA batteries, which last a very long time. I've used mine for countless hours, and the battery icon still shows 3/4 bars.</p>
+<p>The AlphaSmart 3000 is essentially a small keyboard with an LCD screen on top. It runs on three AA batteries, which last a very long time. I've used mine for countless hours, and the battery icon still shows 3.5/4 bars.</p>
 <p>The internal memory is capable of storing eight files, each file capable of holding the equivalent of a dozen typed pages. Since I use the AlphaSmart for drafting scenes, file size has never been an issue.</p>
 <p>The text appears on the LCD screen as you type, four lines at a time, 40 characters per line. Unlike a typewriter, you can type and re-type and fix mistakes freely. But the small display and slow navigation also prevents you from editing too much as you write. Best of both worlds, if you ask me.</p>
 <p>The screen isn't backlit. This means that typing in low light environments, like in bed, requires the use of a reading light. The upside is that the LCD screen looks pretty sharp in direct sunlight, so the AlphaSmart is great for writing outdoors.</p>
