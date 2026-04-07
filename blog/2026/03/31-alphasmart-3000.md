@@ -3,7 +3,7 @@ title: Alphasmart 3000
 description: My favourite writing tool.
 slug: alphasmart-3000
 tags: [writing, typewriter, alphasmart]
-image: https://res.cloudinary.com/dopnll2lm/image/upload/v1771817386/igor-profile-2026_z9eyev.png
+image: https://res.cloudinary.com/dopnll2lm/image/upload/v1774973217/alphasmart-3000_yntbxp.jpg
 hide_table_of_contents: false
 ---
 
@@ -16,7 +16,7 @@ I have three portable, distraction-free devices. Two are laptop thermal typewrit
   <figcaption>AlphaSmart 3000</figcaption>
 </figure>
 
-The AlphaSmart 3000 is essentially a small keyboard with an LCD screen on top. It runs on three AA batteries, which last a very long time. I've used mine for countless hours, and the battery icon still shows 3/4 bars.
+The AlphaSmart 3000 is essentially a small keyboard with an LCD screen on top. It runs on three AA batteries, which last a very long time. I've used mine for countless hours, and the battery icon still shows 3.5/4 bars.
 
 The internal memory is capable of storing eight files, each file capable of holding the equivalent of a dozen typed pages. Since I use the AlphaSmart for drafting scenes, file size has never been an issue.
 
