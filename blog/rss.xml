@@ -4,10 +4,27 @@
         <title>Igor Marques Blog</title>
         <link>https://igorcasmarques.github.io/blog</link>
         <description>Igor Marques Blog</description>
-        <lastBuildDate>Mon, 06 Apr 2026 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Pokémon Pokopia]]></title>
+            <link>https://igorcasmarques.github.io/blog/pokemon-pokopia</link>
+            <guid>https://igorcasmarques.github.io/blog/pokemon-pokopia</guid>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Just one more request.]]></description>
+            <content:encoded><![CDATA[<p>My family has an Easter tradition that I really like. When the kids wake up on Easter morning, they find a piece of paper in their room. This piece of paper has a clue. When they solve this clue, they discover the location of the next clue. After 8–10 clues, they find the big treasure: a basket filled with chocolate goodies and a video game.</p>
+<p>This Easter, the video game in the treasure basket was <em>Pokémon Pokopia</em>. I wanted something wholesome for the kids to play, and <em>Pokopia</em> seemed ideal for that. What's more, I saw that adults were having fun with the game too, and that it's been well received by critics.</p>
+<figure class="blog-figure"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1776122971/pokemon-pokopia_bpooj3.jpg"><figcaption><i>Pokémon Pokopia</i></figcaption></figure>
+<p><em>Pokopia</em> is a social simulation game. It combines the exploration and crafting of <em>Minecraft</em> with the vibes, aesthetic, and pacing of something like <em>Stardew Valley</em> or <em>Animal Crossing</em>.</p>
+<p>But <em>Pokopia</em> is not just a sandbox. There's a story that unfolds as you progress. A mystery that keeps you hooked.</p>
+<p>When you start the game, you wake up in a desolate world. There are no people and no Pokémon, only ruins of what used to be. As you clean up the environment, Pokémon start returning, one by one. They socialize with each other, request you to do things for them, and help you restore the world. And as you and your Pokémon friends work together, you uncover the game's lore.</p>
+<p>We're loving <em>Pokopia</em>.</p>]]></content:encoded>
+            <category>pokemon</category>
+            <category>pokopia</category>
+            <category>video games</category>
+        </item>
         <item>
             <title><![CDATA[The Way of Kings]]></title>
             <link>https://igorcasmarques.github.io/blog/the-way-of-kings</link>
