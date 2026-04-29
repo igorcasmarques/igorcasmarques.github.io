@@ -2,11 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://igorcasmarques.github.io/blog</id>
     <title>Igor Marques Blog</title>
-    <updated>2026-04-13T00:00:00.000Z</updated>
+    <updated>2026-04-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://igorcasmarques.github.io/blog"/>
     <subtitle>Igor Marques Blog</subtitle>
     <icon>https://igorcasmarques.github.io/img/favicon-2.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beauty]]></title>
+        <id>https://igorcasmarques.github.io/blog/beauty</id>
+        <link href="https://igorcasmarques.github.io/blog/beauty"/>
+        <updated>2026-04-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do we become attracted to older people when we get older ourselves?]]></summary>
+        <content type="html"><![CDATA[<p>Many young people share a common anxiety: when they get older, will they think people their age are attractive? Or will they continue to think only young people are attractive?</p>
+<figure class="blog-figure"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1777474226/trout-lily_jpie4s.jpg"><figcaption><i>Trout lily I saw at the <a href="https://ncc-ccn.gc.ca/places/stony-swamp/" target="_blank">Stony Swamp</a>. It's an ephemeral flower, so it'll be gone in a week or two.</i></figcaption></figure>
+<p>It's understandable and even healthy to worry about this. You might be afraid of falling out of love with a partner you find attractive today. Or you might be afraid of becoming creepy and inappropriate around young people when you're older.</p>
+<p>I've worried about this, too. Even now, in my late thirties. But I've also lived long enough to see that if you're well adjusted, everything's going to be fine. You're not going to think your long-term partner is suddenly repulsive just because they're older. You're not going to fall out of love.</p>
+<p>It's not that the standard of beauty changes. I'm not blind. I see the wrinkles. I see the signs of age. I still recognize that youth, vitality, and beauty are inherently linked.</p>
+<p>But what's changed for me is that beauty becomes less about looks and more about, well, everything else about a person. Things like their personality and temperament. The experiences you've shared together. How affectionate and supportive they are. And when these other things are good, you still find that person physically beautiful.</p>
+<p>It's like magic. Like, I can <em>honestly</em> say my wife has never been more beautiful, and I've never felt as attracted to her as I do now. And we've been together since we were 21.</p>]]></content>
+        <category label="aging" term="aging"/>
+        <category label="beauty" term="beauty"/>
+        <category label="relationships" term="relationships"/>
+        <category label="musings" term="musings"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pokémon Pokopia]]></title>
         <id>https://igorcasmarques.github.io/blog/pokemon-pokopia</id>
