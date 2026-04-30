@@ -13,7 +13,7 @@ Many young people share a common anxiety: when they get older, will they think p
 
 <figure className="blog-figure">
   <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1777474226/trout-lily_jpie4s.jpg" />
-  <figcaption><i>Trout lily I saw at the <a href="https://ncc-ccn.gc.ca/places/stony-swamp/" target="_blank">Stony Swamp</a>. It's an ephemeral flower, so it'll be gone in a week or two.</i></figcaption>
+  <figcaption>Trout lily I saw at the <a href="https://ncc-ccn.gc.ca/places/stony-swamp/" target="_blank">Stony Swamp</a>. It's an ephemeral flower, so it'll be gone in a week or two.</figcaption>
 </figure>
 
 It's understandable and even healthy to worry about this. You might be afraid of falling out of love with a partner you find attractive today. Or you might be afraid of becoming creepy and inappropriate around young people when you're older.

@@ -13,7 +13,7 @@ Desire paths are shortcuts in the dirt that people take because they're quicker 
 
 <figure className="blog-figure">
   <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1777491619/desire-line_zgoqql.jpg" />
-  <figcaption><i>Desire path at <a href="https://www.mapofottawa.com/neighbourhoods/ryan-farm-map-neighbourhood/" target="_blank">Ryan Farm Park</a>.</i></figcaption>
+  <figcaption>Desire path at <a href="https://www.mapofottawa.com/neighbourhoods/ryan-farm-map-neighbourhood/" target="_blank">Ryan Farm Park</a>.</figcaption>
 </figure>
 
 Like the picture above shows, desire paths tend to appear when a structured path takes the long way toward a goal. I always imagine the "official" path to be the two legs of a right triangle. Who can blame people for preferring the hypotenuse?
@@ -22,11 +22,11 @@ But desire paths are destructive. They represent our base instinct to minimize e
 
 So, who's to blame for desire paths? The people going off designated paths and literally trampling vegetation to death to save a bit of time? Or the planners, whose inefficient design are the reason why people can't help but beat a better path?
 
-I don't know. Probably a bit of both, depending on the case. 
+I don't know. Probably a bit of both, depending on the case.
 
 But what I've learned the other day is that well established desire paths show on Google Maps, and I thought that was kinda cool.
 
 <figure className="blog-figure">
   <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1777510492/desire-line-2_a7qi9t.png" />
-  <figcaption><i>The same desire path as above, but shown on Google Maps.</i></figcaption>
+  <figcaption>The same desire path as above as it appears on Google Maps.</figcaption>
 </figure>
