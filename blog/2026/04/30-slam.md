@@ -13,7 +13,7 @@ I'm looking forward to a concert next week here in Ottawa. I've been listening t
 
 On May 6, 2026, [Necroticgorebeast](https://www.instagram.com/necroticgorebeast/) is headlining a show at the Dominion Tavern. They're a slam band from Québec. 
 
-I'd say slam is death metal with a big emphasis on groove. It's got a lot of "chugging," which is I've heard the kids call super distorted, super low, syncopated, often palm-muted riffs. The vocal style is like your typical death growl but with an extra oomph so it sounds like pigs at a slaughterhouse. Lyrics are optional. Also, a lot of the imagery that inspires the genre is downright disgusting.
+I'd say slam is death metal with a big emphasis on groove. It's got a lot of "chugging," which is what I've heard the kids call super distorted, super low, syncopated, palm-muted riffs. Vocals are like your typical death growl but with an extra oomph so it sounds like pigs at a slaughterhouse. Lyrics are optional. Also, a lot of the imagery that inspires the genre is downright disgusting.
 
 <figure className="blog-figure">
   <img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1777570731/garden-gnome_qao4k8.jpg" />
