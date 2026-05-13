@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://igorcasmarques.github.io/blog</id>
     <title>Igor Marques Blog</title>
-    <updated>2026-04-30T00:00:00.000Z</updated>
+    <updated>2026-05-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://igorcasmarques.github.io/blog"/>
     <subtitle>Igor Marques Blog</subtitle>
     <icon>https://igorcasmarques.github.io/img/favicon-2.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Booj]]></title>
+        <id>https://igorcasmarques.github.io/blog/booj</id>
+        <link href="https://igorcasmarques.github.io/blog/booj"/>
+        <updated>2026-05-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[No, thanks.]]></summary>
+        <content type="html"><![CDATA[<p>Sadly, I couldn't go to <a href="https://www.instagram.com/necroticgorebeast/" target="_blank" rel="noopener noreferrer" class="">Necroticgorebeast</a>'s show last night. Life happened. Oh well. Maybe next time they come to town, I'll go and share my opinion here.</p>
+<p>In the meantime, I can share my thoughts on their newest single, "<a href="https://tr.ee/aW2ROxTqaP" target="_blank" rel="noopener noreferrer" class="">Cephalic Devourment Assimilation</a>."</p>
+<figure class="blog-figure"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1778617262/dont-even-think_gnd9ot.jpg"><figcaption>"Don't even think of parking here." One of my favourite street signs in Ottawa.</figcaption></figure>
+<p>For a band that aims to be the heaviest on Earth (seriously or ironically, I cannot tell), mission accomplished. The song is low, distorted, it's groovy, the title and associated artwork are super gory and evocative, the song goes from chugging riff to chugging riff, switching tempi and rhythmic patterns to keep things moving along. Check, check, check.</p>
+<p>But I have a pet peeve. Somewhere along the road, Necroticgorebeast discovered the <a href="https://www.20k.org/episodes/thebooj" target="_blank" rel="noopener noreferrer" class=""><em>booj</em></a>. You know, the cinematic sub bass drop that's a cliché of every movie trailer and blockbuster for the past 10, 15 years? Yeah, that. And I H-word it.</p>
+<p>As a production gimmick, the booj sorta ruins slam songs for me. Not only because it's a cliché, but because it emblematizes a more structural problem. Namely, a narrow understanding of what "heavy" is.</p>
+<p>When your musical syntax consists of a hodgepodge of super heavy riffs, one after another, how do you create relief and, therefore, some semblance of a narrative? How do you mark certain moments as more dramatically significant?</p>
+<p>If the answer is, "You add a booj to simulate going to infrasonic depths and being even heavier," you're going the wrong way. Sorry.</p>]]></content>
+        <category label="music" term="music"/>
+        <category label="booj" term="booj"/>
+        <category label="aesthetics" term="aesthetics"/>
+        <category label="necroticgorebeast" term="necroticgorebeast"/>
+        <category label="review" term="review"/>
+        <category label="death metal" term="death metal"/>
+        <category label="slam" term="slam"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Slam]]></title>
         <id>https://igorcasmarques.github.io/blog/slam</id>
