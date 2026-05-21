@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://igorcasmarques.github.io/blog</id>
     <title>Igor Marques Blog</title>
-    <updated>2026-05-17T00:00:00.000Z</updated>
+    <updated>2026-05-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://igorcasmarques.github.io/blog"/>
     <subtitle>Igor Marques Blog</subtitle>
     <icon>https://igorcasmarques.github.io/img/favicon-2.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dice a Million]]></title>
+        <id>https://igorcasmarques.github.io/blog/dice-a-million</id>
+        <link href="https://igorcasmarques.github.io/blog/dice-a-million"/>
+        <updated>2026-05-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Behold the rise of the balatrolike.]]></summary>
+        <content type="html"><![CDATA[<p>After sinking 150 hours into <a class="" href="https://igorcasmarques.github.io/blog/balatro">Balatro</a> and finally beating a deck on the hardest difficulty, I realized I really, <em>really</em> like roguelike games. Steam must have realized this too because they started recommending me roguelikes like crazy.</p>
+<p>One of these games was <a href="https://store.steampowered.com/app/3430340/Dice_A_Million/" target="_blank" rel="noopener noreferrer" class="">Dice a Million</a>, a "balatrolike" with dice.</p>
+<figure class="blog-figure"><img src="https://res.cloudinary.com/dopnll2lm/image/upload/v1779397611/Screenshot_2026-05-21_165419_hscy3q.png"><figcaption>Dice a Million</figcaption></figure>
+<p>Dice a Million's core mechanic is simple. Roll a number of dice and add their numbers. Repeat this a few times per round. If the sum of the rolled dice reaches the round's passing score, you clear the round and move on to the next round, where the passing score is higher.</p>
+<p>Between rounds, you're given opportunities to improve your dice. You can get more dice, buy cards for special effects, wear rings that improve rolls, get stamps that multiply certain numbers, etc. Then, every seventh round you find a boss that tests how well you've built your deck of cards—er, I mean, your <em>bag of dice</em>.</p>
+<p>In theory, that sounds a lot like Balatro. But Dice a Million has a serious balance problem. Difficulty ramps up exponentially and often unexpectedly, so much so that some bosses feel straight up unfair. Sometimes I can score millions of points, sometimes I can barely clear the first levels. It's hard to feel in control.</p>
+<p>If you like Balatro, Dice a Million will scratch that itch, but wait until it's on sale to buy it.</p>]]></content>
+        <category label="video games" term="video games"/>
+        <category label="roguelike" term="roguelike"/>
+        <category label="review" term="review"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Saunders Farm]]></title>
         <id>https://igorcasmarques.github.io/blog/saunders-farm</id>
@@ -215,6 +232,8 @@
         <category label="balatro" term="balatro"/>
         <category label="video games" term="video games"/>
         <category label="card games" term="card games"/>
+        <category label="review" term="review"/>
+        <category label="roguelike" term="roguelike"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gabi Hartmann]]></title>
